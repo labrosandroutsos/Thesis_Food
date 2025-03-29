@@ -1,0 +1,382 @@
+Cluster Comparison Results
+=========================
+
+Statistics:
+Total foods in reorganized clusters: 546
+Total foods in FlavorDB clusters: 683
+Foods in both: 430
+Foods only in reorganized: 116
+Foods only in FlavorDB: 253
+
+Foods only in reorganized clusters:
+- Agaricus (Common mushroom)
+- Artichoke (Globe)
+- Barbecue sauce
+- Basil
+- Bean (Various types)
+- Beetroot
+- Blueberry
+- Bread (White, Whole wheat, Rye, Pita, Potato, Raisin, Rice, Oat, Multigrain)
+- Breadnut
+- Breadsticks
+- Brussels sprouts
+- Buckwheat
+- Celeriac
+- Celery
+- Chestnut (European, Chinese, Japanese)
+- Chia seeds
+- Chocolate milk
+- Chutney
+- Cocktail sauce
+- Coconut oil
+- Coffee (as an ingredient)
+- Collard greens
+- Cookies
+- Corn (Sweet corn)
+- Corn oil
+- Cornmeal
+- Cottonseed oil
+- Cowpea
+- Crackers
+- Croissant
+- Cupuaçu
+- Custard
+- Dandelion greens
+- Doughnuts
+- Dragée
+- Egg products
+- Fermented foods (Miso, Natto, Tempeh)
+- Granola bars
+- Horseradish sauce
+- Hot sauce
+- Jam/Jelly
+- Kidney bean
+- Lard
+- Latte
+- Lobster
+- Lotus root
+- Lychee
+- Mayonnaise
+- Mint (Peppermint, Spearmint)
+- Muffins
+- Mustard greens
+- Noodles
+- Oatmeal
+- Oats
+- Octopus
+- Olive oil
+- Omelette
+- Onion
+- Orange
+- Oregano (Common, Mexican)
+- Palm oil
+- Pasta dishes
+- Peanut butter
+- Peanut oil
+- Peanuts
+- Peas
+- Pepper (Bell, Chili)
+- Persimmon (Common, Japanese)
+- Pesto
+- Pine nuts
+- Plum
+- Porridge
+- Pretzels
+- Pumpkin seeds
+- Raspberry (Black, Red)
+- Rhubarb
+- Rice (White, Brown, Red)
+- Rocket salad (Arugula)
+- Rutabaga
+- Safflower oil
+- Sage
+- Salmon (various species)
+- Salsa
+- Salsify
+- Sandwich
+- Savory (Summer, Winter)
+- Sea-buckthorn
+- Seaweed products
+- Sesame oil
+- Sesame seeds
+- Shea butter
+- Shea tree (Shea nuts)
+- Sherbet
+- Sorbet
+- Sour cream
+- Soy products (Soy yogurt, Soy cream)
+- Soy sauce
+- Soybean
+- Spaghetti
+- Squash (Butternut, Winter)
+- Sunflower oil
+- Sunflower seeds
+- Swiss chard
+- Tahini
+- Tapenade
+- Tea with milk
+- Thyme
+- Tomato
+- Trout
+- Truffle
+- Ucuhuba butter
+- Water chestnut
+- Watermelon
+- Wheat (Hard, Soft, Durum)
+- Yeast
+- Zucchini
+
+Foods only in FlavorDB:
+- Acorn
+- Agave
+- Alaska pollock
+- Alaska wild rhubarb
+- Allium
+- Alpine sweetvetch
+- American pokeweed
+- American shad
+- Anatidae
+- Angelica
+- Anguilliformes
+- Annual wild rice
+- Bean
+- Bearded seal
+- Beluga whale
+- Blackcurrant
+- Borage
+- Bowhead whale
+- Breakfast sandwich
+- Brussel sprouts
+- Buffalo currant
+- Butternut
+- Butternut squash
+- Capers
+- Carob
+- Carp bream
+- Casein
+- Catjang pea
+- Cherry tomato
+- Chestnut
+- Chia
+- Chinese chestnut
+- Chum salmon
+- Cisco
+- Citrus
+- Climbing bean
+- Clupeinae (Herring, Sardine, Sprat)
+- Cocoa bean
+- Coffee
+- Cold cut
+- Colorado pinyon
+- Common mushroom
+- Common octopus
+- Common oregano
+- Common persimmon
+- Common salsify
+- Common verbena
+- Corn
+- Corn chip
+- Corn grits
+- Corn salad
+- Cornmint
+- Cottonseed
+- Crisp bread
+- Cucurbita
+- Cupuacu
+- Cusk
+- Dandelion
+- Deerberry
+- Dolphin fish
+- Drag e
+- Elliott's blueberry
+- Enchilada
+- Energy drink
+- Epazote
+- European anchovy
+- European chestnut
+- Evening primrose
+- Fireweed
+- Fish oil
+- Fishes
+- Florida pompano
+- Focaccia
+- French plantain
+- Freshwater drum
+- Freshwater eel
+- Fruit gum
+- Fruit preserve
+- Fruit salad
+- Gadiformes
+- Gadus (Common cod)
+- Garden cress
+- Garfish
+- Garland chrysanthemum
+- Gefilte fish
+- Giant butterbur
+- Ginkgo nuts
+- Ginseng
+- Globe artichoke
+- Grass pea
+- Greater sturgeon
+- Green bean
+- Green turtle
+- Green zucchini
+- Greenland halibut/turbot
+- Greenthread tea
+- Grouper
+- Hard wheat
+- Heart of palm
+- Hedge mustard
+- Horned melon
+- Hyacinth bean
+- Ice cream cone
+- Icing
+- Japanese chestnut
+- Japanese persimmon
+- Japanese pumpkin
+- Junket
+- Jute
+- Kai-lan
+- Komatsuna
+- Lambsquarters
+- Leather chiton
+- Lemon sole
+- Lemon verbena
+- Lichee
+- Lima bean
+- Linden
+- Liquorice
+- Lotus
+- Lumpsucker
+- Malabar plum
+- Marzipan
+- Meat bouillon
+- Mexican groundcherry
+- Mexican oregano
+- Milkfish
+- Multigrain bread
+- Narrowleaf cattail
+- Natal plum
+- Natto
+- New Zealand spinach
+- North Pacific giant octopus
+- Norway haddock
+- Norway pout
+- Nuts
+- Nuttall cockle
+- Oat
+- Oat bread
+- Ocean pout
+- Ohelo berry
+- Oil palm
+- Orange roughy
+- Oregon yampah
+- Oriental wheat
+- Ostrich fern
+- Other alcoholic beverage
+- Other bread product
+- Other dish
+- Other fermented milk
+- Other fish product
+- Other frozen dessert
+- Other pasta dish
+- Other sandwich
+- Other snack food
+- Pan dulce
+- Pasta
+- Pate
+- Pepper
+- Pepper (C. baccatum)
+- Pepper (C. chinense)
+- Peppermint
+- Perciformes
+- Persimmon
+- Phyllo dough
+- Pie crust
+- Pineappple sage
+- Pita bread
+- Potato bread
+- Potato chip
+- Potato gratin
+- Potato puffs
+- Prairie turnip
+- Pummelo
+- Pumpkinseed sunfish
+- Purple mangosteen
+- Raisin bread
+- Red onion
+- Red raspberry
+- Red rice
+- Redcurrant
+- Rice
+- Rice bread
+- Rice cake
+- Ringed seal
+- Rocket salad
+- Roe
+- Rose wine
+- Roselle
+- Rowal
+- Rye bread
+- Sago palm
+- Salmonberry
+- Salt
+- Sauce
+- Sausage
+- Scarlet bean
+- Scup
+- Sesame
+- Sesbania flower
+- Shark
+- Shea tree
+- Silver linden
+- Skunk currant
+- Small-leaf linden
+- Snapper
+- Sorrel
+- Sour cherry
+- Sourdock
+- Sourdough
+- Soursop
+- Soy bean
+- Spanish mackerel
+- Sparkleberry
+- Spearmint
+- Spirit
+- Spot croaker
+- Spotted seal
+- Spread
+- Squashberry
+- Steller sea lion
+- Striped bass
+- Striped mullet
+- Succotash
+- Sugar
+- Sugar substitute
+- Summer savory
+- Sunflower
+- Swamp cabbage
+- Swordfish
+- Tapioca pearl
+- Tartary buckwheat
+- Tea leaf willow
+- Thistle
+- Tinda
+- Towel gourd
+- Trail mix
+- Tree fern
+- True frog
+- True seal
+- True sole
+- Turbot
+- Vegetarian food
+- Walrus
+- Welsh onion
+- Wheat
+- White bread
+- White lupine
+- Whole wheat bread
+- Winter savory
+- Winter squash
+- Wonton wrapper
+- Yautia

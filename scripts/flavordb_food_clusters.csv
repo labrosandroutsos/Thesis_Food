@@ -1,0 +1,937 @@
+food_name,cluster
+Agar,Additive
+Casein,Additive
+Cooking oil,Additive
+Fruit preserve,Additive
+Gelatin,Additive
+Gelatin dessert,Additive
+Icing,Additive
+Ketchup,Additive
+Leavening agent,Additive
+Margarine,Additive
+Margarine like spread,Additive
+Miso,Additive
+Molasses,Additive
+Pectin,Additive
+Salt,Additive
+Sauce,Additive
+Shortening,Additive
+Spirulina,Additive
+Spread,Additive
+Stuffing,Additive
+Sugar,Additive
+Sugar substitute,Additive
+Syrup,Additive
+Topping,Additive
+Water,Additive
+Egg,Animal Product
+Bagel,Bakery
+Bakery Products,Bakery
+Biscuit,Bakery
+Bread,Bakery
+Candy bar,Bakery
+Chocolate mousse,Bakery
+Corn chip,Bakery
+Focaccia,Bakery
+French toast,Bakery
+Fried Potato,Bakery
+Fudge,Bakery
+Marshmallow,Bakery
+Meringue,Bakery
+Multigrain bread,Bakery
+Oat bread,Bakery
+Other bread product,Bakery
+Pan dulce,Bakery
+Pasta,Bakery
+Phyllo dough,Bakery
+Pie crust,Bakery
+Piki bread,Bakery
+Pita bread,Bakery
+Potato bread,Bakery
+Potato chip,Bakery
+Raisin bread,Bakery
+Rice bread,Bakery
+Rye Bread,Bakery
+Tortilla chip,Bakery
+Wheaten Bread,Bakery
+White Bread,Bakery
+Wholewheat Bread,Bakery
+Wonton wrapper,Bakery
+Acerola,Berry
+Bayberry,Berry
+Berry,Berry
+Bilberry,Berry
+Bitter Cherry,Berry
+Black crowberry,Berry
+Black huckleberry,Berry
+Black mulberry,Berry
+Black raspberry,Berry
+Blackberry,Berry
+Blueberry,Berry
+Boysenberry,Berry
+Canada blueberry,Berry
+Cherry,Berry
+Cherry tomato,Berry
+Chinese bayberry,Berry
+Cloudberry,Berry
+Cranberry,Berry
+Deerberry,Berry
+Elliott's blueberry,Berry
+Gooseberry,Berry
+Groundcherry,Berry
+Jostaberry,Berry
+Lingonberry,Berry
+Loganberry,Berry
+Mexican groundcherry,Berry
+Mulberry,Berry
+Nanking cherry,Berry
+Ohelo berry,Berry
+Pitanga,Berry
+Raspberry,Berry
+Red raspberry,Berry
+Rowanberry,Berry
+Salmonberry,Berry
+Saskatoon berry,Berry
+Sea Buckthorns,Berry
+Sour Cherry,Berry
+Sparkleberry,Berry
+Squashberry,Berry
+Strawberry,Berry
+Strawberry Jam,Berry
+Wild Cherry,Berry
+Elderberry,Fruit-Berry
+Anise Brandy,Beverage Alcoholic
+Apple Brandy,Beverage Alcoholic
+Armagnac Brandy,Beverage Alcoholic
+Arrack,Beverage Alcoholic
+Bantu Beer,Beverage Alcoholic
+Beer,Beverage Alcoholic
+Berry wine,Beverage Alcoholic
+Beverage alcolohic other,Beverage Alcoholic
+Bilberry Wine,Beverage Alcoholic
+Blackberry Brandy,Beverage Alcoholic
+Botrytized Wine,Beverage Alcoholic
+Bourbon Whisky,Beverage Alcoholic
+Brandy,Beverage Alcoholic
+Canadian Whisky,Beverage Alcoholic
+Champagne,Beverage Alcoholic
+Cherry Brandy,Beverage Alcoholic
+Cider,Beverage Alcoholic
+Cognac Brandy,Beverage Alcoholic
+Finnish Whisky,Beverage Alcoholic
+Gin,Beverage Alcoholic
+Japanese Whisky,Beverage Alcoholic
+Madeira wine,Beverage Alcoholic
+Malt Whisky,Beverage Alcoholic
+Papaya Brandy,Beverage Alcoholic
+Pear Brandy,Beverage Alcoholic
+Plum Brandy,Beverage Alcoholic
+Plum Wine,Beverage Alcoholic
+Port Wine,Beverage Alcoholic
+Raspberry Brandy,Beverage Alcoholic
+Red Wine,Beverage Alcoholic
+Rose Wine,Beverage Alcoholic
+Rum,Beverage Alcoholic
+Sake,Beverage Alcoholic
+Scotch Whisky,Beverage Alcoholic
+Sherry,Beverage Alcoholic
+Sparkling Wine,Beverage Alcoholic
+Spirit,Beverage Alcoholic
+Strawberry Wine,Beverage Alcoholic
+Vermouth,Beverage Alcoholic
+Vodka,Beverage Alcoholic
+Weinbrand Brandy,Beverage Alcoholic
+Whisky,Beverage Alcoholic
+White Wine,Beverage Alcoholic
+Wine,Beverage Alcoholic
+Arabica coffee,Beverage Caffeinated
+Black Tea,Beverage Caffeinated
+Coffee,Beverage Caffeinated
+Coffee mocha,Beverage Caffeinated
+Green Tea,Beverage Caffeinated
+Mate,Beverage Caffeinated
+Roibos Tea,Beverage Caffeinated
+Cocktail,Beverage
+Energy drink,Beverage
+Fruit juice,Beverage
+Greenthread tea,Beverage
+Hibiscus tea,Beverage
+Horchata,Beverage
+Hot chocolate,Beverage
+Milkshake,Beverage
+Nutritional drink,Beverage
+Soft drink,Beverage
+Soy milk,Beverage
+Vegetable juice,Beverage
+Wort,Beverage
+Broccoli,Cabbage
+Brussels Sprout,Cabbage
+Cabbage,Cabbage
+Cauliflower,Cabbage
+Hedge mustard,Cabbage
+Horseradish,Cabbage
+Kai lan,Cabbage
+Kale,Cabbage
+Kohlrabi,Cabbage
+Komatsuna,Cabbage
+Mustard,Cabbage
+Pak choy,Cabbage
+Prairie turnip,Cabbage
+Rapini,Cabbage
+Swamp cabbage,Cabbage
+Wasabi,Cabbage
+Annual wild rice,Cereal
+Barley,Cereal
+Basmati Rice,Cereal
+Breakfast cereal,Cereal
+Bulgur,Cereal
+Crispbread,Cereal
+Flour,Cereal
+Hard wheat,Cereal
+Malt,Cereal
+Oats,Cereal
+Oriental wheat,Cereal
+Quinoa,Cereal
+Red rice,Cereal
+Rice,Cereal
+Rye,Cereal
+Semolina,Cereal
+Sorghum,Cereal
+Sourdough,Cereal
+Spelt,Cereal
+Tartary buckwheat,Cereal
+Triticale,Cereal
+Wheat,Cereal
+Wild rice,Cereal
+Blue Cheese,Dairy
+Butter,Dairy
+Buttermilk,Dairy
+Camembert Cheese,Dairy
+Cheddar Cheese,Dairy
+Cheese,Dairy
+Comte Cheese,Dairy
+Condensed milk,Dairy
+Cottage Cheese,Dairy
+Cream,Dairy
+Cream Cheese,Dairy
+Dairy Products,Dairy
+Domiati Cheese,Dairy
+Dulce de leche,Dairy
+Emmental Cheese,Dairy
+Evaporated milk,Dairy
+Feta Cheese,Dairy
+Ghee,Dairy
+Goat Cheese,Dairy
+Goat Milk,Dairy
+Gruyere Cheese,Dairy
+Junket,Dairy
+Kefir,Dairy
+Limburger Cheese,Dairy
+Milk,Dairy
+Milk Fat,Dairy
+Milk Human,Dairy
+Milk Powder,Dairy
+Mozzarella Cheese,Dairy
+Munster Cheese,Dairy
+Other Cheeses,Dairy
+Other fermented milk,Dairy
+Paneer,Dairy
+Parmesan Cheese,Dairy
+Provolone Cheese,Dairy
+Ricotta Cheese,Dairy
+Romano Cheese,Dairy
+Roquefort Cheese,Dairy
+Russian Cheese,Dairy
+Sheep Cheese,Dairy
+Sheep Milk,Dairy
+Skimmed Milk,Dairy
+Sweet custard,Dairy
+Swiss Cheese,Dairy
+Tilsit Cheese,Dairy
+Whey,Dairy
+Ymer,Dairy
+Yogurt,Dairy
+Adobo,Dish
+Akutaq,Dish
+Arepa,Dish
+Baked potato,Dish
+Breakfast sandwich,Dish
+Burrito,Dish
+Cake,Dish
+Chewing gum,Dish
+Chili,Dish
+Chimichanga,Dish
+Cold cut,Dish
+Couscous,Dish
+Drag\u00e9e,Dish
+Dumpling,Dish
+Egg roll,Dish
+Empanada,Dish
+Enchilada,Dish
+Falafel,Dish
+Fish burger,Dish
+Frankfurter Sausage,Dish
+Fruit gum,Dish
+Fruit salad,Dish
+Frybread,Dish
+Gefilte fish,Dish
+Hamburger,Dish
+Hot dog,Dish
+Hummus,Dish
+Hushpuppy,Dish
+Ice cream,Dish
+Ice cream cone,Dish
+Lasagna,Dish
+Macaroni and cheese,Dish
+Marzipan,Dish
+Meat bouillon,Dish
+Meatball,Dish
+Meatloaf,Dish
+Nachos,Dish
+Natto,Dish
+Nougat,Dish
+Other dish,Dish
+Other frozen dessert,Dish
+Other pasta dish,Dish
+Other sandwich,Dish
+Other snack food,Dish
+Pancake,Dish
+Pastry,Dish
+Pate,Dish
+Pie,Dish
+Pizza,Dish
+Pot pie,Dish
+Potato gratin,Dish
+Potato puffs,Dish
+Pudding,Dish
+Pupusa,Dish
+Quesadilla,Dish
+Ravioli,Dish
+Relish,Dish
+Remoulade,Dish
+Rice cake,Dish
+Salad,Dish
+Salad dressing,Dish
+Sausage,Dish
+Scrapple,Dish
+Snack bar,Dish
+Soup,Dish
+Soy cream,Dish
+Stew,Dish
+Succotash,Dish
+Taco,Dish
+Tamale,Dish
+Toffee,Dish
+Tortilla,Dish
+Tostada,Dish
+Trail mix,Dish
+Vegetarian food,Dish
+Waffle,Dish
+Zwieback,Dish
+Achilleas,Essential Oil
+Arar,Essential Oil
+Buchu,Essential Oil
+Cajeput,Essential Oil
+Camphor,Essential Oil
+Canola Oil,Essential Oil
+Cascarilla,Essential Oil
+Cedar,Essential Oil
+Chamomile,Essential Oil
+Citronella,Essential Oil
+Citrus Peel Oil,Essential Oil
+Clary Sage,Essential Oil
+Eucalyptus,Essential Oil
+Fir,Essential Oil
+Geranium,Essential Oil
+Grapefruit Peel Oil,Essential Oil
+Grass,Essential Oil
+Hops Oil,Essential Oil
+Hyacinth,Essential Oil
+Hyssop Oil,Essential Oil
+Kenaf,Essential Oil
+Kewda,Essential Oil
+Lemon Grass,Essential Oil
+Lemon Peel Oil,Essential Oil
+Lime Peel Oil,Essential Oil
+Lotus,Essential Oil
+Lovage,Essential Oil
+Mandarin Orange Peel Oil,Essential Oil
+Mastic Gum,Essential Oil
+Mentha Oil,Essential Oil
+Myrrh,Essential Oil
+Neroli Oil,Essential Oil
+Orange Oil,Essential Oil
+Orris,Essential Oil
+Red Sage,Essential Oil
+Sandalwood,Essential Oil
+Spanish Sage,Essential Oil
+Sweet Grass,Essential Oil
+Valerian,Essential Oil
+Wattle,Essential Oil
+Yarrow,Essential Oil
+Ylang-Ylang,Essential Oil
+Alaska blackfish,Fish
+Alaska pollock,Fish
+Albacore tuna,Fish
+American butterfish,Fish
+American shad,Fish
+Anchovy,Fish
+Anguilliformes,Fish
+Atlantic croaker,Fish
+Atlantic halibut,Fish
+Atlantic herring,Fish
+Atlantic mackerel,Fish
+Atlantic menhaden,Fish
+Atlantic pollock,Fish
+Atlantic salmon,Fish
+Atlantic wolffish,Fish
+Beluga whale,Fish
+Blue whiting,Fish
+Bluefish,Fish
+Bonito,Fish
+Bowhead whale,Fish
+Broad whitefish,Fish
+Burbot,Fish
+Carp bream,Fish
+Catfish,Fish
+Caviar,Fish
+Cetacea,Fish
+Channel catfish,Fish
+Charr,Fish
+Chinook salmon,Fish
+Chum salmon,Fish
+Cichlidae,Fish
+Cisco,Fish
+Clupeinae,Fish
+Codfish,Fish
+Coho salmon,Fish
+Common Tuna,Fish
+Common carp,Fish
+Common dab,Fish
+Common ling,Fish
+Conch,Fish
+Cusk,Fish
+Cuttlefish,Fish
+Devilfish,Fish
+Dolphin fish,Fish
+European anchovy,Fish
+Fatty Fish,Fish
+Fish,Fish
+Fish Oil,Fish
+Flatfish,Fish
+Florida pompano,Fish
+Freshwater drum,Fish
+Freshwater eel,Fish
+Gadiformes,Fish
+Garfish,Fish
+Greater sturgeon,Fish
+Greenland halibut,Fish
+Grouper,Fish
+Haddock,Fish
+Hippoglossus,Fish
+King mackerel,Fish
+Lake trout,Fish
+Lean Fish,Fish
+Lemon sole,Fish
+Lingcod,Fish
+Lumpsucker,Fish
+Milkfish,Fish
+Monkfish,Fish
+Northern bluefin tuna,Fish
+Northern pike,Fish
+Norway haddock,Fish
+Norway pout,Fish
+Nuttall cockle,Fish
+Ocean pout,Fish
+Orange roughy,Fish
+Other fish product,Fish
+Pacific herring,Fish
+Pacific jack mackerel,Fish
+Pacific ocean perch,Fish
+Pacific rockfish,Fish
+Pacific sardine,Fish
+Painted comber,Fish
+Perciformes,Fish
+Percoidei,Fish
+Pikeperch,Fish
+Pink salmon,Fish
+Pleuronectidae,Fish
+Pollock,Fish
+Pumpkinseed sunfish,Fish
+Rainbow smelt,Fish
+Rainbow trout,Fish
+Roe,Fish
+Sablefish,Fish
+Salmon,Fish
+Salmonidae,Fish
+Scombridae,Fish
+Scup,Fish
+Sea trout,Fish
+Shark,Fish
+Sheefish,Fish
+Sheepshead,Fish
+Smelt,Fish
+Smoked Fish,Fish
+Snapper,Fish
+Sockeye salmon,Fish
+Spanish mackerel,Fish
+Spiny dogfish,Fish
+Spot croaker,Fish
+Striped bass,Fish
+Striped mullet,Fish
+Sturgeon,Fish
+Swordfish,Fish
+Tilefish,Fish
+True sole,Fish
+Turbot,Fish
+Walleye,Fish
+White sucker,Fish
+Whitefish,Fish
+Whiting,Fish
+Yellowfin tuna,Fish
+Yellowtail amberjack,Fish
+Artichoke,Flower
+Champaca,Flower
+Dandelion,Flower
+Garland chrysanthemum,Flower
+Jasmine,Flower
+Lavendar,Flower
+Rose,Flower
+Sesbania flower,Flower
+Sunflower,Flower
+Bergamot,Fruit Citrus
+Citrus Fruits,Fruit Citrus
+Grapefruit,Fruit Citrus
+Kumquat,Fruit Citrus
+Lemon,Fruit Citrus
+Lime,Fruit Citrus
+Mandarin Orange,Fruit Citrus
+Pummelo,Fruit Citrus
+Satsuma Orange,Fruit Citrus
+Tangerine,Fruit Citrus
+Vanilla,Fruit Essence
+Apple,Fruit
+AppleSauce,Fruit
+Apricot,Fruit
+Avocado,Fruit
+Babaco,Fruit
+Banana,Fruit
+BartlettPear,Fruit
+Beli,Fruit
+BitterOrange,Fruit
+BlackCurrant,Fruit
+Breadfruit,Fruit
+Buffalocurrant,Fruit
+Butternutsquash,Fruit
+Byrsonimacrassifolia,Fruit
+CashewApple,Fruit
+Cherimoya,Fruit
+ChineseQuince,Fruit
+Coconut,Fruit
+Commonpersimmon,Fruit
+Cupua\u008du,Fruit
+Currant,Fruit
+Dates,Fruit
+Durian,Fruit
+Feijoa,Fruit
+Fig,Fruit
+GarciniaIndica,Fruit
+Grape,Fruit
+Guava,Fruit
+Hogplum,Fruit
+Hornedmelon,Fruit
+Jackfruit,Fruit
+Japanesepersimmon,Fruit
+Japanesepumpkin,Fruit
+Jujube,Fruit
+Kiwifruit,Fruit
+Litchi,Fruit
+Loquat,Fruit
+Malabarplum,Fruit
+MalayApple,Fruit
+Mammeeapple,Fruit
+Mango,Fruit
+Medlar,Fruit
+Melon,Fruit
+MountainPapaya,Fruit
+Muscadinegrape,Fruit
+MuskMelon,Fruit
+Nance,Fruit
+Naranjilla,Fruit
+Natalplum,Fruit
+Orange,Fruit
+Papaya,Fruit
+Passionfruit,Fruit
+Pawpaw,Fruit
+Peach,Fruit
+Pear,Fruit
+Pepino,Fruit
+Persimmon,Fruit
+Pineapple,Fruit
+Plum,Fruit
+Plumcot,Fruit
+Pomegranate,Fruit
+PricklyPear,Fruit
+Pumpkin,Fruit
+Purplemangosteen,Fruit
+Quince,Fruit
+Raisin,Fruit
+Rambutan,Fruit
+RedCurrant,Fruit
+Roseapple,Fruit
+Rosehip,Fruit
+Sapodilla,Fruit
+Skunkcurrant,Fruit
+Soursop,Fruit
+SpinelessMonkeyOrange,Fruit
+Starfruit,Fruit
+Tamarind,Fruit
+WaterChestnut,Fruit
+WhiteCurrant,Fruit
+Wintersquash,Fruit
+Woodapple,Fruit
+YellowPassionfruit,Fruit
+Abalone,Fungus
+Chanterelle,Fungus
+Cloud ear fungus,Fungus
+Enokitake,Fungus
+Jew's ear,Fungus
+Maitake,Fungus
+Morchella,Fungus
+Mushroom,Fungus
+Oyster mushroom,Fungus
+Shiitake,Fungus
+Truffle,Fungus
+Ashgourd,Gourd
+Bittergourd,Gourd
+Bottlegourd,Gourd
+Chayote,Gourd
+Cucumber,Gourd
+Cucurbita,Gourd
+Tinda,Gourd
+Towel gourd,Gourd
+Alfalfa,Herb
+Amaranth,Herb
+American pokeweed,Herb
+Angelica,Herb
+Artemisia,Herb
+Basil,Herb
+Borage,Herb
+Buckwheat,Herb
+Calamus,Herb
+Capers,Herb
+Chervil,Herb
+Chia,Herb
+Common verbena,Herb
+Coriander,Herb
+Cornmint,Herb
+Curry Leaf,Herb
+Dill,Herb
+Dock,Herb
+Epazote,Herb
+Evening primrose,Herb
+Fennel,Herb
+Fenugreek,Herb
+Fireweed,Herb
+Garden cress,Herb
+Garlic,Herb
+Lemon Balm,Herb
+Lemon verbena,Herb
+Linden,Herb
+Liqourice,Herb
+Mexican oregano,Herb
+Mint,Herb
+Narrowleaf cattail,Herb
+Peppermint,Herb
+Pineappple sage,Herb
+Rhubarb,Herb
+Rocket salad,Herb
+Roselle,Herb
+Rosemary,Herb
+Safflower,Herb
+Sage,Herb
+Scotch Spearmint,Herb
+Silver linden,Herb
+Sorrel,Herb
+Sourdock,Herb
+Spearmint,Herb
+Summer savory,Herb
+Tarragon,Herb
+Tea leaf willow,Herb
+Teff,Herb
+Thyme,Herb
+Winter savory,Herb
+Adzuki bean,Legume
+Beans,Legume
+Black-eyed pea,Legume
+Catjang pea,Legume
+Chickpea,Legume
+Climbing bean,Legume
+Cluster Bean,Legume
+Gram bean,Legume
+Grass pea,Legume
+Hyacinth bean,Legume
+Kidney Beans,Legume
+Lentils,Legume
+Lima Beans,Legume
+Millet,Legume
+Moth bean,Legume
+Mung bean,Legume
+Peas,Legume
+Pigeon Pea,Legume
+Scarlet bean,Legume
+Soybean,Legume
+Soybean Oil,Legume
+Winged bean,Legume
+Yardlong bean,Legume
+Corn,Maize
+Corn Oil,Maize
+Corn grits,Maize
+Cornbread,Maize
+Popcorn,Maize
+Sweetcorn,Maize
+Anatidae,Meat
+Beaver,Meat
+Beef,Meat
+Beef Processed,Meat
+Beefalo,Meat
+Bison,Meat
+Black bear,Meat
+Brown bear,Meat
+Buffalo,Meat
+Caribou,Meat
+Chicken,Meat
+Columbidae,Meat
+Deer,Meat
+Elk,Meat
+Emu,Meat
+European rabbit,Meat
+Great horned owl,Meat
+Green turtle,Meat
+Greylag goose,Meat
+Guinea hen,Meat
+Ham,Meat
+Horse,Meat
+Lamb,Meat
+Mallard duck,Meat
+Meat,Meat
+Moose,Meat
+Mountain hare,Meat
+Mule deer,Meat
+Muskrat,Meat
+Mutton,Meat
+Opossum,Meat
+Ostrich,Meat
+Other meat product,Meat
+Pheasant,Meat
+Polar bear,Meat
+Pork,Meat
+Quail,Meat
+Rabbit,Meat
+Raccoon,Meat
+Rock ptarmigan,Meat
+Snail,Meat
+Squab,Meat
+Squirrel,Meat
+Sukiyaki,Meat
+True frog,Meat
+Turkey,Meat
+Wild boar,Meat
+Acorn,Nut
+Almond,Nut
+Beech nut,Nut
+Brazil Nut,Nut
+Butternut,Nut
+Cashew nut,Nut
+Chestnut,Nut
+Chinese chestnut,Nut
+European chestnut,Nut
+Filbert,Nut
+Ginkgo nuts,Nut
+Hazelnut,Nut
+Japanese chestnut,Nut
+Macadamia Nut,Nut
+Mixed nuts,Nut
+Nuts,Nut
+Peanut,Nut
+Pecans,Nut
+Pili nut,Nut
+Pistachio,Nut
+Walnut,Nut
+Apple Cider Vinegar,Plant Derivative
+Breadnut tree seed,Plant Derivative
+Chocolate,Plant Derivative
+Chocolate spread,Plant Derivative
+Cocoa butter,Plant Derivative
+Cocoa powder,Plant Derivative
+Cottonseed,Plant Derivative
+Creosote,Plant Derivative
+Fermented Tea,Plant Derivative
+Honey,Plant Derivative
+Jute,Plant Derivative
+Macaroni,Plant Derivative
+Mustard Oil,Plant Derivative
+Peanut Butter,Plant Derivative
+Peanut Oil,Plant Derivative
+Soy yogurt,Plant Derivative
+Soybean Sauce,Plant Derivative
+Storax,Plant Derivative
+Tofu,Plant Derivative
+Vinegar,Plant Derivative
+Abiyuch,Plant
+Agave,Plant
+Alaska wild rhubarb,Plant
+Allium,Plant
+Alpine sweetvetch,Plant
+Alpinia,Plant
+Babassu palm,Plant
+Bamboo shoots,Plant
+Black salsify,Plant
+Cardoon,Plant
+Carob,Plant
+Ceriman,Plant
+Chicory,Plant
+Colorado pinyon,Plant
+Common salsify,Plant
+French plantain,Plant
+Giant butterbur,Plant
+Hops,Plant
+Lambsquarters,Plant
+Laurel,Plant
+Longan,Plant
+Lupine,Plant
+Myrtle,Plant
+Nopal,Plant
+Oil palm,Plant
+Oil-seed Camellia,Plant
+Olive,Plant
+Oregon yampah,Plant
+Ostrich fern,Plant
+Pine,Plant
+Purslane,Plant
+Rowal,Plant
+Sago palm,Plant
+Sassafras,Plant
+Shea tree,Plant
+Small leaf linden,Plant
+Tea,Plant
+Thistle,Plant
+Tobacco,Plant
+Tree fern,Plant
+Ucuhuba,Plant
+Watercress,Plant
+White lupine,Plant
+Yautia,Plant
+Yellow pond lily,Plant
+Ascidians,Seafood
+Bearded seal,Seafood
+Bivalvia,Seafood
+Clam,Seafood
+Common octopus,Seafood
+Crab,Seafood
+Crayfish,Seafood
+Irish moss,Seafood
+Jellyfish,Seafood
+Kelp,Seafood
+Kombu,Seafood
+Krill,Seafood
+Leather chiton,Seafood
+Lobster,Seafood
+Mollusc,Seafood
+North Pacific giant octopus,Seafood
+Oyster,Seafood
+Prawn,Seafood
+Purple laver,Seafood
+Red algae,Seafood
+Red king crab,Seafood
+Ringed seal,Seafood
+Scallop,Seafood
+Sea cucumber,Seafood
+Shellfish,Seafood
+Shrimp,Seafood
+Spiny lobster,Seafood
+Spotted seal,Seafood
+Squid,Seafood
+Steller sea lion,Seafood
+Trassi,Seafood
+True seal,Seafood
+Wakame,Seafood
+Walrus,Seafood
+Whelk,Seafood
+Cocoa,Seed
+Flaxseed,Seed
+Muskmallow,Seed
+Nigella Seed,Seed
+Sesame,Seed
+Allspice,Spice
+Anise,Spice
+Anise Hyssop,Spice
+Asafoetida,Spice
+Caraway,Spice
+Cardamom,Spice
+Carom Seed,Spice
+Cassia,Spice
+Celery,Spice
+Cinnamon,Spice
+Clove,Spice
+Cumin,Spice
+Ginger,Spice
+Jalapeno,Spice
+Mace,Spice
+Marjoram,Spice
+Nutmeg,Spice
+Oregano,Spice
+Parsley,Spice
+Pepper,Spice
+Poppy Seed,Spice
+Saffron,Spice
+Star Anise,Spice
+Turmeric,Spice
+White Pepper,Spice
+Capsicum,Vegetable Fruit
+Cherry Pepper,Vegetable Fruit
+Tomato,Vegetable Fruit
+Turkey Berry,Vegetable Fruit
+Beetroot,Vegetable Root
+Carrot,Vegetable Root
+Ginseng,Vegetable Root
+Parsnip,Vegetable Root
+Radish,Vegetable Root
+Rutabaga,Vegetable Root
+Sweet Potato,Vegetable Root
+Turnip,Vegetable Root
+Asparagus,Vegetable Stem
+Arrowhead,Vegetable Tuber
+Arrowroot,Vegetable Tuber
+Cassava,Vegetable Tuber
+Jerusalem artichoke,Vegetable Tuber
+Jicama,Vegetable Tuber
+Mountain yam,Vegetable Tuber
+Potato,Vegetable Tuber
+Tapioca pearl,Vegetable Tuber
+Taro,Vegetable Tuber
+Yam,Vegetable Tuber
+Burdock,Vegetable
+Chard,Vegetable
+Chive,Vegetable
+Colocasia,Vegetable
+Cornsalad,Vegetable
+DrumstickLeaf,Vegetable
+Eggplant,Vegetable
+Endive,Vegetable
+GreenBeans,Vegetable
+Greenzucchini,Vegetable
+Heartofpalm,Vegetable
+Leek,Vegetable
+Lettuce,Vegetable
+Malabarspinach,Vegetable
+NewZealandspinach,Vegetable
+Okra,Vegetable
+Onion,Vegetable
+PepperC.baccatum,Vegetable
+PepperC.chinense,Vegetable
+Shallot,Vegetable
+Spinach,Vegetable
+Welshonion,Vegetable
+Yellowzucchini,Vegetable
+redskinonion,Vegetable

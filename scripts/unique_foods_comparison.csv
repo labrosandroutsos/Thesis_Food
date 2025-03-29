@@ -1,0 +1,963 @@
+Reorganized_Foods,FlavorDB_Foods
+French toast,French toast
+Cauliflower,Mastic gum
+Jicama,Cauliflower
+Atlantic halibut,Jicama
+Alpine sweetvetch,Sweet grass
+Shiitake,Achilleas
+Domestic goat,Fatty fish
+Saffron,Roibos tea
+Lingonberry,Atlantic halibut
+White mustard,Shiitake
+Couscous,Alpine sweetvetch
+Apricot,Black bear
+Okra,Basil
+Catfish,Moose
+Mustard spinach,Saffron
+Chili,Lingonberry
+Sweet custard,Couscous
+White grape juice,Apricot
+Ohelo berry,Okra
+Steller sea lion,Catfish
+"Pleuronectidae (Dab, Halibut, Plaice)",Sweet custard
+Chayote,Chili
+Colorado pinyon,Ohelo berry
+Sacred lotus,Steller sea lion
+Smelt,Plum
+Buffalo currant,Chayote
+Fruits,Colorado pinyon
+Buffalo,Smelt
+Arrowhead,Buffalo currant
+Common chokecherry,Buffalo
+Pie filling,Arrowhead
+Thornless blackberry,Chinese water chestnut
+Black walnut,Cheese
+Edible shell,Anguilliformes
+Celery stalks,Ocean pout
+Chinese water chestnut,Succotash
+Anguilliformes,Whiting
+Cheese,Soup
+Ocean pout,Macadamia nut
+Succotash,Mixed nuts
+Whiting,Hibiscus tea
+Soup,Meatloaf
+Summer grape,Roquefort cheese
+Macadamia nut,Sourdough
+Mixed nuts,Mentha oil
+Crosne,Grouper
+Goji,Cluster bean
+Red champagne,Vinegar
+Meatloaf,Kombu
+Hibiscus tea,Nutmeg
+"Bivalvia (Clam, Mussel, Oyster)",Crayfish
+Sourdough,Breakfast cereal
+Grouper,True sole
+Vinegar,Soybean oil
+Kombu,Bagel
+Nutmeg,Striped bass
+Coffee substitute,Potato gratin
+Crayfish,Sorghum
+Cape gooseberry,Pomegranate
+Breakfast cereal,Raisin
+True sole,Common ling
+Soybean oil,Rye
+Bagel,Wasabi
+Striped bass,Gelatin dessert
+Sorghum,Candy bar
+"Cow milk, pasteurized, vitamin D added, 3.25% fat",Other fish product
+Pomegranate,Apple
+Beverages,Citrus peel Oil
+Broad bean,Chocolate
+Common ling,Potato chip
+Rye,Turkey berry
+Wasabi,Channel catfish
+Potato gratin,Hippoglossus
+Candy bar,Turmeric
+Gelatin dessert,Rice bread
+Other fish product,Arepa
+Apple,Great horned owl
+Chocolate,Pumpkinseed sunfish
+Coffee and coffee products,Millet
+Potato chip,Truffle
+Channel catfish,Nanking cherry
+Turmeric,Alaska blackfish
+Rice bread,Limburger cheese
+Arepa,Rice cake
+Pumpkinseed sunfish,Horned melon
+Other candy,Rose wine
+Millet,Anchovy
+Chinese chives,Sheep milk
+Horned melon,Salad
+Nanking cherry,Dill
+"Columbidae (Dove, Pigeon)",Guinea hen
+Alaska blackfish,Strawberry wine
+Rice cake,Scotch whisky
+Thunnus,Cheddar cheese
+Rose wine,Fireweed
+Anchovy,Romano cheese
+Salad,Pitanga
+Dill,Flatfish
+Guinea hen,Silver linden
+Cichlidae (Tilapia),Cabbage
+Fireweed,Poppy seed
+Pacific salmon,Vanilla
+Pitanga,Scallop
+Silver linden,Malabar plum
+Flatfish,Spotted seal
+Cabbage,Vodka
+Vanilla,Allium
+Mugwort,Semolina
+Malabar plum,Cisco
+Wax gourd,Chocolate mousse
+Scallop,Lovage
+Spotted seal,Gadiformes
+"Sheep (Mutton, Lamb)",Climbing bean
+Vodka,Cottonseed
+Allium,Sparkleberry
+Cisco,Norway pout
+Evergreen blackberry,Cream cheese
+Semolina,Green tea
+Climbing bean,Enchilada
+Lovage,Other fermented milk
+Peach (var.),Mate
+"Cetacea (Dolphin, Porpoise, Whale)",Papaya
+Cottonseed,Sweetcorn
+Sparkleberry,Ascidians
+Chocolate mousse,Mule deer
+Egg substitute,Spiny lobster
+Gadiformes,Brandy
+Papaya,Rose apple
+Green tea,Whey
+Enchilada,Krill
+Romaine lettuce,Goat cheese
+Lard,Tea leaf willow
+Norway pout,Sea buckthorns
+Other fermented milk,Wine
+True oyster,Medlar
+Mate,Cumin
+Ascidians,Cloudberry
+Mule deer,Saskatoon berry
+Marine mussel,Shea tree
+Spiny lobster,Pleuronectidae
+Whey,Red onion
+Red huckleberry,Blackberry brandy
+Tea leaf willow,Striped mullet
+Medlar,Cinnamon
+Cumin,Squashberry
+Cloudberry,Lake trout
+Saskatoon berry,Madeira wine
+Pepper (Capsicum),Coriander
+Herbal tea,Sugar substitute
+Shea tree,Apple brandy
+Tostada shell,Jostaberry
+Red onion,Sapodilla
+German camomile,Pacific sardine
+Striped mullet,Corn grits
+Cinnamon,Jerusalem artichoke
+Squashberry,Camphor
+Lake trout,Falafel
+Coriander,Caribou
+Madeira wine,Oil-seed Camellia
+Sugar substitute,Baked potato
+Brassicas,Nougat
+Jostaberry,Pupusa
+Clementine,Cherimoya
+Sapodilla,Milk powder
+Crustaceans,Atlantic herring
+Green vegetables,Freshwater eel
+Pacific sardine,Sandalwood
+Common hazelnut,Pistachio
+Corn grits,Tortilla
+Jerusalem artichoke,Capers
+Falafel,Lentils
+Oil-seed Camellia,Scombridae
+Baked potato,Adobo
+Butter substitute,Pikeperch
+Cherimoya,Redcurrant
+Nougat,Common salsify
+Pupusa,Clary sage
+Pepper (C. pubescens),Allspice
+Freshwater eel,White pepper
+Atlantic herring,Black tea
+Common grape,Roe
+Pistachio,Bilberry
+Tortilla,Cider
+Capers,Blue cheese
+Lentils,Ymer
+Other beverage,Burbot
+Adobo,Bottle gourd
+Redcurrant,Bivalvia
+Pikeperch,Carrot
+Eastern oyster,Tofu
+Common salsify,Bulgur
+Allspice,Wheat
+Skipjack tuna,Frankfurter sausage
+Dried milk,Other cheeses
+"Cow milk, pasteurized, vitamin A + D added, 2% fat",Horseradish
+Milk (Other mammals),Purple mangosteen
+Black tea,Bison
+Roe,Elk
+Bilberry,Tree fern
+Ymer,Pizza
+Burbot,Tarragon
+Grapefruit/Pummelo hybrid,Welsh onion
+Sweet bay,Fruit salad
+Carrot,Other frozen dessert
+Common bean,Meringue
+Tofu,Skunk currant
+Napa cabbage,Percoidei
+Bulgur,Pineapple
+Wheat,Bean
+Velvet duck,Rum
+Horseradish,Spot croaker
+Purple mangosteen,Creosote
+Butterfat,Honey
+Bison,Asafoetida
+Elk,Lotus
+Tree fern,Nopal
+Tarragon,Lasagna
+Welsh onion,Blueberry
+Pizza,Cichlidae
+Acorn squash,Akutaq
+Fruit salad,Cocoa powder
+Skunk currant,White sucker
+Meringue,Snack bar
+Other frozen dessert,Macaroni
+Alcoholic beverages,Whitefish
+Bean,Provolone cheese
+Pineapple,Scotch spearmint
+Rum,Rowanberry
+Spot croaker,Barley
+Honey,Mollusks
+Norway lobster,Biscuit
+Lotus,Cloves
+Nopal,Tartary buckwheat
+Swede,Cucurbita
+Lasagna,Ice cream
+Akutaq,Tomato
+Cocoa powder,Anise
+White sucker,Rambutan
+Snack bar,Cake
+Rape,Avocado
+Strawberry guava,Margarine-like spread
+Whitefish,Babaco
+Rowanberry,Oyster mushroom
+Cantaloupe melon,Atlantic mackerel
+Sour orange,Dairy products
+Barley,Arabica coffee
+Dripping,Bitter orange
+Mollusks,Tapioca pearl
+Biscuit,Common dab
+Hawthorn,Ham
+Cloves,Mint
+Tartary buckwheat,Orange roughy
+Cucurbita,American pokeweed
+Ice cream,Pak choy
+Anise,Butter
+Rambutan,Pan dulce
+Avocado,Prickly pear
+Cake,Greenland halibut/turbot
+Oyster mushroom,True frog
+Margarine-like spread,Ceriman
+Robusta coffee,Ylang-Ylang
+Atlantic mackerel,Eggplant
+Grape wine,Ketchup
+Arabica coffee,Energy drink
+Rabbiteye blueberry,Elderberry
+Tapioca pearl,Flaxseed
+Common dab,Cuttlefish
+Baked beans,Lamb
+American pokeweed,Sheefish
+Black cabbage,Turbot
+Orange roughy,Guava
+Pak choy,Quesadilla
+Butter,Garden cress
+Sour cream,Citrus
+Pan dulce,Burrito
+Blue mussel,Turnip
+Chinese broccoli,Relish
+Prickly pear,Sparkling wine
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Sake
+Greenland halibut/turbot,Caraway
+True frog,Breadfruit
+Common beet,Atlantic croaker
+Sweet rowanberry,Soybean sauce
+Eggplant,Lumpsucker
+Ketchup,Blackcurrant
+Soy sauce,Basmati rice
+Lowbush blueberry,Sheep cheese
+Energy drink,Arar
+Elderberry,Mace
+Flaxseed,Dock
+Cuttlefish,Cashew apple
+Sheefish,Leek
+Celery leaves,Fir
+Turbot,Squab
+Guava,Ghee
+Quesadilla,Curry leaf
+Garden cress,Yarrow
+Rocket salad (ssp.),Japanese whisky
+Turnip,Raspberry
+Burrito,Parsnip
+Citrus,Snail
+Garden rhubarb,Pastry
+Relish,Sablefish
+Sake,Strawberry
+Caraway,Pear brandy
+Breadfruit,Kai-lan
+Atlantic croaker,Jew's ear
+Common sage,Emu
+Lumpsucker,Oyster
+Blackcurrant,Bantu beer
+Snow crab,Wakame
+Cream substitute,Ucuhuba
+Dock,Other bread product
+Leek,Corn
+Squab,Bluefish
+Parsnip,Spirulina
+Snail,Other sandwich
+Pot marjoram,Grass pea
+Pastry,Milk (Cow)
+Strawberry,Hummus
+White cabbage,Other alcoholic beverage
+Malus (Crab apple),Hops
+Sablefish,Chinese chestnut
+Fox grape,Garland chrysanthemum
+Kai-lan,Frybread
+Andean blackberry,Pepino
+Emu,Quail
+Jew's ear,Parsley
+Mushrooms,Sturgeon
+Wakame,Cupuaçu
+Ucuhuba,Chard
+Other bread product,Bowhead whale
+Corn,Pepper (C. chinense)
+Bluefish,Raccoon
+Spirulina,Deer
+Other sandwich,Sausage
+Unclassified food or beverage,Rosemary
+Grass pea,Other snack food
+Milk (Cow),Sesame
+Baby food,Lean fish
+Hummus,Apple sauce
+Other alcoholic beverage,Caviar
+Chinese chestnut,Winged bean
+Garland chrysanthemum,Pheasant
+Fruit-flavor drink,Tilsit cheese
+Frybread,Rose hip
+Quail,Marshmallow
+Parsley,Fruit juice
+Custard apple,Goat milk
+Sturgeon,Domiati cheese
+Cupuaçu,Other dish
+Pepper (C. chinense),Mountain yam
+Bowhead whale,Topping
+Common buckwheat,Stew
+Deer,Thistle
+"Mandarin orange (Clementine, Tangerine)",Monkfish
+Green grape,Celery
+Rosemary,Acorn
+Sausage,Hot chocolate
+Green plum,Mammee apple
+Other snack food,Flour
+Sesame,Passion fruit
+Pheasant,Common mushroom
+Winged bean,Ginkgo nuts
+Olive oil,Eucalyptus
+Red grape juice,Sago palm
+Rose hip,Onion
+Fruit juice,Scarlet bean
+Marshmallow,Rapini
+Other dish,Coffee mocha
+Mountain yam,Comte cheese
+Soft-necked garlic,European rabbit
+Topping,Kenaf
+Stew,Rose
+Thistle,Malt whisky
+Clawed lobster,Spanish mackerel
+Monkfish,Quinoa
+Other cereal product,Whole wheat bread
+Italian oregano,Vegetable juice
+Acorn,Gefilte fish
+Common thyme,Red raspberry
+Hot chocolate,Rutabaga
+Mammee apple,Bakery products
+Common mushroom,Cognac brandy
+Ginkgo nuts,Common oregano
+Passion fruit,Moth bean
+Eddoe,Endive
+Flour,Garfish
+"Cow milk, pasteurized, vitamin A + D added, 0% fat",Muskmelon
+Green lentil,Spiny dogfish
+Sago palm,Tilefish
+Scarlet bean,Natto
+Rapini,Arrack
+Coffee mocha,Papaya brandy
+European rabbit,Naranjilla
+Spanish mackerel,Wonton wrapper
+Castanospermum australe,Weinbrand brandy
+Quinoa,Paneer
+Vegetable juice,Malt
+Gefilte fish,Soursop
+Whole wheat bread,Pacific herring
+Red raspberry,Swamp cabbage
+Common oregano,Bonito
+Moth bean,Cherry
+Iceberg lettuce,Arrowroot
+Processed cheese,Bearded seal
+Endive,Eggs
+Muskmelon,Florida pompano
+Garfish,Sourdock
+Spiny dogfish,North Pacific giant octopus
+Tilefish,Shallot
+Hickory nut,Tortilla chip
+Natto,Green bean
+Naranjilla,Cashew nut
+Opium poppy,Casein
+Orange bell pepper,Bergamot
+Soursop,Turkey
+Wild carrot,Yautia
+Wonton wrapper,Ginseng
+Pacific herring,Red rice
+Swamp cabbage,Fig
+Red grape,Lobster
+Arrowroot,Raisin bread
+Bearded seal,Corn salad
+Eggs,Carob
+Florida pompano,Wild cherry
+Sourdock,Jellyfish
+North Pacific giant octopus,Rice
+Shallot,Pear
+Tortilla chip,Narrowleaf cattail
+Green bean,Ice cream cone
+Curry powder,Winter squash
+Cashew nut,Polar bear
+Jalapeno pepper,Wattle
+Casein,Breakfast sandwich
+Turkey,Feijoa
+Yautia,Garcinia indica
+Cowpea,Lambsquarters
+Ginseng,Hyssop oil
+Tropical highland blackberry,Purslane
+Red rice,Mustard
+Fig,"Clupeinae (Herring, Sardine, Sprat)"
+"Rubus (Blackberry, Raspberry)",Cassia
+Raisin bread,Wild rice
+Corn salad,Leavening agent
+Carob,Acerola
+Pear,Waffle
+Rice,Cascarilla
+Narrowleaf cattail,White wine
+Ice cream cone,Parmesan cheese
+Winter squash,Jasmine
+Common pea,Gin
+Feijoa,Pacific ocean perch
+Purslane,Chewing gum
+Lambsquarters,Pink salmon
+Breakfast sandwich,Taro
+Pecan nut,American butterfish
+Dessert wine,Cornbread
+Mustard,Chives
+"Clupeinae (Herring, Sardine, Sprat)",Soy yogurt
+Wild rice,Mandarin orange
+Acerola,Pummelo
+Leavening agent,Wort
+Waffle,Soft drink
+White wine,Cherry brandy
+Gin,Soy bean
+Pacific ocean perch,Walrus
+Chewing gum,Gruyere cheese
+Taro,Snapper
+Pink salmon,Fennel
+Other soy product,Banana
+Chives,Cocoa bean
+American butterfish,Sunflower
+Cornbread,Almond
+European cranberry,Beaver
+Sweet orange,Angelica
+Soy yogurt,Mutton
+Blue crab,Ginger
+Pummelo,Maitake
+Oxheart cabbage,Salad dressing
+Soft drink,Beluga whale
+Soy bean,Perciformes
+Walrus,Cornmint
+Snapper,Bayberry
+"Salmonidae (Salmon, Trout)",Geranium
+Evergreen huckleberry,Atlantic menhaden
+Fennel,Vegetarian food
+Banana,Rowal
+Cocoa bean,Babassu palm
+Sunflower,Sorrel
+Wampee,Fried potato
+Almond,Musk mallow
+Angelica,Rabbit
+Plains prickly pear,Greylag goose
+Ginger,Common persimmon
+Common cabbage,Crab
+Guarana,Teff
+Maitake,Mexican groundcherry
+Salad dressing,Opossum
+Beluga whale,Remoulade
+Perciformes,Kidney beans
+Cascade huckleberry,Greenthread tea
+Cornmint,Finnish whisky
+Bayberry,Yellow pond-lily
+Atlantic menhaden,Jute
+Vegetarian food,Pecans
+Rowal,Beefalo
+Babassu palm,Egg roll
+Sorrel,Fish burger
+"Scombridae (Bonito, Mackerel, Tuna)",Cooking oil
+Rabbit,Pork
+Greylag goose,Dumpling
+Common persimmon,Yellow passion fruit
+Horseradish tree,Pigeon pea
+Teff,Junket
+Mexican groundcherry,Fudge
+Crab,Cloud ear fungus
+Remoulade,Vermouth
+Green apple,Buchu
+Salted butter,Pawpaw
+Cocoa liquor,Radish
+Greenthread tea,Freshwater drum
+Yellow pond-lily,Potato puffs
+Jute,Hard wheat
+Beefalo,Melon
+Sugar apple,Botrytized wine
+Egg roll,Liquorice
+Fish burger,Mountain hare
+Cooking oil,Cocoa butter
+Half-highbush blueberry,Canola oil
+Highbush blueberry,Peas
+Dumpling,Salt
+Other animal fat,Cusk
+Pigeon pea,Butternut squash
+Junket,Tangerine
+Fudge,Pasta
+Cloud ear fungus,Rye bread
+Radish,Feta cheese
+Vermouth,Triticale
+Lantern fruit,Lettuce
+Freshwater drum,Cranberry
+Celeriac,Popcorn
+Potato puffs,Boysenberry
+Hard wheat,Beli
+Chicory leaves,Potato bread
+Mountain hare,Hog plum
+Liquorice,Brazil nut
+Domestic pig,Yellowtail amberjack
+Cocoa butter,Chervil
+Canola oil,Sweet potato
+Japanese walnut,Munster cheese
+Butternut squash,Smoked fish
+Cusk,Purple laver
+Salt,Soy cream
+Radish (var.),Fenugreek
+Pasta,Marzipan
+Rye bread,Horchata
+Triticale,Longan
+Lettuce,Muscadine grape
+Wheat bread,Margarine
+Apple cider,Icing
+Popcorn,Ricotta cheese
+Boysenberry,Bitter cherry
+Atlantic cod,Calamus
+Italian sweet red pepper,Chestnut
+Potato bread,Bitter gourd
+Calabash,Apple cider Vinegar
+Brazil nut,Ringed seal
+Yellowtail amberjack,Multigrain bread
+Chervil,Champaca
+Sweet potato,Irish moss
+Purple laver,Gooseberry
+Soy cream,Russian cheese
+Fenugreek,Hot dog
+Longan,Jackfruit
+Horchata,Kiwi
+Marzipan,Ash gourd
+Pepper (C. frutescens),Olive
+Muscadine grape,Broccoli
+Bog bilberry,Meatball
+Icing,Pita bread
+Margarine,Sugar
+Cubanelle pepper,Meat
+Chestnut,Nuttall cockle
+Bitter gourd,Brussel sprouts
+Ringed seal,Rainbow smelt
+Multigrain bread,Rainbow trout
+Irish moss,Storax
+Gooseberry,Red king crab
+Kiwi,Lemon
+Jackfruit,Tobacco
+Savoy cabbage,Other pasta dish
+Hot dog,Kelp
+Olive,Morchella
+Pacific oyster,Giant butterbur
+Other bread,Fermented tea
+Broccoli,Pudding
+Meatball,Salmonidae
+Pita bread,Myrrh
+Sugar,Lemon grass
+Mentha,Armagnac brandy
+Nuttall cockle,Japanese pumpkin
+Brussel sprouts,Whisky
+Rainbow smelt,Molasses
+Rainbow trout,Coho salmon
+Gentiana lutea,Haddock
+Red king crab,Loganberry
+Lemon,Grass
+Other pasta dish,Atlantic salmon
+Kelp,Annual wild rice
+Giant butterbur,Corn oil
+Pudding,Anise hyssop
+Lemon grass,Common verbena
+Japanese pumpkin,Lingcod
+linseed oil,Coconut
+Whisky,Abiyuch
+Molasses,Black crowberry
+Coho salmon,Oat bread
+Fats and oils,Kumquat
+Haddock,Neroli oil
+Loganberry,Pancake
+Red clover,Malay apple
+Garden tomato,Tea
+Garden onion,Byrsonima crassifolia
+Green onion,Plumcot
+Atlantic salmon,Pie
+Annual wild rice,Chanterelle
+"Cow milk, pasteurized, vitamin A + D added, 1% fat",Strawberry jam
+Common verbena,Red wine
+Cracker,Condensed milk
+Lingcod,Cassava
+Coconut,Artemisia
+Abiyuch,Cedar
+Black crowberry,Painted comber
+Canola,Cherry tomato
+Kumquat,Date
+Yellow wax bean,Gelatin
+Oat bread,Nachos
+Pancake,Rhubarb
+Tea,Small-leaf linden
+Pacific cod,Sea cucumber
+Herbs and Spices,Star anise
+Asian pear,American shad
+Chanterelle,Heart of palm
+Pie,Black salsify
+Red wine,Kale
+Condensed milk,Pacific jack mackerel
+Albizia gummifera,Orange oil
+Cassava,Black-eyed pea
+Yellow bell pepper,Potato
+Painted comber,Sour cherry
+Cherry tomato,Syrup
+Date,Green turtle
+Small-leaf linden,Sauce
+Star anise,Yogurt
+Gelatin,Lime
+Nachos,Cetacea
+Sea cucumber,Rock ptarmigan
+Heart of palm,Mountain papaya
+American shad,Butternut
+Black salsify,European anchovy
+Kale,Pectin
+Potato,Shark
+Alaska blueberry,Japanese persimmon
+Black-eyed pea,Gram bean
+Pacific jack mackerel,Squid
+Sour cherry,Mulberry
+Pulses,Evaporated milk
+Syrup,Kefir
+Green turtle,Nuts
+Lime,Borage
+Sauce,Bamboo shoots
+Yogurt,Peanut oil
+Rock ptarmigan,Pate
+Butternut,Spanish sage
+European anchovy,New Zealand spinach
+Pectin,Sukiyaki
+Shark,Corn chip
+Japanese persimmon,Lime peel oil
+Gram bean,Komatsuna
+Liquor,Spearmint
+Squid,Cold cut
+Mulberry,Sheepshead
+Monk fruit,Summer savory
+Evaporated milk,Pie crust
+Kefir,Peanut butter
+Mundu,Burdock
+Nuts,Whelk
+Borage,Grapefruit
+Bamboo shoots,Citronella
+Cereals and cereal products,Grapefruit peel oil
+Hippoglossus (Common halibut),Chicken
+Pate,Valerian
+Sweet basil,Star fruit
+Black plum,Yam
+Pine nut,Trassi
+New Zealand spinach,Mexican oregano
+Corn chip,Fruit preserve
+Spearmint,Towel gourd
+Komatsuna,Abalone
+Cold cut,Durian
+Sheepshead,Albacore tuna
+Summer savory,Ravioli
+Pie crust,Chinese quince
+Egg yolk,Horse
+Burdock,Stuffing
+Whelk,Pine
+Grapefruit,Red sage
+Red tea,Currant
+Sunburst squash (pattypan squash),Berry
+Chicken,Plum wine
+Star fruit,Jujube
+Yam,King mackerel
+Chineese plum,Common tuna
+European plum,Common carp
+Java plum,Myrtle
+Mexican oregano,Marjoram
+Fruit preserve,Winter savory
+Macadamia nut (M. tetraphylla),Grape
+Towel gourd,Globe artichoke
+Abalone,Focaccia
+Durian,Muskrat
+Albacore tuna,Atlantic pollock
+Ravioli,Blackberry
+Horse,Peppermint
+Stuffing,White bread
+Swiss chard,Quince
+Jujube,Natal plum
+King mackerel,Catjang pea
+Tunicate,Orris
+Chicory roots,Swordfish
+Common carp,Spread
+Macroalgae,Wheaten bread
+Winter savory,Berry wine
+White champagne,Mandarin orange peel oil
+Grape,Hamburger
+Globe artichoke,Carom seed
+Focaccia,Dragée
+Frozen yogurt,Spineless monkey orange
+Atlantic pollock,Empanada
+Peppermint,Yardlong bean
+Blackberry,Salmon
+Quince,Ostrich
+White bread,White currant
+Natal plum,Dulce de leche
+Catjang pea,Milk fat
+Swordfish,Walleye
+Spread,Chicory
+Sweet marjoram,Deerberry
+Berry wine,Sassafras
+Hamburger,Shellfish
+Pomes,Colocasia
+Dragée,Miso
+Yardlong bean,Phyllo dough
+Ostrich,Pili nut
+Empanada,Crisp bread
+Jellyfish,Anise brandy
+Tronchuda cabbage,Sherry
+Chicory,Linden
+Wild leek,Lemon peel oil
+Dulce de leche,Cocktail
+Walleye,Northern pike
+Deerberry,Black mulberry
+Partridge berry,Oil palm
+Pili nut,Agar
+Phyllo dough,Mango
+Miso,European chestnut
+Crisp bread,Northern bluefin tuna
+Other fruit product,Garlic
+Sherry,Sage
+Linden,Black raspberry
+Cocktail,Mung bean
+Northern pike,Spinach
+Pepper (Spice),Epazote
+Black mulberry,Scrapple
+Wild celery,Lupine
+Oil palm,Buttermilk
+Agar,Rocket salad
+European chestnut,Adzuki bean
+Mango,Charr
+Yau choy,Lemon verbena
+Northern bluefin tuna,Beef processed
+Garlic,Bartlett pear
+Black raspberry,Lemon sole
+Mung bean,Cherry pepper
+Spinach,Emmental cheese
+Epazote,Japanese chestnut
+Roman camomile,Fishes
+Lupine,Toffee
+Scrapple,Chinese bayberry
+Taco shell,Hops oil
+Water spinach,Sea trout
+Adzuki bean,Scup
+Buttermilk,Enokitake
+Rocket salad,Champagne
+Lemon verbena,Shrimp
+Charr,Persimmon
+Lemon sole,Wild boar
+Wax apple,Asparagus
+Japanese chestnut,Peach
+Fishes,Soy milk
+Toffee,Meat bouillon
+Chinese bayberry,Atlantic wolffish
+Sea trout,Gadus (Common cod)
+Scup,Canada blueberry
+Enokitake,Raspberry brandy
+Persian lime,Pacific rockfish
+"Cattle (Beef, Veal)",Chum salmon
+Asparagus,Yellowfin tuna
+Shrimp,Groundcherry
+Persimmon,Hyacinth bean
+Wild boar,Amaranth
+Yali pear,Watercress
+Other vegetable product,Pineappple sage
+Peach,Leather chiton
+Soy milk,Beech nut
+Meat bouillon,Prairie turnip
+Atlantic wolffish,Lemon balm
+Gadus (Common cod),Kohlrabi
+Canada blueberry,Lavendar
+Ceylon cinnamon,Thyme
+Pacific rockfish,Cucumber
+Chum salmon,Pollock
+Yellowfin tuna,Chocolate spread
+Groundcherry,Tamarind
+Plantain,Brown bear
+Hyacinth bean,Orange
+Amaranth,Black huckleberry
+Watercress,Bilberry wine
+Green cabbage,Alaska pollock
+Pineappple sage,Carp bream
+Leather chiton,Beetroot
+Chinese cinnamon,Chinook salmon
+Beech nut,Dandelion
+American cranberry,Oat
+Prairie turnip,Nigella seed
+Lemon balm,Tostada
+Black radish,Zwieback
+Kohlrabi,Chia
+Red bell pepper,Green zucchini
+Pitaya,Bread
+Cucumber,Jalapeno
+Pollock,Mozzarella cheese
+Chocolate spread,Sesbania flower
+Tamarind,Piki bread
+Black huckleberry,Hyacinth
+Sweet cherry,Kewda
+Alaska pollock,Satsuma orange
+Arctic blackberry,Pot pie
+Carp bream,Hushpuppy
+Chinook salmon,Hazelnut
+Dandelion,Norway haddock
+Watermelon,Alaska wild rhubarb
+Oat,Other meat product
+Green bell pepper,Peanut
+Rapeseed oil,Cardamom
+Tostada,Beef
+Chia,Taco
+Green zucchini,Fruit gum
+Dungeness crab,Roselle
+Sesbania flower,Alpinia
+American lobster,Oregon yampah
+Hazelnut,Yellow zucchini
+Piki bread,Water
+Pot pie,Conch
+Hushpuppy,Chimichanga
+Norway haddock,Port wine
+Alaska wild rhubarb,Anatidae
+Peanut,Nutritional drink
+Cardamom,Squirrel
+Pea shoots,Trail mix
+Taco,Prawn
+Fruit gum,Filbert
+Roselle,Lichee
+Garden tomato (var.),Broad whitefish
+Oregon yampah,Mallard duck
+Yellow zucchini,Capsicum
+Chinese mustard,Pumpkin
+Common wheat,Sockeye salmon
+Common walnut,Spelt
+Chimichanga,Shortening
+Water,Dolphin fish
+Conch,Malabar spinach
+Port wine,Salmonberry
+Anatidae,True seal
+Nutritional drink,Pepper
+Trail mix,Fish oil
+Orange mint,Tinda
+Morchella (Morel),Elliott's blueberry
+Lichee,Common octopus
+Broad whitefish,Macaroni and cheese
+Lemon thyme,Buckwheat
+Mallard duck,Chamomile
+Milk and milk products,Beer
+Sockeye salmon,Greater sturgeon
+Spelt,White lupine
+Shortening,French plantain
+Dolphin fish,Bourbon whisky
+Malabar spinach,Loquat
+White mulberry,Devilfish
+Mikan,Blue whiting
+Salmonberry,Laurel
+Other cocoa product,Evening primrose
+True seal,Tamale
+Pepper,Wood apple
+Cocoa and cocoa products,Milkshake
+Juniperus communis,Camembert cheese
+Tinda,Milkfish
+Fish oil,Oriental wheat
+Elliott's blueberry,Milk (Human)
+Garden onion (var.),Walnut
+Common octopus,Nance
+Macaroni and cheese,Cardoon
+Hyssop,Skimmed milk
+Oval-leaf huckleberry,Cajeput
+Beer,Swiss cheese
+Poppy,Breadnut tree seed
+Chinese cabbage,Coffee
+White lupine,Hedge mustard
+Greater sturgeon,Agave
+Sea-buckthornberry,Plum brandy
+French plantain,Safflower
+Loquat,Canadian whisky
+Root vegetables,Alfalfa
+Red beetroot,Cream
+Devilfish,Red algae
+Percoidei (Bass and others),Pepper (C. baccatum)
+Cannellini bean,Ostrich fern
+Blue whiting,Lima bean
+Black raisin,Columbidae
+Evening primrose,Mustard oil
+Tamale,Drumstic kLeaf
+"Prunus (Cherry, Plum)",Clam
+Milkshake,Cottage cheese
+Milk substitute,Spirit
+Milkfish,Chickpea
+Mamey sapote,
+Black elderberry,
+Oriental wheat,
+Milk (Human),
+Cardoon,
+Nance,
+Walnut,
+Onion-family vegetables,
+Black chokeberry,
+Breadnut tree seed,
+Nectarine,
+Coffee,
+Hedge mustard,
+Agave,
+Safflower,
+Red algae,
+Alfalfa,
+Cream,
+Tallow,
+Pepper (C. baccatum),
+Daikon radish,
+Ostrich fern,
+Lima bean,
+Zwieback,
+Spirit,
+Chickpea,
