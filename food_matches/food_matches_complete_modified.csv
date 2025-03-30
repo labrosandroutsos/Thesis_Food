@@ -1,0 +1,665 @@
+Reorganized_Food,FlavorDB_Food,Similarity_Score,Source
+Blackcurrant,Blackcurrant,1,Reorganized
+Sour cherry,Sour cherry,1,Reorganized
+Canola oil,Canola oil,1,Reorganized
+Brazil nut,Brazil nut,1,Reorganized
+Star anise,Star anise,1,Reorganized
+Black tea,Black tea,1,Reorganized
+Macadamia nut,Macadamia nut,1,Reorganized
+Lemon grass,Lemon grass,1,Reorganized
+Fish oil,Fish oil,1,Reorganized
+Lemon balm,Lemon balm,1,Reorganized
+Rye bread,Rye bread,1,Reorganized
+White bread,White bread,1,Reorganized
+Port wine,Port wine,1,Reorganized
+White wine,White wine,1,Reorganized
+Pigeon pea,Pigeon pea,1,Reorganized
+Red wine,Red wine,1,Reorganized
+Muskmelon,Muskmelon,1,Reorganized
+Green tea,Green tea,1,Reorganized
+Sweet potato,Sweet potato,1,Reorganized
+Redcurrant,Redcurrant,1,Reorganized
+Soybean oil,Soybean oil,1,Reorganized
+Margarine-like spread,Margarine-like spread,0.952,Reorganized
+Small-leaf linden,Small-leaf linden,0.941,Reorganized
+Yellow pond-lily,Yellow pond-lily,0.938,Reorganized
+Lima bean,Lima bean,0.9,Reorganized
+Mushrooms,Mushrooms,0.889,Reorganized
+Rosé wine,Rosé wine,0.889,Reorganized
+Kai-lan,Kai lan,0.857,Reorganized
+Cloves,Cloves,0.833,Reorganized
+Chives,Chives,0.833,Reorganized
+Black tea,Black bear,0.8,Reorganized
+Green bean,Green tea,0.8,Reorganized
+Bean,Bean,0.8,Reorganized
+Date,Date,0.8,Reorganized
+Liquorice,Liquorice,0.778,Reorganized
+Oat,Oat,0.75,Reorganized
+Mollusks,Molluscs,0.75,Reorganized
+Eggs,Eggs,0.75,Reorganized
+Wheat bread,White bread,0.727,Reorganized
+Orange mint,Orange oil,0.727,Reorganized
+Wild celery,Wild cherry,0.727,Reorganized
+Greenland halibut/turbot,Greenland halibut/turbot,0.708,Reorganized
+Broad bean,Brown bear,0.7,Reorganized
+Strawberry guava,Strawberry wine,0.688,Reorganized
+Strawberry guava,Strawberry jam,0.688,Reorganized
+Blackcurrant,Skunk currant,0.667,Reorganized
+Java plum,Nata lplum,0.667,Reorganized
+Fishes,Fishes,0.667,Reorganized
+Rose hip,Rose wine,0.667,Reorganized
+Common wheat,Common tuna,0.667,Reorganized
+Common thyme,Common tuna,0.667,Reorganized
+Sea-buckthornberry,Sea-buckthornberry,0.667,Reorganized
+Sweet orange,Sweet grass,0.667,Reorganized
+Japanese walnut,Japanese whisky,0.667,Reorganized
+Wax apple,Wood apple,0.667,Reorganized
+Swiss chard,Swiss cheese,0.667,Reorganized
+Lemon thyme,Lemon balm,0.636,Reorganized
+Common pea,Common tuna,0.636,Reorganized
+Common beet,Common tuna,0.636,Reorganized
+Common sage,Common tuna,0.636,Reorganized
+Green grape,Green tea,0.636,Reorganized
+Soybean oil,Soy bean,0.636,Reorganized
+Common bean,Common tuna,0.636,Reorganized
+Wild carrot,Wild cherry,0.636,Reorganized
+Japanese pumpkin,Japanese whisky,0.625,Reorganized
+Processed cheese,Provolone cheese,0.625,Reorganized
+Celeriac,Celery,0.625,Reorganized
+Celeriac,Valerian,0.625,Reorganized
+Red wine,Red sage,0.625,Reorganized
+Calabash,Calamus,0.625,Reorganized
+Soybean oil,Soybean sauce,0.615,Reorganized
+Bitter gourd,Bitter cherry,0.615,Reorganized
+Muscadine grape,Muscadine grape,0.6,Reorganized
+Mentha,Mentha oil,0.6,Reorganized
+Black plum,Black bear,0.6,Reorganized
+Green plum,Green tea,0.6,Reorganized
+Green bean,Brown bear,0.6,Reorganized
+Hyssop,Hyssop oil,0.6,Reorganized
+Corn salad,Corn oil,0.6,Reorganized
+Canola,Canola oil,0.6,Reorganized
+Black plum,Black tea,0.6,Reorganized
+Muskmelon,Muskmallow,0.6,Reorganized
+Prickly pear,Prickly pear,0.583,Reorganized
+Common grape,Common tuna,0.583,Reorganized
+Sweet orange,Sweet corn,0.583,Reorganized
+Green lentil,Green tea,0.583,Reorganized
+Mammee apple,Mamme eapple,0.583,Reorganized
+Malabar plum,Malabar plum,0.583,Reorganized
+Apple cider,Apple cider vinegar,0.579,Reorganized
+Malabar plum,Malabar spinach,0.571,Reorganized
+Green zucchini,Yellow zucchini,0.571,Reorganized
+Chinese chives,Chinese quince,0.571,Reorganized
+White mulberry,White pepper,0.571,Reorganized
+Butternut squash,Butternut squash,0.562,Reorganized
+Chinese cinnamon,Chinese quince,0.562,Reorganized
+Japanese persimmon,Japanese whisky,0.556,Reorganized
+Pecan nut,Pecan nut,0.556,Reorganized
+Brassicas,Trassi,0.556,Reorganized
+Cracker,Cranberry,0.556,Reorganized
+Lemon balm,Lemon grass,0.545,Reorganized
+Wild leek,Wild cherry,0.545,Reorganized
+Sweet bay,Sweet grass,0.545,Reorganized
+White wine,White bread,0.545,Reorganized
+Sweet basil,Sweet grass,0.545,Reorganized
+Green apple,Green tea,0.545,Reorganized
+White bread,White wine,0.545,Reorganized
+Apple cider,AppleSauce,0.545,Reorganized
+Green onion,Green tea,0.545,Reorganized
+Other bread,White bread,0.545,Reorganized
+Orange mint,Orange,0.545,Reorganized
+Lemon grass,Lemon balm,0.545,Reorganized
+Passion fruit,Passionfruit,0.538,Reorganized
+Common walnut,Common tuna,0.538,Reorganized
+Custard apple,Mustard oil,0.538,Reorganized
+Salted butter,Peanut butter,0.538,FlavorDB
+Mustard spinach,Mustard oil,0.533,Reorganized
+Jalapeno pepper,Jalapeno,0.533,Reorganized
+Common mushroom,Common tuna,0.533,Reorganized
+Japanese walnut,Japanese pumpkin,0.533,Reorganized
+Buffalo currant,Buffalo currant,0.533,Reorganized
+Pepper (Capsicum),Pepper (C. baccatum),0.529,Reorganized
+Morchella (Morel),Morchella,0.529,Reorganized
+Apple cider,Apple brandy,0.5,Reorganized
+Japanese persimmon,Japanese persimmon,0.5,Reorganized
+Japanese persimmon,Japanese pumpkin,0.5,Reorganized
+Dragée,Orange,0.5,Reorganized
+Sweet basil,Sweet potato,0.5,Reorganized
+Natal plum,Natalplum,0.5,Reorganized
+Fish oil,Fish,0.5,Reorganized
+Common oregano,Common tuna,0.5,Reorganized
+Common cabbage,Common tuna,0.5,Reorganized
+Pine nut,Pine,0.5,Reorganized
+Green lentil,Green bean,0.5,Reorganized
+Sweet potato,Sweet grass,0.5,Reorganized
+Curry powder,Curry leaf,0.5,Reorganized
+Star fruit,Star anise,0.5,Reorganized
+Black walnut,Black bear,0.5,Reorganized
+Broad bean,Black bear,0.5,Reorganized
+Broad bean,Polar bear,0.5,Reorganized
+Horned melon,Horned melon,0.5,Reorganized
+Bitter gourd,Bitter gourd,0.5,Reorganized
+Common buckwheat,Common tuna,0.5,Reorganized
+Red tea,Red wine,0.5,Reorganized
+Red tea,Red sage,0.5,Reorganized
+Black walnut,Black tea,0.5,Reorganized
+Japanese pumpkin,Japanese pumpkin,0.5,Reorganized
+Bean,Brandy,0.5,FlavorDB
+Green bean,Green bean,0.5,Reorganized
+Mentha,Mentha,0.5,Reorganized
+Mentha,Meat,0.5,Reorganized
+Cupuaçu,Cupuaçu,0.5,Reorganized
+White wine,White pepper,0.5,Reorganized
+Black radish,Black bear,0.5,Reorganized
+Black radish,Black tea,0.5,Reorganized
+Green tea,Green bean,0.5,Reorganized
+Sweet bay,Sweet potato,0.5,Reorganized
+Sweet cherry,Sweet grass,0.5,Reorganized
+Rose hip,Rose,0.5,Reorganized
+Cocoa bean,Polar bear,0.5,Reorganized
+Black raisin,Black tea,0.5,Reorganized
+Rose hip,Rose hip,0.5,Reorganized
+Black raisin,Black bear,0.5,Reorganized
+Cocoa bean,Cocoa bean,0.5,Reorganized
+Other beverage,Other cheeses,0.5,Reorganized
+Poppy,Poppy,0.5,Reorganized
+Sweet orange,Sweet potato,0.5,Reorganized
+Cichlidae (Tilapia),Cichlidae (Tilapia),0.474,Reorganized
+Japanese pumpkin,Japanese persimmon,0.471,Reorganized
+Brussel sprouts,Brussels sprout,0.467,Reorganized
+Chinese cabbage,Chinese quince,0.467,Reorganized
+Malabar spinach,Malabar plum,0.467,Reorganized
+Common hazelnut,Common tuna,0.467,Reorganized
+Malabar spinach,Malabar spinach,0.467,Reorganized
+Yellow zucchini,Yellow zucchini,0.467,Reorganized
+Winter squash,Winter squash,0.462,Reorganized
+Black cabbage,Black tea,0.462,Reorganized
+Celery stalks,Celery,0.462,Reorganized
+Black cabbage,Black bear,0.462,Reorganized
+Skunk currant,Skunk currant,0.462,Reorganized
+White cabbage,White wine,0.462,Reorganized
+Green cabbage,Green tea,0.462,Reorganized
+Citrus,Citrus,0.462,Reorganized
+Celery leaves,Celery,0.462,Reorganized
+White mustard,White bread,0.462,Reorganized
+Blue mussel,Blue cheese,0.455,Reorganized
+Crisp bread,Crisp bread,0.455,Reorganized
+Milk (Cow),Milk powder,0.455,Reorganized
+Baked beans,Black bear,0.455,Reorganized
+Green apple,Mammee apple,0.455,Reorganized
+Welsh onion,Welsh onion,0.455,Reorganized
+Liquor,Liqourice,0.444,Reorganized
+Red onion,Red wine,0.444,Reorganized
+Red grape,Red sage,0.444,Reorganized
+Kiwi,Kiwi,0.444,Reorganized
+Grapefruit/Pummelo hybrid,Grapefruit peel oil,0.44,Reorganized
+Green vegetables,Green tea,0.438,Reorganized
+Common persimmon,Common persimmon,0.438,Reorganized
+Green zucchini,Green zucchini,0.429,Reorganized
+Sweet marjoram,Sweet potato,0.429,Reorganized
+Sweet marjoram,Sweet grass,0.429,Reorganized
+Milk (Human),Milk human,0.417,Reorganized
+Red onion,Red onion,0.417,Reorganized
+Black raisin,Blackcurrant,0.417,Reorganized
+Sweet cherry,Sweet corn,0.417,Reorganized
+Milk (Human),Milk fat,0.417,Reorganized
+Garden onion,Red onion,0.417,Reorganized
+Purple mangosteen,Purple mangosteen,0.412,Reorganized
+Black elderberry,Blackberry brandy,0.412,Reorganized
+"Mandarin orange (Clementine, Tangerine)",Mandarin orange peel oil,0.41,Reorganized
+Mikan,Milk,0.4,Reorganized
+Common pea,Common persimmon,0.4,Reorganized
+Star fruit,Star fruit,0.4,Reorganized
+Mikan,Mint,0.4,Reorganized
+White champagne,White wine,0.4,Reorganized
+Corn salad,Cornsalad,0.4,Reorganized
+Common bean,Common persimmon,0.4,Reorganized
+Pepper (C. chinense),Pepper (C. chinense),0.4,Reorganized
+Watermelon,Water chestnut,0.385,Reorganized
+Heart of palm,Heart of palm,0.385,Reorganized
+Chineese plum,ChineseQuince,0.385,Reorganized
+Wheat bread,Wheaten bread,0.385,Reorganized
+Soy bean,Soy bean,0.375,Reorganized
+Black elderberry,Black bear,0.375,Reorganized
+Black chokeberry,Black bear,0.375,Reorganized
+Baked beans,Black tea,0.364,Reorganized
+Pepper (C. frutescens),Pepper (C. frutescens),0.364,Reorganized
+Other candy,Pear brandy,0.364,Reorganized
+Calabash,Malabar spinach,0.357,Reorganized
+White mulberry,White currant,0.357,Reorganized
+Black chokeberry,Blackberry brandy,0.353,Reorganized
+Other cereal product,Other meat product,0.35,Reorganized
+Pepper (C. baccatum),Pepper (C. baccatum),0.35,Reorganized
+Lard,Laurel,0.333,Reorganized
+Other soy product,Other meat product,0.333,Reorganized
+Mamey sapote,Mammee apple,0.333,Reorganized
+Date,Wattle,0.333,Reorganized
+Crustaceans,Cluster bean,0.333,Reorganized
+Muscadine grape,Mandarin orange,0.333,Reorganized
+Rosé wine,Rose,0.333,Reorganized
+Pulses,Peas,0.333,Reorganized
+Other bread,Other meat product,0.333,Reorganized
+Hyssop,Hops,0.333,Reorganized
+Lichee,Litchee,0.333,Reorganized
+Pepper (C. pubescens),Pepper (C. chinense),0.333,Reorganized
+Other fruit product,Other meat product,0.316,Reorganized
+Other cocoa product,Other meat product,0.316,Reorganized
+Green vegetables,GreenBeans,0.312,Reorganized
+Soy sauce,Soybean sauce,0.308,Reorganized
+Red champagne,Red sage,0.308,Reorganized
+Other vegetable product,Other meat product,0.304,Reorganized
+Clementine,Clupeinae,0.3,Reorganized
+Whole wheat bread,Whole wheat bread,0.294,Reorganized
+Black radish,Blackberry brandy,0.294,Reorganized
+Canola,Calamus,0.286,Reorganized
+Soy bean,Soybean oil,0.273,Reorganized
+Butternut squash,Winter squash,0.25,Reorganized
+Bitter gourd,Calabash,0.25,Reorganized
+Crosne,Creosote,0.25,Reorganized
+Processed cheese,Parmesan cheese,0.25,Reorganized
+Celeriac,Ceriman,0.25,Reorganized
+Soy bean,Soybean sauce,0.231,Reorganized
+Rape,Raspberry,0.222,Reorganized
+Beverages,Beaver,0.222,Reorganized
+Rape,Rose apple,0.222,Reorganized
+Red tea,Rye bread,0.222,Reorganized
+Wax apple,Malay apple,0.2,Reorganized
+Winter squash,Butternut squash,0.2,Reorganized
+Bean,Bread,0.2,Reorganized
+Mikan,Milk human,0.2,Reorganized
+Pecan nut,Peanut oil,0.2,Reorganized
+Pomes,Peas,0.2,Reorganized
+Processed cheese,Gruyere cheese,0.188,Reorganized
+Java plum,Malabar plum,0.182,Reorganized
+True oyster,Creosote,0.182,Reorganized
+Fruits,Fish,0.167,Reorganized
+Red beetroot,Beetroot,0.167,Reorganized
+Persian lime,Geranium,0.167,Reorganized
+Welsh onion,Red onion,0.167,Reorganized
+Canola,Clam,0.167,Reorganized
+Bog bilberry,Blueberry,0.167,Reorganized
+Sweet cherry,Sour cherry,0.167,Reorganized
+Bean,Pecans,0.167,Reorganized
+Mammee apple,Malay apple,0.167,Reorganized
+New Zealand spinach,New Zealand spinach,0.158,Reorganized
+White bread,Wheaten bread,0.154,Reorganized
+Curry powder,Cherry pepper,0.154,Reorganized
+Cracker,Arrack,0.143,Reorganized
+Black elderberry,Blueberry,0.125,Reorganized
+Wheat bread,Whole wheat bread,0.125,Reorganized
+Black chokeberry,Blueberry,0.125,Reorganized
+Whole wheat bread,Wheaten bread,0.118,Reorganized
+Other soy product,Bakery products,0.118,Reorganized
+Red wine,Rose wine,0.111,Reorganized
+Brassicas,Cassia,0.111,Reorganized
+Port wine,Pine,0.111,Reorganized
+Muskmelon,Melon,0.111,Reorganized
+Plains prickly pear,Prickly pear,0.105,Reorganized
+Red onion,Welsh onion,0.1,Reorganized
+Crosne,Citronella,0.1,Reorganized
+Baked beans,Beans,0.091,Reorganized
+Green apple,Rose apple,0.091,Reorganized
+Crustaceans,Cetacea,0.091,Reorganized
+Wax apple,Mammee apple,0.091,Reorganized
+Dried milk,Skimmed milk,0.083,Reorganized
+Hyssop,Anise hyssop,0.083,Reorganized
+Sour cherry,Turkey berry,0.083,Reorganized
+Other candy,Cherry brandy,0.077,Reorganized
+Celery leaves,Clary sage,0.077,Reorganized
+Lantern fruit,Star fruit,0.077,Reorganized
+Star fruit,Citrus,0.077,Reorganized
+Fruits,Citrus,0.077,Reorganized
+Bog bilberry,Bilberry wine,0.077,Reorganized
+Blackcurrant,Buffalo currant,0.071,Reorganized
+Sour orange,Satsuma orange,0.071,Reorganized
+Water spinach,Malabar spinach,0.071,Reorganized
+White champagne,Champagne,0.067,Reorganized
+Yellow zucchini,Green zucchini,0.067,Reorganized
+Buffalo currant,Blackcurrant,0.067,Reorganized
+Mustard spinach,Malabar spinach,0.067,Reorganized
+Common mushroom,Mushroom,0.067,Reorganized
+Sweet rowanberry,Cranberry,0.062,Reorganized
+Sweet rowanberry,Strawberry jam,0.062,Reorganized
+Alaska blueberry,Blueberry,0.062,Reorganized
+Processed cheese,Beef processed,0.062,FlavorDB
+Common persimmon,Japanese persimmon,0.059,Reorganized
+Pepper (Capsicum),Pepper (Capsicum),0.059,Reorganized
+Malabar spinach,New Zealand spinach,0.059,Reorganized
+,Russian cheese,0,FlavorDB
+Horseradish tree,,0,Reorganized
+,Fermented tea,0,FlavorDB
+,Plum,0,FlavorDB
+,Scotch spearmint,0,FlavorDB
+,Opossum,0,FlavorDB
+,Plum wine,0,FlavorDB
+,Paneer,0,FlavorDB
+,Raisin,0,FlavorDB
+,Sheep milk,0,FlavorDB
+,Lobster,0,FlavorDB
+,Percoidei,0,FlavorDB
+,Fatty fish,0,FlavorDB
+,Goat cheese,0,FlavorDB
+Atlantic cod,,0,Reorganized
+,Lime peel oil,0,FlavorDB
+,Munster cheese,0,FlavorDB
+,Mozzarella cheese,0,FlavorDB
+,Drumstick leaf,0,FlavorDB
+,Comte cheese,0,FlavorDB
+,Kenaf,0,FlavorDB
+,Champaca,0,FlavorDB
+,Bantu beer,0,FlavorDB
+,Hippoglossus,0,FlavorDB
+,Neroli oil,0,FlavorDB
+,Raspberry brandy,0,FlavorDB
+Dessert wine,,0,Reorganized
+,Bartlett Pear,0,FlavorDB
+Fox grape,,0,Reorganized
+Chinese broccoli,,0,Reorganized
+,Tobacco,0,FlavorDB
+,Yarrow,0,FlavorDB
+,Sukiyaki,0,FlavorDB
+,Cheddar cheese,0,FlavorDB
+"Cow milk, pasteurized, vitamin A + D added, 0% fat",,0,Reorganized
+,Tilsit cheese,0,FlavorDB
+,Feta cheese,0,FlavorDB
+,Babaco,0,FlavorDB
+,Citrus peel Oil,0,FlavorDB
+,Colocasia,0,FlavorDB
+,Dragée,0,FlavorDB
+,Shellfish,0,FlavorDB
+,Caviar,0,FlavorDB
+Milk and milk products,,0,Reorganized
+,Mastic gum,0,FlavorDB
+,Spineless monkey orange,0,FlavorDB
+,Beef,0,FlavorDB
+,Asafoetida,0,FlavorDB
+,Pumpkin,0,FlavorDB
+,Plum brandy,0,FlavorDB
+,Beli,0,FlavorDB
+Yellow wax bean,,0,Reorganized
+Salted butter,,0,Reorganized
+,Pleuronectidae,0,FlavorDB
+,Armagnac brandy,0,FlavorDB
+,Cider,0,FlavorDB
+,Anise brandy,0,FlavorDB
+,Romano cheese,0,FlavorDB
+,Ylang-Ylang,0,FlavorDB
+,Alpinia,0,FlavorDB
+,Mutton,0,FlavorDB
+,Papaya brandy,0,FlavorDB
+,Myrtle,0,FlavorDB
+,Basmati rice,0,FlavorDB
+,Achilleas,0,FlavorDB
+,Sparkling wine,0,FlavorDB
+,Salmon,0,FlavorDB
+,Caribou,0,FlavorDB
+,Pawpaw,0,FlavorDB
+,Squirrel,0,FlavorDB
+,Ham,0,FlavorDB
+,Lamb,0,FlavorDB
+,Grass,0,FlavorDB
+,Artemisia,0,FlavorDB
+,Mace,0,FlavorDB
+,Fir,0,FlavorDB
+,Muskrat,0,FlavorDB
+,Myrrh,0,FlavorDB
+,Berry,0,FlavorDB
+,Bourbon whisky,0,FlavorDB
+,Orris,0,FlavorDB
+,Truffle,0,FlavorDB
+,Great horned owl,0,FlavorDB
+,Bivalvia,0,FlavorDB
+,Macaroni,0,FlavorDB
+,Krill,0,FlavorDB
+,Malt,0,FlavorDB
+,Roibos tea,0,FlavorDB
+,Onion,0,FlavorDB
+,Garcinia indica,0,FlavorDB
+,Mountain papaya,0,FlavorDB
+,Oyster,0,FlavorDB
+,Wine,0,FlavorDB
+,Canadian whisky,0,FlavorDB
+,Roquefort cheese,0,FlavorDB
+,Scombridae,0,FlavorDB
+,Cascarilla,0,FlavorDB
+,Camphor,0,FlavorDB
+,Botrytized wine,0,FlavorDB
+,Cashew apple,0,FlavorDB
+,Scotch whisky,0,FlavorDB
+,Tomato,0,FlavorDB
+,Wort,0,FlavorDB
+,Dairy products,0,FlavorDB
+,Filbert,0,FlavorDB
+,Carom seed,0,FlavorDB
+,Pork,0,FlavorDB
+,Bonito,0,FlavorDB
+,Cherry,0,FlavorDB
+,Oregano,0,FlavorDB
+,Arar,0,FlavorDB
+,Sandalwood,0,FlavorDB
+,Sheep cheese,0,FlavorDB
+,Finnish whisky,0,FlavorDB
+,Sassafras,0,FlavorDB
+,Hogplum,0,FlavorDB
+,Cream cheese,0,FlavorDB
+,Columbidae,0,FlavorDB
+,Cottage cheese,0,FlavorDB
+,Rutabaga,0,FlavorDB
+,Thyme,0,FlavorDB
+,Kewda,0,FlavorDB
+,Plumcot,0,FlavorDB
+,Lavendar,0,FlavorDB
+,Cajeput,0,FlavorDB
+,Camembert cheese,0,FlavorDB
+,Ricotta cheese,0,FlavorDB
+,Weinbrand brandy,0,FlavorDB
+,Lean fish,0,FlavorDB
+,Storax,0,FlavorDB
+,Hops oil,0,FlavorDB
+,Bitter orange,0,FlavorDB
+,Emmental cheese,0,FlavorDB
+,Bergamot,0,FlavorDB
+,Frankfurter sausage,0,FlavorDB
+,Fried potato,0,FlavorDB
+,Raccoon,0,FlavorDB
+,Prawn,0,FlavorDB
+,Eucalyptus,0,FlavorDB
+,Spanish sage,0,FlavorDB
+,Moose,0,FlavorDB
+,Byrsonima crassifolia,0,FlavorDB
+,Hyacinth,0,FlavorDB
+,Pepino,0,FlavorDB
+,Beverage alcolohic other,0,FlavorDB
+,Domiati cheese,0,FlavorDB
+,Codfish,0,FlavorDB
+,Salmonidae,0,FlavorDB
+,Basil,0,FlavorDB
+,Smoked fish,0,FlavorDB
+,Kidney beans,0,FlavorDB
+,Ashgourd,0,FlavorDB
+,Malt whisky,0,FlavorDB
+,Limburger cheese,0,FlavorDB
+,Rhubarb,0,FlavorDB
+,Buchu,0,FlavorDB
+,Cedar,0,FlavorDB
+,Nigella seed,0,FlavorDB
+,Cognac brandy,0,FlavorDB
+,Goat milk,0,FlavorDB
+,Jasmine,0,FlavorDB
+"Pleuronectidae (Dab, Halibut, Plaice)",,0,Reorganized
+Yellow bell pepper,,0,Reorganized
+Coffee substitute,,0,Reorganized
+Pie filling,,0,Reorganized
+"Clupeinae (Herring, Sardine, Sprat)",,0,Reorganized
+Butter substitute,,0,Reorganized
+Butterfat,,0,Reorganized
+Soft-necked garlic,,0,Reorganized
+Wampee,,0,Reorganized
+Plantain,,0,Reorganized
+Roman camomile,Chamomile,0,Reorganized
+Marine mussel,,0,Reorganized
+Milk (Other mammals),,0,Reorganized
+Root vegetables,,0,Reorganized
+Robusta coffee,,0,Reorganized
+Peach (var.),,0,Reorganized
+European cranberry,,0,Reorganized
+Chicory leaves,,0,Reorganized
+Macadamia nut (M. tetraphylla),,0,Reorganized
+Globe artichoke,Globe artichoke,0,Reorganized
+"Cetacea (Dolphin, Porpoise, Whale)",,0,Reorganized
+Savoy cabbage,,0,Reorganized
+"Salmonidae (Salmon, Trout)",,0,Reorganized
+German camomile,,0,Reorganized
+Chinese mustard,,0,Reorganized
+Chinese water chestnut,Chinese water chestnut,0,Reorganized
+Other bread,Rye bread,0,Reorganized
+Onion-family vegetables,,0,Reorganized
+Mundu,,0,Reorganized
+Sugar apple,,0,Reorganized
+Juniperus communis,,0,Reorganized
+Redcurrant,White currant,0,Reorganized
+Redcurrant,Currant,0,Reorganized
+Coffee and coffee products,,0,Reorganized
+Alcoholic beverages,,0,Reorganized
+Skunk currant,Currant,0,Reorganized
+Red grape juice,,0,Reorganized
+"Bivalvia (Clam, Mussel, Oyster)",,0,Reorganized
+Herbal tea,,0,Reorganized
+Dragée,Sage,0,Reorganized
+Garden onion (var.),,0,Reorganized
+Herbs and Spices,,0,Reorganized
+Ceylon cinnamon,,0,Reorganized
+Half-highbush blueberry,,0,Reorganized
+Sweet marjoram,Marjoram,0,Reorganized
+Blue crab,,0,Reorganized
+Tostada shell,,0,Reorganized
+"Cow milk, pasteurized, vitamin A + D added, 2% fat",,0,Reorganized
+Thornless blackberry,,0,Reorganized
+Iceberg lettuce,,0,Reorganized
+American cranberry,,0,Reorganized
+Domestic goat,,0,Reorganized
+Pea shoots,,0,Reorganized
+Albizia gummifera,,0,Reorganized
+Green onion,Red onion,0,Reorganized
+Red bell pepper,,0,Reorganized
+Nectarine,,0,Reorganized
+Highbush blueberry,,0,Reorganized
+Macroalgae,,0,Reorganized
+Clawed lobster,,0,Reorganized
+"Prunus (Cherry, Plum)",,0,Reorganized
+"Sheep (Mutton, Lamb)",,0,Reorganized
+"Columbidae (Dove, Pigeon)",,0,Reorganized
+Daikon radish,,0,Reorganized
+Cocoa and cocoa products,,0,Reorganized
+Castanospermum australe,,0,Reorganized
+Rocket salad (ssp.),,0,Reorganized
+Pitaya,,0,Reorganized
+Green bell pepper,,0,Reorganized
+Tronchuda cabbage,,0,Reorganized
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",,0,Reorganized
+Gentiana lutea,,0,Reorganized
+Unclassified food or beverage,,0,Reorganized
+Romaine lettuce,,0,Reorganized
+Radish (var.),,0,Reorganized
+Pot marjoram,Marjoram,0,Reorganized
+Thunnus,,0,Reorganized
+Taco shell,,0,Reorganized
+Baby food,,0,Reorganized
+Evergreen blackberry,,0,Reorganized
+Goji,,0,Reorganized
+Andean blackberry,,0,Reorganized
+Guarana,,0,Reorganized
+Evergreen huckleberry,,0,Reorganized
+Common buckwheat,Buckwheat,0,Reorganized
+Crosne,Rose,0,Reorganized
+Frozen yogurt,,0,Reorganized
+Gadus (Common cod),,0,Reorganized
+Malus (Crab apple),,0,Reorganized
+Cocoa liquor,,0,Reorganized
+Pepper (Spice),,0,Reorganized
+Egg yolk,,0,Reorganized
+Velvet duck,,0,Reorganized
+Lichee,Ghee,0,Reorganized
+Cream substitute,,0,Reorganized
+Summer grape,,0,Reorganized
+"Rubus (Blackberry, Raspberry)",,0,Reorganized
+Tallow,Muskmallow,0,Reorganized
+Tunicate,,0,Reorganized
+Fats and oils,,0,Reorganized
+Swede,,0,Reorganized
+Asian pear,,0,Reorganized
+White grape juice,,0,Reorganized
+Pacific oyster,,0,Reorganized
+Garden tomato (var.),,0,Reorganized
+Yali pear,,0,Reorganized
+Percoidei (Bass and others),,0,Reorganized
+Italian sweet red pepper,,0,Reorganized
+Edible shell,,0,Reorganized
+Other animal fat,,0,Reorganized
+Lowbush blueberry,Blueberry,0,Reorganized
+Napa cabbage,,0,Reorganized
+Orange bell pepper,,0,Reorganized
+Norway lobster,,0,Reorganized
+Oval-leaf huckleberry,,0,Reorganized
+Cantaloupe melon,,0,Reorganized
+Grape wine,,0,Reorganized
+Sour cream,,0,Reorganized
+Snow crab,,0,Reorganized
+Red champagne,Champagne,0,Reorganized
+"Scombridae (Bonito, Mackerel, Tuna)",,0,Reorganized
+Rapeseed oil,,0,Reorganized
+Milk substitute,,0,Reorganized
+Pacific cod,,0,Reorganized
+Partridge berry,,0,Reorganized
+Red clover,,0,Reorganized
+Garden tomato,,0,Reorganized
+Hawthorn,,0,Reorganized
+Common chokecherry,,0,Reorganized
+Orange mint,Tangerine,0,Reorganized
+Skipjack tuna,,0,Reorganized
+Cannellini bean,,0,Reorganized
+Garden rhubarb,,0,Reorganized
+linseed oil,,0,Reorganized
+Cape gooseberry,,0,Reorganized
+Pacific salmon,,0,Reorganized
+Fruit-flavor drink,,0,Reorganized
+New Zealand spinach,Malabarspinach,0,Reorganized
+Other alcoholic beverage,,0,Reorganized
+Cowpea,,0,Reorganized
+"Cattle (Beef, Veal)",,0,Reorganized
+Italian oregano,,0,Reorganized
+Chicory roots,,0,Reorganized
+Red huckleberry,,0,Reorganized
+American lobster,,0,Reorganized
+Tropical highland blackberry,,0,Reorganized
+Cereals and cereal products,,0,Reorganized
+Hippoglossus (Common halibut),,0,Reorganized
+Cubanelle pepper,,0,Reorganized
+Egg substitute,,0,Reorganized
+Dripping,,0,Reorganized
+Mugwort,,0,Reorganized
+Passion fruit,YellowPassionfruit,0,Reorganized
+Dungeness crab,,0,Reorganized
+Arctic blackberry,,0,Reorganized
+Acorn squash,,0,Reorganized
+Oxheart cabbage,,0,Reorganized
+Yau choy,,0,Reorganized
+Olive oil,,0,Reorganized
+Rabbiteye blueberry,,0,Reorganized
+Domestic pig,,0,Reorganized
+"Cow milk, pasteurized, vitamin A + D added, 1% fat",,0,Reorganized
+Sunburst squash (pattypan squash),,0,Reorganized
+Lard,Chard,0,Reorganized
+Monk fruit,Passionfruit,0,Reorganized
+"Cow milk, pasteurized, vitamin D added, 3.25% fat",,0,Reorganized
+Eastern oyster,,0,Reorganized
+Rye bread,White bread,0,Reorganized
+European plum,,0,Reorganized
+Hickory nut,,0,Reorganized
+Opium poppy,,0,Reorganized
+Wax gourd,,0,Reorganized
+Eddoe,,0,Reorganized
+Sacred lotus,,0,Reorganized
+Cascade huckleberry,,0,Reorganized
+,Lemon peel Oil,0,FlavorDB

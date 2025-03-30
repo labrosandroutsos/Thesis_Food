@@ -1,0 +1,963 @@
+,food_name,num_compounds
+0,Abalone,1480
+1,Abiyuch,5431
+2,Acerola,5439
+3,Acorn,5435
+4,Acorn squash,3969
+5,Adobo,31
+6,Adzuki bean,5488
+7,Agar,1507
+8,Agave,5443
+9,Akutaq,17
+10,Alaska blackfish,6
+11,Alaska blueberry,5441
+12,Alaska pollock,60
+13,Alaska wild rhubarb,5423
+14,Albacore tuna,53
+15,Albizia gummifera,3974
+16,Alcoholic beverages,583
+17,Alfalfa,5515
+18,Allium,5503
+19,Allspice,5520
+20,Almond,5561
+21,Alpine sweetvetch,5423
+22,Amaranth,5613
+23,American butterfish,1470
+24,American cranberry,5533
+25,American lobster,59
+26,American pokeweed,5457
+27,American shad,48
+28,Anatidae,42503
+29,Anchovy,76
+30,Andean blackberry,5
+31,Angelica,5435
+32,Anguilliformes,76
+33,Anise,5517
+34,Annual wild rice,5587
+35,Apple,5720
+36,Apple cider,21
+37,Apricot,5556
+38,Arabica coffee,4465
+39,Arctic blackberry,5425
+40,Arepa,53
+41,Arrowhead,5434
+42,Arrowroot,5444
+43,Ascidians,9
+44,Asian pear,5526
+45,Asparagus,5593
+46,Atlantic cod,51
+47,Atlantic croaker,48
+48,Atlantic halibut,76
+49,Atlantic herring,1480
+50,Atlantic mackerel,48
+51,Atlantic menhaden,19
+52,Atlantic pollock,48
+53,Atlantic salmon,49
+54,Atlantic wolffish,76
+55,Avocado,5540
+56,Babassu palm,5437
+57,Baby food,91
+58,Bagel,4024
+59,Baked beans,63
+60,Baked potato,31
+61,Bamboo shoots,5475
+62,Banana,5504
+63,Barley,5760
+64,Bayberry,5421
+65,Bean,5453
+66,Bearded seal,58
+67,Beech nut,5431
+68,Beefalo,42442
+69,Beer,334
+70,Beluga whale,58
+71,Berry wine,6
+72,Beverages,108
+73,Bilberry,5580
+74,Biscuit,1515
+75,Bison,42427
+76,Bitter gourd,5515
+77,"Bivalvia (Clam, Mussel, Oyster)",61
+78,Black cabbage,5443
+79,Black chokeberry,5467
+80,Black crowberry,5437
+81,Black elderberry,5550
+82,Black huckleberry,5426
+83,Black mulberry,5439
+84,Black plum,3969
+85,Black radish,5422
+86,Black raisin,3969
+87,Black raspberry,5432
+88,Black salsify,5471
+89,Black tea,6602
+90,Black walnut,5568
+91,Black-eyed pea,5474
+92,Blackberry,4239
+93,Blackcurrant,5622
+94,Blue crab,62
+95,Blue mussel,54
+96,Blue whiting,72
+97,Bluefish,37
+98,Bog bilberry,5426
+99,Borage,5460
+100,Bowhead whale,7
+101,Boysenberry,5440
+102,Brassicas,1663
+103,Brazil nut,5521
+104,Breadfruit,5466
+105,Breadnut tree seed,5436
+106,Breakfast cereal,2162
+107,Breakfast sandwich,59
+108,Broad bean,5521
+109,Broad whitefish,6
+110,Broccoli,5638
+111,Brussel sprouts,5528
+112,Buffalo,42427
+113,Buffalo currant,5421
+114,Bulgur,4202
+115,Burbot,1506
+116,Burdock,5529
+117,Burrito,60
+118,Butter,88
+119,Butter substitute,31
+120,Butterfat,48
+121,Buttermilk,84
+122,Butternut,5473
+123,Butternut squash,5442
+124,Cabbage,5544
+125,Cake,64
+126,Calabash,5441
+127,Canada blueberry,5437
+128,Candy bar,39
+129,Cannellini bean,3969
+130,Canola,5449
+131,Canola oil,1
+132,Cantaloupe melon,3969
+133,Cape gooseberry,3969
+134,Capers,5480
+135,Caraway,5557
+136,Cardamom,5501
+137,Cardoon,5436
+138,Carob,5473
+139,Carp bream,72
+140,Carrot,5761
+141,Cascade huckleberry,5425
+142,Casein,76
+143,Cashew nut,5541
+144,Cassava,5480
+145,Castanospermum australe,3971
+146,Catfish,79
+147,Catjang pea,5433
+148,"Cattle (Beef, Veal)",42520
+149,Cauliflower,5629
+150,Celeriac,5510
+151,Celery leaves,5480
+152,Celery stalks,5522
+153,Cereals and cereal products,2107
+154,"Cetacea (Dolphin, Porpoise, Whale)",72
+155,Ceylon cinnamon,5527
+156,Channel catfish,63
+157,Chanterelle,5469
+158,Charr,72
+159,Chayote,5476
+160,Cheese,109
+161,Cherimoya,5494
+162,Cherry tomato,5468
+163,Chervil,5477
+164,Chestnut,5483
+165,Chewing gum,75
+166,Chia,5436
+167,Chicken,42488
+168,Chickpea,5513
+169,Chicory,5540
+170,Chicory leaves,5423
+171,Chicory roots,5421
+172,Chili,61
+173,Chimichanga,33
+174,Chineese plum,3969
+175,Chinese bayberry,5421
+176,Chinese broccoli,5440
+177,Chinese cabbage,5506
+178,Chinese chestnut,5432
+179,Chinese chives,5422
+180,Chinese cinnamon,5542
+181,Chinese mustard,5464
+182,Chinese water chestnut,5441
+183,Chinook salmon,59
+184,Chives,5512
+185,Chocolate,109
+186,Chocolate mousse,33
+187,Chocolate spread,78
+188,Chum salmon,59
+189,Cichlidae (Tilapia),55
+190,Cinnamon,5478
+191,Cisco,48
+192,Citrus,1829
+193,Clawed lobster,76
+194,Clementine,3969
+195,Climbing bean,5424
+196,Cloud ear fungus,5432
+197,Cloudberry,5463
+198,Cloves,5575
+199,"Clupeinae (Herring, Sardine, Sprat)",76
+200,Cocktail,31
+201,Cocoa and cocoa products,98
+202,Cocoa bean,1646
+203,Cocoa butter,82
+204,Cocoa liquor,2
+205,Cocoa powder,113
+206,Coconut,5560
+207,Coffee,143
+208,Coffee and coffee products,313
+209,Coffee mocha,33
+210,Coffee substitute,49
+211,Coho salmon,60
+212,Cold cut,86
+213,Colorado pinyon,5444
+214,"Columbidae (Dove, Pigeon)",42501
+215,Common bean,5628
+216,Common beet,5473
+217,Common buckwheat,5678
+218,Common cabbage,5494
+219,Common carp,49
+220,Common chokecherry,5443
+221,Common dab,72
+222,Common grape,5697
+223,Common hazelnut,5502
+224,Common ling,76
+225,Common mushroom,5953
+226,Common octopus,82
+227,Common oregano,5556
+228,Common pea,5669
+229,Common persimmon,5454
+230,Common sage,5597
+231,Common salsify,5456
+232,Common thyme,5532
+233,Common verbena,5437
+234,Common walnut,5508
+235,Common wheat,5723
+236,Conch,1477
+237,Condensed milk,48
+238,Cooking oil,60
+239,Coriander,5579
+240,Corn,5963
+241,Corn chip,65
+242,Corn grits,58
+243,Corn salad,5436
+244,Cornbread,4016
+245,Cornmint,5479
+246,Cottonseed,5501
+247,Couscous,50
+248,"Cow milk, pasteurized, vitamin A + D added, 0% fat",754
+249,"Cow milk, pasteurized, vitamin A + D added, 1% fat",760
+250,"Cow milk, pasteurized, vitamin A + D added, 2% fat",761
+251,"Cow milk, pasteurized, vitamin D added, 3.25% fat",756
+252,Cowpea,5461
+253,Crab,76
+254,Cracker,93
+255,Crayfish,82
+256,Cream,87
+257,Cream substitute,51
+258,Crisp bread,85
+259,Crosne,3970
+260,Crustaceans,39
+261,Cubanelle pepper,3969
+262,Cucumber,5640
+263,Cucurbita,5497
+264,Cumin,5516
+265,Cupuaçu,1477
+266,Curry powder,4052
+267,Cusk,31
+268,Custard apple,5459
+269,Cuttlefish,33
+270,Daikon radish,5474
+271,Dandelion,5552
+272,Date,5542
+273,Deer,42481
+274,Deerberry,5423
+275,Dessert wine,3
+276,Devilfish,1462
+277,Dill,5658
+278,Dock,5438
+279,Dolphin fish,38
+280,Domestic goat,42470
+281,Domestic pig,42516
+282,Dragée,68
+283,Dried milk,84
+284,Dripping,32
+285,Dulce de leche,46
+286,Dumpling,65
+287,Dungeness crab,34
+288,Durian,5434
+289,Eastern oyster,59
+290,Eddoe,3969
+291,Edible shell,54
+292,Egg roll,62
+293,Egg substitute,48
+294,Egg yolk,1
+295,Eggplant,5603
+296,Eggs,106
+297,Elderberry,5472
+298,Elk,42427
+299,Elliott's blueberry,5421
+300,Empanada,52
+301,Emu,42427
+302,Enchilada,34
+303,Endive,5526
+304,Energy drink,34
+305,Enokitake,5450
+306,Epazote,5432
+307,European anchovy,51
+308,European chestnut,5458
+309,European cranberry,5434
+310,European plum,5561
+311,European rabbit,42427
+312,Evaporated milk,48
+313,Evening primrose,5456
+314,Evergreen blackberry,241
+315,Evergreen huckleberry,5425
+316,Falafel,32
+317,Fats and oils,725
+318,Feijoa,5452
+319,Fennel,5574
+320,Fenugreek,5534
+321,Fig,5600
+322,Fireweed,5432
+323,Fish burger,15
+324,Fish oil,72
+325,Fishes,98
+326,Flatfish,87
+327,Flaxseed,5565
+328,Florida pompano,48
+329,Flour,4186
+330,Focaccia,35
+331,Fox grape,5427
+332,French plantain,5547
+333,French toast,59
+334,Freshwater drum,33
+335,Freshwater eel,48
+336,Frozen yogurt,48
+337,Fruit gum,72
+338,Fruit juice,131
+339,Fruit preserve,84
+340,Fruit salad,35
+341,Fruit-flavor drink,62
+342,Fruits,3480
+343,Frybread,34
+344,Fudge,37
+345,Gadiformes,72
+346,Gadus (Common cod),76
+347,Garden cress,5502
+348,Garden onion,5829
+349,Garden onion (var.),5651
+350,Garden rhubarb,5539
+351,Garden tomato,5662
+352,Garden tomato (var.),5612
+353,Garfish,76
+354,Garland chrysanthemum,5443
+355,Garlic,5569
+356,Gefilte fish,33
+357,Gelatin,76
+358,Gelatin dessert,83
+359,Gentiana lutea,3969
+360,German camomile,5522
+361,Giant butterbur,5469
+362,Gin,67
+363,Ginger,5696
+364,Ginkgo nuts,5529
+365,Ginseng,5422
+366,Globe artichoke,5501
+367,Goji,3969
+368,Gooseberry,5542
+369,Gram bean,5475
+370,Grape,5538
+371,Grape wine,279
+372,Grapefruit,5515
+373,Grapefruit/Pummelo hybrid,5435
+374,Grass pea,5431
+375,Greater sturgeon,48
+376,Green apple,3969
+377,Green bean,5612
+378,Green bell pepper,5788
+379,Green cabbage,3969
+380,Green grape,3970
+381,Green lentil,3969
+382,Green onion,5641
+383,Green plum,3969
+384,Green tea,6600
+385,Green turtle,32
+386,Green vegetables,2168
+387,Green zucchini,5530
+388,Greenland halibut/turbot,82
+389,Greenthread tea,5427
+390,Greylag goose,42427
+391,Groundcherry,5469
+392,Grouper,37
+393,Guarana,3972
+394,Guava,5612
+395,Guinea hen,42427
+396,Haddock,85
+397,Half-highbush blueberry,5425
+398,Hamburger,63
+399,Hard wheat,5634
+400,Hawthorn,3969
+401,Hazelnut,5484
+402,Heart of palm,4017
+403,Hedge mustard,5433
+404,Herbal tea,6567
+405,Herbs and Spices,3422
+406,Hibiscus tea,4000
+407,Hickory nut,5436
+408,Highbush blueberry,5552
+409,Hippoglossus (Common halibut),62
+410,Honey,75
+411,Horchata,46
+412,Horned melon,5430
+413,Horse,42427
+414,Horseradish,5554
+415,Horseradish tree,5468
+416,Hot chocolate,102
+417,Hot dog,33
+418,Hummus,54
+419,Hushpuppy,56
+420,Hyacinth bean,5458
+421,Hyssop,5499
+422,Ice cream,84
+423,Ice cream cone,50
+424,Iceberg lettuce,3969
+425,Icing,58
+426,Irish moss,1487
+427,Italian oregano,5432
+428,Italian sweet red pepper,5620
+429,Jackfruit,5474
+430,Jalapeno pepper,3969
+431,Japanese chestnut,5434
+432,Japanese persimmon,5466
+433,Japanese pumpkin,5527
+434,Japanese walnut,5423
+435,Java plum,5444
+436,Jellyfish,32
+437,Jerusalem artichoke,5478
+438,Jew's ear,5432
+439,Jicama,5457
+440,Jostaberry,5438
+441,Jujube,5439
+442,Juniperus communis,3973
+443,Junket,40
+444,Jute,5446
+445,Kai-lan,5422
+446,Kale,5485
+447,Kefir,76
+448,Kelp,1479
+449,Ketchup,90
+450,King mackerel,33
+451,Kiwi,5514
+452,Kohlrabi,5540
+453,Komatsuna,5421
+454,Kombu,1506
+455,Kumquat,5472
+456,Lake trout,72
+457,Lambsquarters,5453
+458,Lantern fruit,3969
+459,Lard,84
+460,Lasagna,53
+461,Leather chiton,6
+462,Leavening agent,85
+463,Leek,5473
+464,Lemon,5652
+465,Lemon balm,5497
+466,Lemon grass,5465
+467,Lemon sole,76
+468,Lemon thyme,5421
+469,Lemon verbena,5432
+470,Lentils,5524
+471,Lettuce,5571
+472,Lichee,5479
+473,Lima bean,5494
+474,Lime,5542
+475,Linden,5458
+476,Lingcod,37
+477,Lingonberry,5521
+478,Liquor,90
+479,Liquorice,78
+480,Loganberry,5471
+481,Longan,5428
+482,Loquat,5524
+483,Lotus,5432
+484,Lovage,5481
+485,Lowbush blueberry,5470
+486,Lumpsucker,72
+487,Lupine,5425
+488,Macadamia nut,5462
+489,Macadamia nut (M. tetraphylla),5428
+490,Macaroni and cheese,61
+491,Macroalgae,4
+492,Madeira wine,26
+493,Maitake,5452
+494,Malabar plum,5431
+495,Malabar spinach,5443
+496,Mallard duck,42427
+497,Malus (Crab apple),5484
+498,Mamey sapote,5447
+499,Mammee apple,5444
+500,"Mandarin orange (Clementine, Tangerine)",5629
+501,Mango,5521
+502,Margarine,90
+503,Margarine-like spread,95
+504,Marine mussel,76
+505,Marshmallow,79
+506,Marzipan,76
+507,Mate,3971
+508,Meat bouillon,76
+509,Meatball,72
+510,Meatloaf,58
+511,Medlar,5438
+512,Mentha,5437
+513,Meringue,72
+514,Mexican groundcherry,5444
+515,Mexican oregano,5435
+516,Mikan,3970
+517,Milk (Cow),2183
+518,Milk (Human),82
+519,Milk (Other mammals),82
+520,Milk and milk products,152
+521,Milk substitute,48
+522,Milkfish,31
+523,Milkshake,58
+524,Millet,5641
+525,Miso,4069
+526,Mixed nuts,1488
+527,Molasses,34
+528,Mollusks,95
+529,Monk fruit,3969
+530,Monkfish,31
+531,Morchella (Morel),4007
+532,Moth bean,5439
+533,Mountain hare,42503
+534,Mountain yam,5435
+535,Mugwort,5476
+536,Mulberry,5437
+537,Mule deer,42427
+538,Multigrain bread,61
+539,Mundu,3994
+540,Mung bean,5555
+541,Muscadine grape,5436
+542,Mushrooms,478
+543,Muskmelon,5557
+544,Mustard,94
+545,Mustard spinach,5435
+546,Nachos,51
+547,Nance,5441
+548,Nanking cherry,5438
+549,Napa cabbage,5442
+550,Naranjilla,5438
+551,Narrowleaf cattail,5440
+552,Natal plum,5426
+553,Natto,50
+554,Nectarine,5493
+555,New Zealand spinach,5440
+556,Nopal,5441
+557,North Pacific giant octopus,11
+558,Northern bluefin tuna,48
+559,Northern pike,82
+560,Norway haddock,72
+561,Norway lobster,76
+562,Norway pout,72
+563,Nougat,44
+564,Nutmeg,5553
+565,Nutritional drink,63
+566,Nuts,1707
+567,Nuttall cockle,5
+568,Oat,5760
+569,Oat bread,4016
+570,Ocean pout,32
+571,Ohelo berry,5425
+572,Oil palm,5473
+573,Oil-seed Camellia,1476
+574,Okra,5493
+575,Olive,5589
+576,Olive oil,23
+577,Onion-family vegetables,1678
+578,Opium poppy,1528
+579,Orange bell pepper,5726
+580,Orange mint,5477
+581,Orange roughy,51
+582,Oregon yampah,5432
+583,Oriental wheat,5611
+584,Ostrich,42427
+585,Ostrich fern,5431
+586,Other alcoholic beverage,77
+587,Other animal fat,82
+588,Other beverage,58
+589,Other bread,1514
+590,Other bread product,88
+591,Other candy,95
+592,Other cereal product,1477
+593,Other cocoa product,7
+594,Other dish,92
+595,Other fermented milk,76
+596,Other fish product,91
+597,Other frozen dessert,83
+598,Other fruit product,83
+599,Other pasta dish,61
+600,Other sandwich,63
+601,Other snack food,96
+602,Other soy product,1502
+603,Other vegetable product,49
+604,Oval-leaf huckleberry,5425
+605,Oxheart cabbage,5427
+606,Oyster mushroom,5946
+607,Pacific cod,60
+608,Pacific herring,33
+609,Pacific jack mackerel,48
+610,Pacific ocean perch,72
+611,Pacific oyster,45
+612,Pacific rockfish,60
+613,Pacific salmon,4
+614,Pacific sardine,55
+615,Painted comber,60
+616,Pak choy,5472
+617,Pan dulce,46
+618,Pancake,61
+619,Papaya,5602
+620,Parsley,5611
+621,Parsnip,5564
+622,Partridge berry,3970
+623,Passion fruit,5492
+624,Pasta,5485
+625,Pastry,93
+626,Pate,83
+627,Pea shoots,3969
+628,Peach,5579
+629,Peach (var.),5449
+630,Peanut,5558
+631,Pear,5622
+632,Pecan nut,5492
+633,Pectin,33
+634,Pepper,5732
+635,Pepper (C. baccatum),5421
+636,Pepper (C. chinense),5421
+637,Pepper (C. frutescens),5536
+638,Pepper (C. pubescens),5421
+639,Pepper (Capsicum),5422
+640,Pepper (Spice),5648
+641,Peppermint,5588
+642,Perciformes,82
+643,Percoidei (Bass and others),48
+644,Persian lime,5448
+645,Persimmon,5469
+646,Pheasant,42427
+647,Phyllo dough,47
+648,Pie,57
+649,Pie crust,61
+650,Pie filling,49
+651,Pigeon pea,5463
+652,Pikeperch,72
+653,Piki bread,4007
+654,Pili nut,5431
+655,Pine nut,5495
+656,Pineapple,5568
+657,Pineappple sage,5421
+658,Pink salmon,60
+659,Pistachio,5532
+660,Pita bread,4016
+661,Pitanga,5428
+662,Pitaya,3969
+663,Pizza,92
+664,Plains prickly pear,5434
+665,Plantain,3969
+666,"Pleuronectidae (Dab, Halibut, Plaice)",76
+667,Pollock,72
+668,Pomegranate,5598
+669,Pomes,1633
+670,Popcorn,65
+671,Poppy,1518
+672,Port wine,55
+673,Pot marjoram,5482
+674,Pot pie,58
+675,Potato,5838
+676,Potato bread,4018
+677,Potato chip,60
+678,Potato gratin,38
+679,Potato puffs,59
+680,Prairie turnip,5442
+681,Prickly pear,5519
+682,Processed cheese,63
+683,"Prunus (Cherry, Plum)",5490
+684,Pudding,64
+685,Pulses,2023
+686,Pummelo,5455
+687,Pumpkinseed sunfish,33
+688,Pupusa,51
+689,Purple laver,1479
+690,Purple mangosteen,5456
+691,Purslane,5452
+692,Quail,42477
+693,Quesadilla,41
+694,Quince,5508
+695,Quinoa,5613
+696,Rabbit,42511
+697,Rabbiteye blueberry,4022
+698,Radish,5544
+699,Radish (var.),5425
+700,Rainbow smelt,48
+701,Rainbow trout,87
+702,Raisin bread,4016
+703,Rambutan,5432
+704,Rape,5478
+705,Rapeseed oil,3
+706,Rapini,5454
+707,Ravioli,59
+708,Red algae,1491
+709,Red beetroot,5568
+710,Red bell pepper,5773
+711,Red champagne,3
+712,Red clover,3970
+713,Red grape,3969
+714,Red grape juice,4
+715,Red huckleberry,5425
+716,Red king crab,35
+717,Red onion,5640
+718,Red raspberry,5557
+719,Red rice,5587
+720,Red tea,6565
+721,Red wine,126
+722,Redcurrant,5561
+723,Relish,48
+724,Remoulade,76
+725,Rice,5737
+726,Rice bread,4016
+727,Rice cake,31
+728,Ringed seal,8
+729,Robusta coffee,4419
+730,Rock ptarmigan,42499
+731,Rocket salad,1465
+732,Rocket salad (ssp.),5472
+733,Roe,48
+734,Romaine lettuce,5527
+735,Roman camomile,5512
+736,Root vegetables,1808
+737,Rose hip,5492
+738,Roselle,5482
+739,Rosemary,5612
+740,Rosé wine,10
+741,Rowal,5431
+742,Rowanberry,5426
+743,"Rubus (Blackberry, Raspberry)",1601
+744,Rum,73
+745,Rye,5671
+746,Rye bread,4075
+747,Sablefish,37
+748,Sacred lotus,5462
+749,Safflower,5562
+750,Saffron,5500
+751,Sago palm,5422
+752,Sake,31
+753,Salad,60
+754,Salad dressing,93
+755,Salmonberry,5443
+756,"Salmonidae (Salmon, Trout)",82
+757,Salt,82
+758,Salted butter,3
+759,Sapodilla,5443
+760,Saskatoon berry,5440
+761,Sauce,94
+762,Sausage,99
+763,Savoy cabbage,5475
+764,Scallop,61
+765,Scarlet bean,5466
+766,"Scombridae (Bonito, Mackerel, Tuna)",76
+767,Scrapple,36
+768,Scup,48
+769,Sea cucumber,5
+770,Sea trout,37
+771,Sea-buckthornberry,5464
+772,Semolina,4053
+773,Sesame,5531
+774,Sesbania flower,5429
+775,Shallot,5444
+776,Shark,48
+777,Shea tree,1485
+778,Sheefish,57
+779,"Sheep (Mutton, Lamb)",42488
+780,Sheepshead,33
+781,Sherry,94
+782,Shiitake,5460
+783,Shortening,57
+784,Shrimp,87
+785,Silver linden,5432
+786,Skipjack tuna,33
+787,Skunk currant,5421
+788,Small-leaf linden,5423
+789,Smelt,53
+790,Snack bar,70
+791,Snail,78
+792,Snapper,48
+793,Snow crab,33
+794,Sockeye salmon,63
+795,Soft drink,83
+796,Soft-necked garlic,5602
+797,Sorghum,5621
+798,Sorrel,5484
+799,Soup,94
+800,Sour cherry,5528
+801,Sour cream,47
+802,Sour orange,3974
+803,Sourdock,5424
+804,Sourdough,5421
+805,Soursop,5465
+806,Soy bean,5897
+807,Soy cream,3975
+808,Soy milk,4072
+809,Soy sauce,4070
+810,Soy yogurt,49
+811,Soybean oil,3
+812,Spanish mackerel,48
+813,Sparkleberry,5428
+814,Spearmint,5602
+815,Spelt,5611
+816,Spinach,5625
+817,Spiny dogfish,72
+818,Spiny lobster,37
+819,Spirit,82
+820,Spirulina,1482
+821,Spot croaker,37
+822,Spotted seal,40
+823,Spread,53
+824,Squab,42427
+825,Squashberry,5425
+826,Squid,48
+827,Star anise,5481
+828,Star fruit,5489
+829,Steller sea lion,27
+830,Stew,64
+831,Strawberry,5580
+832,Strawberry guava,5429
+833,Striped bass,37
+834,Striped mullet,48
+835,Stuffing,55
+836,Sturgeon,76
+837,Succotash,47
+838,Sugar,83
+839,Sugar apple,5456
+840,Sugar substitute,82
+841,Summer grape,5455
+842,Summer savory,5466
+843,Sunburst squash (pattypan squash),5509
+844,Sunflower,5647
+845,Swamp cabbage,5445
+846,Swede,5496
+847,Sweet basil,5604
+848,Sweet bay,5593
+849,Sweet cherry,5596
+850,Sweet custard,62
+851,Sweet marjoram,5532
+852,Sweet orange,5732
+853,Sweet potato,5513
+854,Sweet rowanberry,5422
+855,Swiss chard,5511
+856,Swordfish,55
+857,Syrup,83
+858,Taco,88
+859,Taco shell,4023
+860,Tallow,82
+861,Tamale,57
+862,Tamarind,5534
+863,Tapioca pearl,47
+864,Taro,5452
+865,Tarragon,5513
+866,Tartary buckwheat,5589
+867,Tea,2628
+868,Tea leaf willow,5423
+869,Teff,5611
+870,Thistle,5468
+871,Thornless blackberry,4
+872,Thunnus,89
+873,Tilefish,37
+874,Tinda,5435
+875,Toffee,74
+876,Tofu,4076
+877,Topping,57
+878,Tortilla,4059
+879,Tortilla chip,117
+880,Tostada,33
+881,Tostada shell,3991
+882,Towel gourd,5442
+883,Trail mix,33
+884,Tree fern,5437
+885,Triticale,5599
+886,Tronchuda cabbage,5421
+887,Tropical highland blackberry,11
+888,True frog,78
+889,True oyster,60
+890,True seal,68
+891,True sole,60
+892,Tunicate,5
+893,Turbot,76
+894,Turkey,42508
+895,Turmeric,5524
+896,Turnip,5544
+897,Ucuhuba,1479
+898,Unclassified food or beverage,88
+899,"Vaccinium (Blueberry, Cranberry, Huckleberry)",5493
+900,Vanilla,5443
+901,Vegetable juice,83
+902,Vegetarian food,62
+903,Velvet duck,42427
+904,Vermouth,73
+905,Vinegar,94
+906,Vodka,61
+907,Waffle,57
+908,Wakame,1482
+909,Walleye,37
+910,Walnut,5473
+911,Walrus,7
+912,Wampee,3969
+913,Wasabi,5450
+914,Water,82
+915,Water spinach,3969
+916,Watercress,5485
+917,Watermelon,5549
+918,Wax apple,5422
+919,Wax gourd,5441
+920,Welsh onion,5659
+921,Wheat,5684
+922,Wheat bread,4078
+923,Whelk,48
+924,Whey,82
+925,Whisky,88
+926,White bread,4057
+927,White cabbage,5576
+928,White champagne,2
+929,White grape juice,4
+930,White lupine,5455
+931,White mulberry,3970
+932,White mustard,5500
+933,White sucker,33
+934,White wine,109
+935,Whitefish,87
+936,Whiting,82
+937,Whole wheat bread,3
+938,Wild boar,42427
+939,Wild carrot,5615
+940,Wild celery,5704
+941,Wild leek,5466
+942,Wild rice,5607
+943,Winged bean,5442
+944,Winter savory,5479
+945,Winter squash,5456
+946,Wonton wrapper,4006
+947,Yali pear,3975
+948,Yam,5478
+949,Yardlong bean,5437
+950,Yau choy,3969
+951,Yautia,5440
+952,Yellow bell pepper,5749
+953,Yellow pond-lily,5445
+954,Yellow wax bean,5577
+955,Yellow zucchini,5517
+956,Yellowfin tuna,55
+957,Yellowtail amberjack,32
+958,Ymer,76
+959,Yogurt,101
+960,Zwieback,4005
+961,linseed oil,2
