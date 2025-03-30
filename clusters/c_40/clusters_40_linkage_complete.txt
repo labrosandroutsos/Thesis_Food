@@ -1,0 +1,80 @@
+Cluster 12: Abalone, American butterfish, Atlantic herring, Conch, Cupuaçu, Devilfish, Irish moss, Kelp, Mixed nuts, Oil-seed Camellia, Other cereal product, Purple laver, Red algae, Rocket salad, Shea tree, Spirulina, Ucuhuba, Wakame
+
+Cluster 30: Abiyuch, Acerola, Acorn, Agave, Alaska blueberry, Alaska wild rhubarb, Alpine sweetvetch, Angelica, Arctic blackberry, Arrowhead, Arrowroot, Babassu palm, Bayberry, Bean, Beech nut, Black cabbage, Black crowberry, Black huckleberry, Black mulberry, Black radish, Black raspberry, Bog bilberry, Boysenberry, Breadnut tree seed, Buffalo currant, Butternut squash, Calabash, Canada blueberry, Canola, Cardoon, Cascade huckleberry, Catjang pea, Chia, Chicory leaves, Chicory roots, Chinese bayberry, Chinese broccoli, Chinese chestnut, Chinese chives, Chinese water chestnut, Climbing bean, Cloud ear fungus, Colorado pinyon, Common chokecherry, Common persimmon, Common verbena, Corn salad, Deerberry, Dock, Durian, Elliott's blueberry, Enokitake, Epazote, European cranberry, Evening primrose, Evergreen huckleberry, Feijoa, Fireweed, Fox grape, Garland chrysanthemum, Ginseng, Grapefruit/Pummelo hybrid, Grass pea, Greenthread tea, Half-highbush blueberry, Hedge mustard, Hickory nut, Horned melon, Italian oregano, Japanese chestnut, Japanese walnut, Java plum, Jew's ear, Jostaberry, Jujube, Jute, Kai-lan, Komatsuna, Lambsquarters, Lemon thyme, Lemon verbena, Longan, Lotus, Lupine, Macadamia nut (M. tetraphylla), Maitake, Malabar plum, Malabar spinach, Mamey sapote, Mammee apple, Medlar, Mentha, Mexican groundcherry, Mexican oregano, Moth bean, Mountain yam, Mulberry, Muscadine grape, Mustard spinach, Nance, Nanking cherry, Napa cabbage, Naranjilla, Narrowleaf cattail, Natal plum, New Zealand spinach, Nopal, Ohelo berry, Oregon yampah, Ostrich fern, Oval-leaf huckleberry, Oxheart cabbage, Peach (var.), Pepper (C. baccatum), Pepper (C. chinense), Pepper (C. pubescens), Pepper (Capsicum), Persian lime, Pili nut, Pineappple sage, Pitanga, Plains prickly pear, Prairie turnip, Pummelo, Purslane, Radish (var.), Rambutan, Rapini, Red huckleberry, Rowal, Rowanberry, Sago palm, Salmonberry, Sapodilla, Saskatoon berry, Sesbania flower, Shallot, Silver linden, Skunk currant, Small-leaf linden, Sourdock, Sourdough, Sparkleberry, Squashberry, Strawberry guava, Sugar apple, Summer grape, Swamp cabbage, Sweet rowanberry, Taro, Tea leaf willow, Tinda, Towel gourd, Tree fern, Tronchuda cabbage, Vanilla, Wasabi, Wax apple, Wax gourd, White lupine, Winged bean, Yardlong bean, Yautia, Yellow pond-lily
+
+Cluster 26: Acorn squash, Albizia gummifera, Bagel, Black plum, Black raisin, Cannellini bean, Cantaloupe melon, Cape gooseberry, Castanospermum australe, Chineese plum, Clementine, Cornbread, Crosne, Cubanelle pepper, Eddoe, Gentiana lutea, Goji, Green apple, Green cabbage, Green grape, Green lentil, Green plum, Guarana, Hawthorn, Heart of palm, Hibiscus tea, Iceberg lettuce, Jalapeno pepper, Juniperus communis, Lantern fruit, Mate, Mikan, Monk fruit, Morchella (Morel), Mundu, Oat bread, Partridge berry, Pea shoots, Piki bread, Pita bread, Pitaya, Plantain, Potato bread, Rabbiteye blueberry, Raisin bread, Red clover, Red grape, Rice bread, Sour orange, Soy cream, Taco shell, Tostada shell, Wampee, Water spinach, White mulberry, Wonton wrapper, Yali pear, Yau choy, Zwieback
+
+Cluster 8: Adobo, Akutaq, Alaska blackfish, Albacore tuna, American shad, Andean blackberry, Apple cider, Arepa, Ascidians, Atlantic cod, Atlantic croaker, Atlantic mackerel, Atlantic menhaden, Atlantic pollock, Atlantic salmon, Baked potato, Berry wine, Blue mussel, Bluefish, Bowhead whale, Broad whitefish, Butter substitute, Butterfat, Candy bar, Canola oil, Chimichanga, Chocolate mousse, Cichlidae (Tilapia), Cisco, Cocktail, Cocoa liquor, Coffee mocha, Coffee substitute, Common carp, Condensed milk, Couscous, Cream substitute, Crustaceans, Cusk, Cuttlefish, Dessert wine, Dolphin fish, Dripping, Dulce de leche, Dungeness crab, Edible shell, Egg substitute, Egg yolk, Empanada, Enchilada, Energy drink, European anchovy, Evaporated milk, Falafel, Fish burger, Florida pompano, Focaccia, Freshwater drum, Freshwater eel, Frozen yogurt, Fruit salad, Frybread, Fudge, Gefilte fish, Greater sturgeon, Green turtle, Grouper, Horchata, Hot dog, Hummus, Ice cream cone, Jellyfish, Junket, King mackerel, Lasagna, Leather chiton, Lingcod, Macroalgae, Madeira wine, Milk substitute, Milkfish, Molasses, Monkfish, Nachos, Natto, North Pacific giant octopus, Northern bluefin tuna, Nougat, Nuttall cockle, Ocean pout, Olive oil, Orange roughy, Other cocoa product, Other vegetable product, Pacific herring, Pacific jack mackerel, Pacific oyster, Pacific salmon, Pacific sardine, Pan dulce, Pectin, Percoidei (Bass and others), Phyllo dough, Pie filling, Potato gratin, Pumpkinseed sunfish, Pupusa, Quesadilla, Rainbow smelt, Rapeseed oil, Red champagne, Red grape juice, Red king crab, Relish, Rice cake, Ringed seal, Roe, Rosé wine, Sablefish, Sake, Salted butter, Scrapple, Scup, Sea cucumber, Sea trout, Shark, Sheepshead, Skipjack tuna, Smelt, Snapper, Snow crab, Sour cream, Soy yogurt, Soybean oil, Spanish mackerel, Spiny lobster, Spot croaker, Spotted seal, Spread, Squid, Steller sea lion, Striped bass, Striped mullet, Stuffing, Succotash, Swordfish, Tapioca pearl, Thornless blackberry, Tilefish, Tostada, Trail mix, Tropical highland blackberry, Tunicate, Walleye, Walrus, Whelk, White champagne, White grape juice, White sucker, Whole wheat bread, Yellowfin tuna, Yellowtail amberjack, linseed oil
+
+Cluster 32: Adzuki bean, American pokeweed, Bamboo shoots, Black chokeberry, Black salsify, Black-eyed pea, Borage, Breadfruit, Butternut, Capers, Carob, Cassava, Celery leaves, Chanterelle, Chayote, Cherimoya, Cherry tomato, Chervil, Chestnut, Chinese mustard, Cinnamon, Cloudberry, Common beet, Common cabbage, Common salsify, Cornmint, Cowpea, Cucurbita, Custard apple, Daikon radish, Elderberry, European chestnut, Giant butterbur, Gram bean, Groundcherry, Hazelnut, Horseradish tree, Hyacinth bean, Jackfruit, Japanese persimmon, Jerusalem artichoke, Jicama, Kale, Kumquat, Leek, Lemon grass, Lichee, Lima bean, Linden, Loganberry, Lovage, Lowbush blueberry, Macadamia nut, Malus (Crab apple), Mugwort, Nectarine, Oil palm, Okra, Orange mint, Pak choy, Passion fruit, Pasta, Pecan nut, Persimmon, Pigeon pea, Pine nut, Pot marjoram, Prunus (Cherry, Plum), Purple mangosteen, Rape, Rocket salad (ssp.), Rose hip, Roselle, Sacred lotus, Savoy cabbage, Scarlet bean, Sea-buckthornberry, Shiitake, Sorrel, Soursop, Star anise, Star fruit, Summer savory, Swede, Thistle, Vaccinium (Blueberry, Cranberry, Huckleberry), Walnut, Watercress, Wild leek, Winter savory, Winter squash, Yam
+
+Cluster 11: Agar, Biscuit, Burbot, Kombu, Opium poppy, Other bread, Other soy product, Poppy
+
+Cluster 10: Alaska pollock, American lobster, Anchovy, Anguilliformes, Atlantic halibut, Atlantic wolffish, Baby food, Baked beans, Bearded seal, Beluga whale, Beverages, Bivalvia (Clam, Mussel, Oyster), Blue crab, Blue whiting, Breakfast sandwich, Burrito, Butter, Buttermilk, Cake, Carp bream, Casein, Catfish, Cetacea (Dolphin, Porpoise, Whale), Channel catfish, Charr, Cheese, Chewing gum, Chili, Chinook salmon, Chocolate, Chocolate spread, Chum salmon, Clawed lobster, Clupeinae (Herring, Sardine, Sprat), Cocoa and cocoa products, Cocoa butter, Cocoa powder, Coho salmon, Cold cut, Common dab, Common ling, Common octopus, Cooking oil, Corn chip, Corn grits, Crab, Cracker, Crayfish, Cream, Crisp bread, Dragée, Dried milk, Dumpling, Eastern oyster, Egg roll, Eggs, Fish oil, Fishes, Flatfish, French toast, Fruit gum, Fruit preserve, Fruit-flavor drink, Gadiformes, Gadus (Common cod), Garfish, Gelatin, Gelatin dessert, Gin, Greenland halibut/turbot, Haddock, Hamburger, Hippoglossus (Common halibut), Honey, Hot chocolate, Hushpuppy, Ice cream, Icing, Kefir, Ketchup, Lake trout, Lard, Leavening agent, Lemon sole, Liquor, Liquorice, Lumpsucker, Macaroni and cheese, Margarine, Margarine-like spread, Marine mussel, Marshmallow, Marzipan, Meat bouillon, Meatball, Meatloaf, Meringue, Milk (Human), Milk (Other mammals), Milkshake, Mollusks, Multigrain bread, Mustard, Northern pike, Norway haddock, Norway lobster, Norway pout, Nutritional drink, Other alcoholic beverage, Other animal fat, Other beverage, Other bread product, Other candy, Other dish, Other fermented milk, Other fish product, Other frozen dessert, Other fruit product, Other pasta dish, Other sandwich, Other snack food, Pacific cod, Pacific ocean perch, Pacific rockfish, Painted comber, Pancake, Pastry, Pate, Perciformes, Pie, Pie crust, Pikeperch, Pink salmon, Pizza, Pleuronectidae (Dab, Halibut, Plaice), Pollock, Popcorn, Port wine, Pot pie, Potato chip, Potato puffs, Processed cheese, Pudding, Rainbow trout, Ravioli, Remoulade, Rum, Salad, Salad dressing, Salmonidae (Salmon, Trout), Salt, Sauce, Sausage, Scallop, Scombridae (Bonito, Mackerel, Tuna), Sheefish, Sherry, Shortening, Shrimp, Snack bar, Snail, Sockeye salmon, Soft drink, Soup, Spiny dogfish, Spirit, Stew, Sturgeon, Sugar, Sugar substitute, Sweet custard, Syrup, Taco, Tallow, Tamale, Thunnus, Toffee, Topping, True frog, True oyster, True seal, True sole, Turbot, Unclassified food or beverage, Vegetable juice, Vegetarian food, Vermouth, Vinegar, Vodka, Waffle, Water, Whey, Whisky, White wine, Whitefish, Whiting, Ymer, Yogurt
+
+Cluster 4: Alcoholic beverages
+
+Cluster 31: Alfalfa, Allium, Anise, Banana, Bitter gourd, Cardamom, Celeriac, Chickpea, Chinese cabbage, Chives, Common hazelnut, Common walnut, Cottonseed, Cumin, Garden cress, Globe artichoke, Grapefruit, Hyssop, Kiwi, Lemon balm, Quince, Roman camomile, Saffron, Sunburst squash (pattypan squash), Sweet potato, Swiss chard, Tarragon, White mustard, Yellow zucchini
+
+Cluster 29: Allspice, American cranberry, Apricot, Asian pear, Avocado, Black elderberry, Brazil nut, Broad bean, Brussel sprouts, Burdock, Cabbage, Caraway, Cashew nut, Celery stalks, Ceylon cinnamon, Chicory, Chinese cinnamon, Common oregano, Common thyme, Dandelion, Date, Endive, Fenugreek, French plantain, Garden rhubarb, German camomile, Ginkgo nuts, Gooseberry, Grape, Green zucchini, Highbush blueberry, Horseradish, Japanese pumpkin, Kohlrabi, Lentils, Lime, Lingonberry, Loquat, Mango, Mung bean, Muskmelon, Nutmeg, Peanut, Pepper (C. frutescens), Pistachio, Prickly pear, Radish, Red raspberry, Romaine lettuce, Sesame, Sour cherry, Sweet marjoram, Tamarind, Turmeric, Turnip, Watermelon
+
+Cluster 28: Almond, Bilberry, Black walnut, Cloves, Coconut, Coriander, European plum, Fennel, Flaxseed, Garlic, Lettuce, Parsnip, Peach, Pineapple, Red beetroot, Redcurrant, Safflower, Strawberry, White cabbage, Yellow wax bean
+
+Cluster 35: Amaranth, Annual wild rice, Asparagus, Common sage, Eggplant, Fig, Garden tomato (var.), Green bean, Guava, Olive, Oriental wheat, Papaya, Parsley, Peppermint, Pomegranate, Quinoa, Red rice, Rosemary, Soft-necked garlic, Sorghum, Spearmint, Spelt, Sweet basil, Sweet bay, Sweet cherry, Tartary buckwheat, Teff, Triticale, Wild carrot, Wild rice
+
+Cluster 2: Anatidae, Cattle (Beef, Veal), Chicken, Columbidae (Dove, Pigeon), Deer, Domestic goat, Domestic pig, Mountain hare, Quail, Rabbit, Rock ptarmigan, Sheep (Mutton, Lamb), Turkey
+
+Cluster 38: Apple, Common grape, Common wheat, Ginger, Orange bell pepper, Pepper, Rice, Sweet orange, Wild celery
+
+Cluster 23: Arabica coffee, Robusta coffee
+
+Cluster 40: Barley, Carrot, Green bell pepper, Oat, Red bell pepper, Yellow bell pepper
+
+Cluster 1: Beefalo, Bison, Buffalo, Elk, Emu, European rabbit, Greylag goose, Guinea hen, Horse, Mallard duck, Mule deer, Ostrich, Pheasant, Squab, Velvet duck, Wild boar
+
+Cluster 6: Beer, Coffee and coffee products
+
+Cluster 27: Black tea, Green tea, Herbal tea, Red tea
+
+Cluster 24: Blackberry, Bulgur, Flour
+
+Cluster 37: Blackcurrant, Broccoli, Cauliflower, Common bean, Cucumber, Garden onion (var.), Green onion, Hard wheat, Italian sweet red pepper, Lemon, Mandarin orange (Clementine, Tangerine), Millet, Pear, Pepper (Spice), Red onion, Spinach, Sunflower, Welsh onion
+
+Cluster 15: Brassicas, Nuts, Onion-family vegetables
+
+Cluster 16: Breakfast cereal, Green vegetables
+
+Cluster 18: Cereals and cereal products
+
+Cluster 13: Citrus, Root vegetables
+
+Cluster 14: Cocoa bean, Pomes, Rubus (Blackberry, Raspberry)
+
+Cluster 9: Coffee, Fruit juice, Milk and milk products, Red wine, Tortilla chip
+
+Cluster 36: Common buckwheat, Common pea, Dill, Garden tomato, Rye, Wheat
+
+Cluster 33: Common mushroom, Corn, Oyster mushroom
+
+Cluster 3: Cow milk, pasteurized, vitamin A + D added, 0% fat, Cow milk, pasteurized, vitamin A + D added, 1% fat, Cow milk, pasteurized, vitamin A + D added, 2% fat, Cow milk, pasteurized, vitamin D added, 3.25% fat, Fats and oils
+
+Cluster 25: Curry powder, Miso, Rye bread, Semolina, Soy milk, Soy sauce, Tofu, Tortilla, Wheat bread, White bread
+
+Cluster 7: Evergreen blackberry, Grape wine
+
+Cluster 21: Fruits
+
+Cluster 39: Garden onion, Potato
+
+Cluster 22: Herbs and Spices
+
+Cluster 17: Milk (Cow)
+
+Cluster 5: Mushrooms
+
+Cluster 19: Pulses
+
+Cluster 34: Soy bean
+
+Cluster 20: Tea
+

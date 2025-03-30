@@ -110,10 +110,10 @@ for embedding_size in embedding_sizes:
         model_other = Word2Vec(sentences_other, vector_size=embedding_size, window=window_size, min_count=1, workers=6)
 
         # Save models with configuration in filename
-        model_bitter.save(f"C:/Users/labro/Downloads/Thesis_Food/word2vec_bitter_{embedding_size}_{window_size}.model")
-        model_sweet.save(f"C:/Users/labro/Downloads/Thesis_Food/word2vec_sweet_{embedding_size}_{window_size}.model")
-        model_umami.save(f"C:/Users/labro/Downloads/Thesis_Food/word2vec_umami_{embedding_size}_{window_size}.model")
-        model_other.save(f"C:/Users/labro/Downloads/Thesis_Food/word2vec_other_{embedding_size}_{window_size}.model")
+        model_bitter.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_bitter_{embedding_size}_{window_size}.model")
+        model_sweet.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_sweet_{embedding_size}_{window_size}.model")
+        model_umami.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_umami_{embedding_size}_{window_size}.model")
+        model_other.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_other_{embedding_size}_{window_size}.model")
 
 
         if 'compound_embeddings_bitter' in df_bitter_tmp.columns:
@@ -173,7 +173,7 @@ for embedding_size in embedding_sizes:
         print(final_df.head)
         print(final_df.shape)
 
-        final_df.to_pickle(f'C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_aggregated_{embedding_size}_{window_size}.pkl')
+        final_df.to_pickle(f'C:/Users/labro/Downloads/Thesis_Food/embeddings_data/final_unified_embeddings_aggregated_{embedding_size}_{window_size}.pkl')
 
 
 
@@ -208,8 +208,8 @@ for embedding_size in embedding_sizes:
 # check if the first 5 rows have the same value at taste_embedding column.. Use equator =
 # print(df_food_dict_other['taste_embedding'][0] == df_food_dict_other['taste_embedding'][1] == df_food_dict_other['taste_embedding'][2] == df_food_dict_other['taste_embedding'][3] == df_food_dict_other['taste_embedding'][4])
 
-# model_other.save("C:/Users/labro/Downloads/Thesis_Food/word2vec_other_correct_150.model")
-# df_food_dict_other.to_csv('C:/Users/labro/Downloads/Thesis_Food/df_food_dict_other_embeddings_correct.csv', index=False, sep=';')
+# model_other.save("C:/Users/labro/Downloads/Thesis_Food/models/word2vec_other_correct_150.model")
+# df_food_dict_other.to_csv('C:/Users/labro/Downloads/Thesis_Food/embeddings/df_food_dict_other_embeddings_correct.csv', index=False, sep=';')
 
 # df_food_dict_other[['food_name', 'taste_embedding']].to_pickle('embedding_data_other_150.pkl')
 

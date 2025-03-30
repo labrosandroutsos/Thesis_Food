@@ -1,0 +1,2415 @@
+Cluster Comparison Results
+=========================
+
+Statistics:
+Total foods in reorganized clusters: 888
+Total foods in FlavorDB clusters: 936
+Foods in both: 576
+Foods only in reorganized: 312
+Foods only in FlavorDB: 360
+
+Foods only in reorganized clusters:
+- Alaska blueberry
+- Alcoholic beverages
+- American cranberry
+- American lobster
+- Andean blackberry
+- Apple cider
+- Arctic blackberry
+- Asian pear
+- Atlantic cod
+- Baby food
+- Baked beans
+- Bean
+- Beverages
+- Bitter gourd
+- Bivalvia (Clam, Mussel, Oyster)
+- Black cabbage
+- Black chokeberry
+- Black elderberry
+- Black radish
+- Black tea
+- Black walnut
+- Blackcurrant
+- Blue crab
+- Blue mussel
+- Bog bilberry
+- Brassicas
+- Brazil nut
+- Broad bean
+- Brussel sprouts
+- Buffalo currant
+- Butter substitute
+- Butterfat
+- Butternut squash
+- Calabash
+- Canola
+- Canola oil
+- Cascade huckleberry
+- Cattle (Beef, Veal)
+- Celeriac
+- Celery leaves
+- Celery stalks
+- Cereals and cereal products
+- Cetacea (Dolphin, Porpoise, Whale)
+- Ceylon cinnamon
+- Chicory leaves
+- Chicory roots
+- Chinese broccoli
+- Chinese cabbage
+- Chinese chives
+- Chinese cinnamon
+- Chinese mustard
+- Chinese water chestnut
+- Chives
+- Cichlidae (Tilapia)
+- Citrus
+- Clawed lobster
+- Cloves
+- Clupeinae (Herring, Sardine, Sprat)
+- Cocoa and cocoa products
+- Cocoa bean
+- Cocoa liquor
+- Coffee and coffee products
+- Coffee substitute
+- Columbidae (Dove, Pigeon)
+- Common bean
+- Common beet
+- Common buckwheat
+- Common cabbage
+- Common chokecherry
+- Common grape
+- Common hazelnut
+- Common mushroom
+- Common oregano
+- Common pea
+- Common persimmon
+- Common sage
+- Common thyme
+- Common walnut
+- Common wheat
+- Corn salad
+- Cow milk, pasteurized, vitamin A + D added, 0% fat
+- Cow milk, pasteurized, vitamin A + D added, 1% fat
+- Cow milk, pasteurized, vitamin A + D added, 2% fat
+- Cow milk, pasteurized, vitamin D added, 3.25% fat
+- Cowpea
+- Cracker
+- Cream substitute
+- Crisp bread
+- Crustaceans
+- Cupuaçu
+- Custard apple
+- Daikon radish
+- Date
+- Dessert wine
+- Domestic goat
+- Domestic pig
+- Dragée
+- Dried milk
+- Dripping
+- Dungeness crab
+- Eastern oyster
+- Edible shell
+- Egg substitute
+- Egg yolk
+- Eggs
+- European cranberry
+- European plum
+- Evergreen blackberry
+- Evergreen huckleberry
+- Fats and oils
+- Fish oil
+- Fishes
+- Fox grape
+- Frozen yogurt
+- Fruit-flavor drink
+- Fruits
+- Gadus (Common cod)
+- Garden onion
+- Garden onion (var.)
+- Garden rhubarb
+- Garden tomato
+- Garden tomato (var.)
+- German camomile
+- Globe artichoke
+- Grape wine
+- Grapefruit/Pummelo hybrid
+- Green bean
+- Green bell pepper
+- Green onion
+- Green tea
+- Green vegetables
+- Green zucchini
+- Greenland halibut/turbot
+- Half-highbush blueberry
+- Herbal tea
+- Herbs and Spices
+- Hickory nut
+- Highbush blueberry
+- Hippoglossus (Common halibut)
+- Horned melon
+- Horseradish tree
+- Hyssop
+- Italian oregano
+- Italian sweet red pepper
+- Japanese persimmon
+- Japanese pumpkin
+- Japanese walnut
+- Java plum
+- Kai-lan
+- Kiwi
+- Lard
+- Lemon balm
+- Lemon grass
+- Lemon thyme
+- Lichee
+- Lima bean
+- Liquor
+- Liquorice
+- Lowbush blueberry
+- Macadamia nut
+- Macadamia nut (M. tetraphylla)
+- Macroalgae
+- Malabar plum
+- Malabar spinach
+- Malus (Crab apple)
+- Mamey sapote
+- Mammee apple
+- Mandarin orange (Clementine, Tangerine)
+- Margarine-like spread
+- Marine mussel
+- Mentha
+- Milk (Cow)
+- Milk (Human)
+- Milk (Other mammals)
+- Milk and milk products
+- Milk substitute
+- Mollusks
+- Mugwort
+- Muscadine grape
+- Mushrooms
+- Muskmelon
+- Mustard spinach
+- Napa cabbage
+- Natal plum
+- Nectarine
+- New Zealand spinach
+- Norway lobster
+- Oat
+- Olive oil
+- Onion-family vegetables
+- Opium poppy
+- Orange bell pepper
+- Orange mint
+- Other alcoholic beverage
+- Other animal fat
+- Other beverage
+- Other bread
+- Other candy
+- Other cereal product
+- Other cocoa product
+- Other fruit product
+- Other soy product
+- Other vegetable product
+- Oval-leaf huckleberry
+- Oxheart cabbage
+- Pacific cod
+- Pacific oyster
+- Pacific salmon
+- Passion fruit
+- Peach (var.)
+- Pecan nut
+- Pepper (C. baccatum)
+- Pepper (C. chinense)
+- Pepper (C. frutescens)
+- Pepper (C. pubescens)
+- Pepper (Capsicum)
+- Pepper (Spice)
+- Percoidei (Bass and others)
+- Persian lime
+- Pie filling
+- Pigeon pea
+- Pine nut
+- Plains prickly pear
+- Pleuronectidae (Dab, Halibut, Plaice)
+- Pomes
+- Poppy
+- Port wine
+- Pot marjoram
+- Prickly pear
+- Processed cheese
+- Prunus (Cherry, Plum)
+- Pulses
+- Purple mangosteen
+- Radish (var.)
+- Rape
+- Rapeseed oil
+- Red beetroot
+- Red bell pepper
+- Red champagne
+- Red grape juice
+- Red huckleberry
+- Red onion
+- Red tea
+- Red wine
+- Redcurrant
+- Rocket salad (ssp.)
+- Romaine lettuce
+- Roman camomile
+- Root vegetables
+- Rose hip
+- Rosé wine
+- Rubus (Blackberry, Raspberry)
+- Sacred lotus
+- Salmonidae (Salmon, Trout)
+- Salted butter
+- Savoy cabbage
+- Scombridae (Bonito, Mackerel, Tuna)
+- Sea-buckthornberry
+- Sheep (Mutton, Lamb)
+- Skipjack tuna
+- Skunk currant
+- Small-leaf linden
+- Snow crab
+- Soft-necked garlic
+- Sour cherry
+- Sour cream
+- Soy bean
+- Soybean oil
+- Star anise
+- Star fruit
+- Strawberry guava
+- Sugar apple
+- Summer grape
+- Sunburst squash (pattypan squash)
+- Swede
+- Sweet basil
+- Sweet bay
+- Sweet cherry
+- Sweet marjoram
+- Sweet orange
+- Sweet potato
+- Sweet rowanberry
+- Swiss chard
+- Tallow
+- Thornless blackberry
+- Thunnus
+- Tronchuda cabbage
+- Tropical highland blackberry
+- True oyster
+- Tunicate
+- Unclassified food or beverage
+- Vaccinium (Blueberry, Cranberry, Huckleberry)
+- Velvet duck
+- Watermelon
+- Wax apple
+- Wax gourd
+- Welsh onion
+- White cabbage
+- White champagne
+- White grape juice
+- White mustard
+- White wine
+- Whole wheat bread
+- Wild carrot
+- Wild celery
+- Wild leek
+- Winter squash
+- Yellow bell pepper
+- Yellow pond-lily
+- Yellow wax bean
+- Yellow zucchini
+- linseed oil
+
+Foods only in FlavorDB:
+- Achilleas
+- Alpinia
+- Anise Brandy
+- Anise Hyssop
+- Apple Brandy
+- Apple Cider Vinegar
+- AppleSauce
+- Arabica coffee
+- Arar
+- Armagnac Brandy
+- Arrack
+- Artemisia
+- Artichoke
+- Asafoetida
+- Ashgourd
+- Babaco
+- Bagel
+- Bakery Products
+- Bantu Beer
+- BartlettPear
+- Basil
+- Basmati Rice
+- Beans
+- Beaver
+- Beef
+- Beef Processed
+- Beetroot
+- Beli
+- Bergamot
+- Berry
+- Beverage alcolohic other
+- Bilberry Wine
+- Bitter Cherry
+- BitterOrange
+- Bittergourd
+- Bivalvia
+- Black Tea
+- Black bear
+- BlackCurrant
+- Blackberry
+- Blackberry Brandy
+- Blue Cheese
+- Blueberry
+- Bonito
+- Botrytized Wine
+- Bottlegourd
+- Bourbon Whisky
+- Brandy
+- Brazil Nut
+- Bread
+- Brown bear
+- Brussels Sprout
+- Buchu
+- Buckwheat
+- Buffalocurrant
+- Bulgur
+- Butternutsquash
+- Byrsonimacrassifolia
+- Cajeput
+- Calamus
+- Camembert Cheese
+- Camphor
+- Canadian Whisky
+- Canola Oil
+- Capsicum
+- Caribou
+- Carom Seed
+- Cascarilla
+- CashewApple
+- Cassia
+- Caviar
+- Cedar
+- Celery
+- Ceriman
+- Cetacea
+- Chamomile
+- Champaca
+- Champagne
+- Chard
+- Cheddar Cheese
+- Cherry
+- Cherry Brandy
+- Cherry Pepper
+- ChineseQuince
+- Chive
+- Cichlidae
+- Cider
+- Citronella
+- Citrus Fruits
+- Citrus Peel Oil
+- Clam
+- Clary Sage
+- Clove
+- Clupeinae
+- Cluster Bean
+- Cocoa
+- Codfish
+- Cognac Brandy
+- Colocasia
+- Columbidae
+- Common Tuna
+- Commonpersimmon
+- Comte Cheese
+- Corn Oil
+- Cornbread
+- Cornsalad
+- Cottage Cheese
+- Cranberry
+- Cream Cheese
+- Creosote
+- Crispbread
+- Cupua\u008du
+- Currant
+- Curry Leaf
+- Dairy Products
+- Dates
+- Domiati Cheese
+- Drag\u00e9e
+- DrumstickLeaf
+- Egg
+- Emmental Cheese
+- Eucalyptus
+- Fatty Fish
+- Fermented Tea
+- Feta Cheese
+- Filbert
+- Finnish Whisky
+- Fir
+- Fish
+- Fish Oil
+- Flour
+- Frankfurter Sausage
+- Fried Potato
+- GarciniaIndica
+- Geranium
+- Ghee
+- Goat Cheese
+- Goat Milk
+- Grapefruit Peel Oil
+- Grass
+- Great horned owl
+- Green Tea
+- GreenBeans
+- Greenland halibut
+- Greenzucchini
+- Gruyere Cheese
+- Ham
+- Heartofpalm
+- Hibiscus tea
+- Hippoglossus
+- Hogplum
+- Hops
+- Hops Oil
+- Hornedmelon
+- Hyacinth
+- Hyssop Oil
+- Jalapeno
+- Japanese Whisky
+- Japanesepersimmon
+- Japanesepumpkin
+- Jasmine
+- Kai lan
+- Kenaf
+- Kewda
+- Kidney Beans
+- Kiwifruit
+- Krill
+- Lamb
+- Laurel
+- Lavendar
+- Lean Fish
+- Lemon Balm
+- Lemon Grass
+- Lemon Peel Oil
+- Lima Beans
+- Limburger Cheese
+- Lime Peel Oil
+- Liqourice
+- Litchi
+- Lobster
+- Macadamia Nut
+- Macaroni
+- Mace
+- Malabarplum
+- Malabarspinach
+- MalayApple
+- Malt
+- Malt Whisky
+- Mammeeapple
+- Mandarin Orange
+- Mandarin Orange Peel Oil
+- Margarine like spread
+- Marjoram
+- Mastic Gum
+- Mate
+- Meat
+- Melon
+- Mentha Oil
+- Milk
+- Milk Fat
+- Milk Human
+- Milk Powder
+- Mint
+- Miso
+- Mollusc
+- Moose
+- Morchella
+- MountainPapaya
+- Mozzarella Cheese
+- Munster Cheese
+- Muscadinegrape
+- Mushroom
+- MuskMelon
+- Muskmallow
+- Muskrat
+- Mustard Oil
+- Mutton
+- Myrrh
+- Myrtle
+- Natalplum
+- Neroli Oil
+- NewZealandspinach
+- Nigella Seed
+- Oat bread
+- Oats
+- Onion
+- Opossum
+- Orange
+- Orange Oil
+- Oregano
+- Orris
+- Other Cheeses
+- Other meat product
+- Oyster
+- Paneer
+- Papaya Brandy
+- Parmesan Cheese
+- Passionfruit
+- Pawpaw
+- Peanut Butter
+- Peanut Oil
+- Pear Brandy
+- Peas
+- Pecans
+- Pepino
+- PepperC.baccatum
+- PepperC.chinense
+- Percoidei
+- Pigeon Pea
+- Piki bread
+- Pine
+- Pita bread
+- Pleuronectidae
+- Plum
+- Plum Brandy
+- Plum Wine
+- Plumcot
+- Polar bear
+- Poppy Seed
+- Pork
+- Port Wine
+- Potato bread
+- Prawn
+- PricklyPear
+- Provolone Cheese
+- Pumpkin
+- Purplemangosteen
+- Raccoon
+- Raisin
+- Raisin bread
+- Raspberry
+- Raspberry Brandy
+- Red Sage
+- Red Wine
+- RedCurrant
+- Rhubarb
+- Rice bread
+- Ricotta Cheese
+- Roibos Tea
+- Romano Cheese
+- Roquefort Cheese
+- Rose
+- Rose Wine
+- Roseapple
+- Rosehip
+- Russian Cheese
+- Rutabaga
+- Rye Bread
+- Sage
+- Salmon
+- Salmonidae
+- Sandalwood
+- Sassafras
+- Satsuma Orange
+- Scombridae
+- Scotch Spearmint
+- Scotch Whisky
+- Sea Buckthorns
+- Semolina
+- Sheep Cheese
+- Sheep Milk
+- Shellfish
+- Skimmed Milk
+- Skunkcurrant
+- Small leaf linden
+- Smoked Fish
+- Sour Cherry
+- Soy cream
+- Soy milk
+- Soybean
+- Soybean Oil
+- Soybean Sauce
+- Spanish Sage
+- Sparkling Wine
+- SpinelessMonkeyOrange
+- Squirrel
+- Star Anise
+- Starfruit
+- Storax
+- Strawberry Jam
+- Strawberry Wine
+- Sukiyaki
+- Sweet Grass
+- Sweet Potato
+- Sweetcorn
+- Swiss Cheese
+- Tangerine
+- Thyme
+- Tilsit Cheese
+- Tobacco
+- Tofu
+- Tomato
+- Tortilla
+- Trassi
+- Truffle
+- Turkey Berry
+- Valerian
+- WaterChestnut
+- Wattle
+- Weinbrand Brandy
+- Welshonion
+- Wheaten Bread
+- White Bread
+- White Pepper
+- White Wine
+- WhiteCurrant
+- Wholewheat Bread
+- Wild Cherry
+- Wine
+- Wintersquash
+- Wonton wrapper
+- Woodapple
+- Wort
+- Yarrow
+- Yellow pond lily
+- YellowPassionfruit
+- Yellowzucchini
+- Ylang-Ylang
+- Zwieback
+- redskinonion
+
+Different cluster assignments for common foods:
+Food: Rambutan
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Sake
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Smelt
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Black mulberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Horchata
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Hyacinth bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: American pokeweed
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Spelt
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Cocoa powder
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Barley
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Strawberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Komatsuna
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Sturgeon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Chinook salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Dill
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Swamp cabbage
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Ginseng
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Root
+Food: Jackfruit
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Fruit preserve
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Mule deer
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: True sole
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Tinda
+  Reorganized cluster: 4
+  FlavorDB cluster: Gourd
+Food: Sablefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Icing
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Cooking oil
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Teff
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Dock
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Spirit
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Whiting
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Rock ptarmigan
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Peanut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Arepa
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Rice cake
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Abiyuch
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Groundcherry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Baked potato
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Cottonseed
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant Derivative
+Food: Soy yogurt
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Caraway
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Colorado pinyon
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Fruit gum
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Wild rice
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Yellowfin tuna
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Remoulade
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Roselle
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Condensed milk
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Fish burger
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Coho salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Pupusa
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Spotted seal
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Cloudberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Atlantic wolffish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Horseradish
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Kohlrabi
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Irish moss
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Leek
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Acerola
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Pastry
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Ostrich
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Red king crab
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Atlantic pollock
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Kumquat
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Citrus
+Food: Quail
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: European chestnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Cinnamon
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Bayberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Greater sturgeon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Greenthread tea
+  Reorganized cluster: 4
+  FlavorDB cluster: Beverage
+Food: Casein
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Natto
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Madeira wine
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Mexican oregano
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Pectin
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: French plantain
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Frybread
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Garden cress
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Pasta
+  Reorganized cluster: 4
+  FlavorDB cluster: Bakery
+Food: Cassava
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Spanish mackerel
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Turnip
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Root
+Food: Honey
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Pie
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Vegetarian food
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Jellyfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Wasabi
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: European anchovy
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Other fermented milk
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Cherry tomato
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Meatball
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Stuffing
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Babassu palm
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Norway pout
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Albacore tuna
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Snail
+  Reorganized cluster: 5
+  FlavorDB cluster: Meat
+Food: Pie crust
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Other dish
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Water
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Florida pompano
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Oregon yampah
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Red rice
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Guava
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Atlantic halibut
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Margarine
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Meat bouillon
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Nuttall cockle
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Pear
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Shallot
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Lentils
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Tartary buckwheat
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Grouper
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Rye
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Hedge mustard
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Spinach
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Snapper
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Whitefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Lemon
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Citrus
+Food: Salad
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Pink salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Peach
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Other sandwich
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Dandelion
+  Reorganized cluster: 4
+  FlavorDB cluster: Flower
+Food: Beech nut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Lemon verbena
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Relish
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Oyster mushroom
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Gadiformes
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Ohelo berry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Sweet custard
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Maitake
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Vinegar
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Durian
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Tamarind
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Meringue
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Ascidians
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Chayote
+  Reorganized cluster: 4
+  FlavorDB cluster: Gourd
+Food: Garlic
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Scrapple
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Freshwater drum
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Syrup
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Breakfast cereal
+  Reorganized cluster: 13
+  FlavorDB cluster: Cereal
+Food: Capers
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Mulberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Potato puffs
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Ymer
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Falafel
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Pepper
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Catjang pea
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Cabbage
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: European rabbit
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: American shad
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Flatfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Chestnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Mixed nuts
+  Reorganized cluster: 7
+  FlavorDB cluster: Nut
+Food: Pomegranate
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Lambsquarters
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Moth bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Banana
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Snack bar
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Mallard duck
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Loganberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Energy drink
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Vodka
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Lettuce
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Ginkgo nuts
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Olive
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Parsley
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Nance
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Lingcod
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Burrito
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Shiitake
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Chinese chestnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Common carp
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Apricot
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Other fish product
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Gelatin dessert
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Pistachio
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Catfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Naranjilla
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Soup
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Chanterelle
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Rowanberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Narrowleaf cattail
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Rabbit
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Horse
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Turkey
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Prairie turnip
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Grapefruit
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Citrus
+Food: Chervil
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Amaranth
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Kefir
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Sausage
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Watercress
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Stew
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Giant butterbur
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Scallop
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Allium
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Other pasta dish
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Breakfast sandwich
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: French toast
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Vegetable juice
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Phyllo dough
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Quesadilla
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Pollock
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Turbot
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Ginger
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Winged bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Chicory
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Wakame
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Bearded seal
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Triticale
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Oriental wheat
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Grass pea
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Molasses
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Papaya
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Other frozen dessert
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Okra
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Adzuki bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Cumin
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Atlantic croaker
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Striped bass
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Anguilliformes
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Lupine
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Potato
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Allspice
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Sorghum
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Red algae
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Tortilla chip
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Whey
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Conch
+  Reorganized cluster: 7
+  FlavorDB cluster: Fish
+Food: Marshmallow
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Butternut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Radish
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Root
+Food: Corn chip
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Carp bream
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Walleye
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Crayfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Cloud ear fungus
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Ocean pout
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Biscuit
+  Reorganized cluster: 13
+  FlavorDB cluster: Bakery
+Food: Emu
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Burdock
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Hazelnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Shea tree
+  Reorganized cluster: 7
+  FlavorDB cluster: Plant
+Food: Kombu
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Beluga whale
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Squab
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Pan dulce
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Salt
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Buffalo
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Agar
+  Reorganized cluster: 7
+  FlavorDB cluster: Additive
+Food: Mango
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Common ling
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Avocado
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Sunflower
+  Reorganized cluster: 4
+  FlavorDB cluster: Flower
+Food: Tea leaf willow
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Rowal
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Pate
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Mountain yam
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Nopal
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Saskatoon berry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Nachos
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Buttermilk
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Common octopus
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Rainbow smelt
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Red raspberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Persimmon
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Northern pike
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Pacific rockfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Garfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Tree fern
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Akutaq
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Gooseberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Deer
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Empanada
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Common dab
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Towel gourd
+  Reorganized cluster: 4
+  FlavorDB cluster: Gourd
+Food: Milkshake
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Orange roughy
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Vermouth
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Potato chip
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Cheese
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Dolphin fish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: North Pacific giant octopus
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Chili
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Nuts
+  Reorganized cluster: 7
+  FlavorDB cluster: Nut
+Food: Sparkleberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Oil palm
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Black-eyed pea
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Thistle
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Enchilada
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Milkfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Rice
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Acorn
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Cucumber
+  Reorganized cluster: 4
+  FlavorDB cluster: Gourd
+Food: Focaccia
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Gin
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Purslane
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Salad dressing
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Fireweed
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Cardoon
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Almond
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Atlantic salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Sockeye salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Linden
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Cusk
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Other bread product
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Yogurt
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Angelica
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Rosemary
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Lime
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Citrus
+Food: Climbing bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: King mackerel
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Asparagus
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Stem
+Food: Blue whiting
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Bluefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Black raspberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Ice cream cone
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Marzipan
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Scarlet bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Quinoa
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Sugar substitute
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Toffee
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: American butterfish
+  Reorganized cluster: 7
+  FlavorDB cluster: Fish
+Food: Fruit salad
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Chinese bayberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Saffron
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Grape
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Yautia
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Spot croaker
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Black huckleberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Pacific sardine
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Flaxseed
+  Reorganized cluster: 4
+  FlavorDB cluster: Seed
+Food: Coconut
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Crab
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Devilfish
+  Reorganized cluster: 7
+  FlavorDB cluster: Fish
+Food: Gram bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Loquat
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Broad whitefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Yardlong bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Shortening
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Common salsify
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Longan
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Egg roll
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Arrowhead
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Sapodilla
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Hot chocolate
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Ketchup
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Mustard
+  Reorganized cluster: 5
+  FlavorDB cluster: Cabbage
+Food: Agave
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Sugar
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Wild boar
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Sea cucumber
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: True seal
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Sesbania flower
+  Reorganized cluster: 4
+  FlavorDB cluster: Flower
+Food: Breadnut tree seed
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant Derivative
+Food: Macaroni and cheese
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Spearmint
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Nanking cherry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Taco
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Annual wild rice
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Perciformes
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Black crowberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Anise
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Tostada
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Silver linden
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Pineappple sage
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Sesame
+  Reorganized cluster: 4
+  FlavorDB cluster: Seed
+Food: Corn grits
+  Reorganized cluster: 5
+  FlavorDB cluster: Maize
+Food: Cuttlefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Hard wheat
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Junket
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Squid
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Burbot
+  Reorganized cluster: 7
+  FlavorDB cluster: Fish
+Food: Black salsify
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Tea
+  Reorganized cluster: 8
+  FlavorDB cluster: Plant
+Food: Topping
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Rainbow trout
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Alaska blackfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Steller sea lion
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Elderberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit-Berry
+Food: Tapioca pearl
+  Reorganized cluster: 5
+  FlavorDB cluster: Vegetable Tuber
+Food: Fenugreek
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Butter
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Alpine sweetvetch
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Endive
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Beer
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Soft drink
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Fruit juice
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Corn
+  Reorganized cluster: 4
+  FlavorDB cluster: Maize
+Food: Coriander
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Cauliflower
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Pacific ocean perch
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Channel catfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Rocket salad
+  Reorganized cluster: 7
+  FlavorDB cluster: Herb
+Food: Wheat
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Popcorn
+  Reorganized cluster: 5
+  FlavorDB cluster: Maize
+Food: Meatloaf
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Lumpsucker
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Fudge
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Sheepshead
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Abalone
+  Reorganized cluster: 7
+  FlavorDB cluster: Fungus
+Food: Ringed seal
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Chum salmon
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Breadfruit
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Pudding
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Candy bar
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Lingonberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Rapini
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Chimichanga
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Kelp
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Striped mullet
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Apple
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Spiny lobster
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Oil-seed Camellia
+  Reorganized cluster: 7
+  FlavorDB cluster: Plant
+Food: Chicken
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Sago palm
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Purple laver
+  Reorganized cluster: 7
+  FlavorDB cluster: Seafood
+Food: Shrimp
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Pak choy
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Chewing gum
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Pheasant
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Hot dog
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Anchovy
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Boysenberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Squashberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Tamale
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Carrot
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Root
+Food: Sourdough
+  Reorganized cluster: 4
+  FlavorDB cluster: Cereal
+Food: Evening primrose
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Tarragon
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Potato gratin
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Multigrain bread
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Evaporated milk
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Rum
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Feijoa
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Cocktail
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Yellowtail amberjack
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Beefalo
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Guinea hen
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Pummelo
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Citrus
+Food: Arrowroot
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Pitanga
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Adobo
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Lotus
+  Reorganized cluster: 4
+  FlavorDB cluster: Essential Oil
+Food: Jicama
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Cashew nut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Ucuhuba
+  Reorganized cluster: 7
+  FlavorDB cluster: Plant
+Food: Scup
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: True frog
+  Reorganized cluster: 5
+  FlavorDB cluster: Meat
+Food: Fennel
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Pacific herring
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Medlar
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Enokitake
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Cocoa butter
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Dulce de leche
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Winter savory
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Whisky
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Kale
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Safflower
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Taro
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Cornmint
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Yam
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Bamboo shoots
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Bowhead whale
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Mountain hare
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Parsnip
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Root
+Food: Nutritional drink
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage
+Food: Leavening agent
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Berry wine
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Jujube
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Shark
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Tilefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Garland chrysanthemum
+  Reorganized cluster: 4
+  FlavorDB cluster: Flower
+Food: Alaska pollock
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Norway haddock
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Nutmeg
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: White sucker
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Coffee
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Caffeinated
+Food: Nougat
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Canada blueberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Ravioli
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Chickpea
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Anatidae
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Gelatin
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Cardamom
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Leather chiton
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Jerusalem artichoke
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable Tuber
+Food: Cisco
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Pacific jack mackerel
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Soursop
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Charr
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Cake
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Peppermint
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Fig
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Walrus
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Salmonberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Elk
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Eggplant
+  Reorganized cluster: 4
+  FlavorDB cluster: Vegetable
+Food: Waffle
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Sea trout
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Jew's ear
+  Reorganized cluster: 4
+  FlavorDB cluster: Fungus
+Food: Mexican groundcherry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Greylag goose
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Deerberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Freshwater eel
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Alfalfa
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Borage
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Chocolate spread
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Hummus
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Walnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Cold cut
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Hushpuppy
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Dumpling
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Pumpkinseed sunfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Chocolate mousse
+  Reorganized cluster: 5
+  FlavorDB cluster: Bakery
+Food: Roe
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Spiny dogfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: White lupine
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Atlantic menhaden
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Vanilla
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit Essence
+Food: Spirulina
+  Reorganized cluster: 7
+  FlavorDB cluster: Additive
+Food: Summer savory
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Pili nut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Sauce
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Japanese chestnut
+  Reorganized cluster: 4
+  FlavorDB cluster: Nut
+Food: Hamburger
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Bilberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Atlantic mackerel
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Epazote
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Chocolate
+  Reorganized cluster: 5
+  FlavorDB cluster: Plant Derivative
+Food: Gefilte fish
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Cherimoya
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Ice cream
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Northern bluefin tuna
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Lake trout
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Coffee mocha
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Caffeinated
+Food: Atlantic herring
+  Reorganized cluster: 7
+  FlavorDB cluster: Fish
+Food: Ostrich fern
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Swordfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Turmeric
+  Reorganized cluster: 4
+  FlavorDB cluster: Spice
+Food: Carob
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Mung bean
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Trail mix
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Sheefish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Sherry
+  Reorganized cluster: 5
+  FlavorDB cluster: Beverage Alcoholic
+Food: Other snack food
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Bison
+  Reorganized cluster: 1
+  FlavorDB cluster: Meat
+Food: Lovage
+  Reorganized cluster: 4
+  FlavorDB cluster: Essential Oil
+Food: Pancake
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Alaska wild rhubarb
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant
+Food: Jostaberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Chia
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Millet
+  Reorganized cluster: 4
+  FlavorDB cluster: Legume
+Food: Pizza
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Cream
+  Reorganized cluster: 5
+  FlavorDB cluster: Dairy
+Food: Common verbena
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Monkfish
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Lasagna
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Haddock
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Sourdock
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Succotash
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Couscous
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Quince
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Pineapple
+  Reorganized cluster: 4
+  FlavorDB cluster: Fruit
+Food: Green turtle
+  Reorganized cluster: 5
+  FlavorDB cluster: Meat
+Food: Pikeperch
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Elliott's blueberry
+  Reorganized cluster: 4
+  FlavorDB cluster: Berry
+Food: Spread
+  Reorganized cluster: 5
+  FlavorDB cluster: Additive
+Food: Whelk
+  Reorganized cluster: 5
+  FlavorDB cluster: Seafood
+Food: Broccoli
+  Reorganized cluster: 4
+  FlavorDB cluster: Cabbage
+Food: Cucurbita
+  Reorganized cluster: 4
+  FlavorDB cluster: Gourd
+Food: Pot pie
+  Reorganized cluster: 5
+  FlavorDB cluster: Dish
+Food: Sorrel
+  Reorganized cluster: 4
+  FlavorDB cluster: Herb
+Food: Painted comber
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
+Food: Jute
+  Reorganized cluster: 4
+  FlavorDB cluster: Plant Derivative
+Food: Lemon sole
+  Reorganized cluster: 5
+  FlavorDB cluster: Fish
