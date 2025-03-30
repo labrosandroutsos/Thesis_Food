@@ -1,0 +1,963 @@
+food_name,presence_cluster,embedding_cluster
+Abalone,7,3
+Abiyuch,4,0
+Acerola,4,0
+Acorn,4,0
+Acorn squash,2,2
+Adobo,5,4
+Adzuki bean,4,6
+Agar,7,3
+Agave,4,0
+Akutaq,5,4
+Alaska blackfish,5,4
+Alaska blueberry,4,0
+Alaska pollock,5,9
+Alaska wild rhubarb,4,0
+Albacore tuna,5,9
+Albizia gummifera,2,2
+Alcoholic beverages,5,1
+Alfalfa,4,6
+Allium,4,6
+Allspice,4,0
+Almond,4,6
+Alpine sweetvetch,4,0
+Amaranth,4,6
+American butterfish,7,3
+American cranberry,4,6
+American lobster,5,9
+American pokeweed,4,0
+American shad,5,9
+Anatidae,1,5
+Anchovy,5,9
+Andean blackberry,5,4
+Angelica,4,0
+Anguilliformes,5,9
+Anise,4,0
+Annual wild rice,4,0
+Apple,4,6
+Apple cider,5,4
+Apricot,4,6
+Arabica coffee,2,8
+Arctic blackberry,4,0
+Arepa,5,9
+Arrowhead,4,0
+Arrowroot,4,0
+Ascidians,5,4
+Asian pear,4,0
+Asparagus,4,6
+Atlantic cod,5,9
+Atlantic croaker,5,9
+Atlantic halibut,5,9
+Atlantic herring,7,3
+Atlantic mackerel,5,9
+Atlantic menhaden,5,4
+Atlantic pollock,5,9
+Atlantic salmon,5,9
+Atlantic wolffish,5,9
+Avocado,4,6
+Babassu palm,4,0
+Baby food,5,1
+Bagel,2,8
+Baked beans,5,9
+Baked potato,5,4
+Bamboo shoots,4,6
+Banana,4,6
+Barley,4,6
+Bayberry,4,0
+Bean,4,0
+Bearded seal,5,9
+Beech nut,4,0
+Beefalo,1,5
+Beer,5,1
+Beluga whale,5,9
+Berry wine,5,4
+Beverages,5,4
+Bilberry,4,6
+Biscuit,7,3
+Bison,1,5
+Bitter gourd,4,0
+"Bivalvia (Clam, Mussel, Oyster)",5,9
+Black cabbage,4,0
+Black chokeberry,4,0
+Black crowberry,4,0
+Black elderberry,4,0
+Black huckleberry,4,0
+Black mulberry,4,0
+Black plum,2,2
+Black radish,4,0
+Black raisin,2,2
+Black raspberry,4,0
+Black salsify,4,6
+Black tea,3,6
+Black walnut,4,6
+Black-eyed pea,4,0
+Blackberry,2,8
+Blackcurrant,4,6
+Blue crab,5,9
+Blue mussel,5,9
+Blue whiting,5,9
+Bluefish,5,4
+Bog bilberry,4,0
+Borage,4,0
+Bowhead whale,5,4
+Boysenberry,4,0
+Brassicas,7,3
+Brazil nut,4,6
+Breadfruit,4,0
+Breadnut tree seed,4,0
+Breakfast cereal,7,3
+Breakfast sandwich,5,9
+Broad bean,4,0
+Broad whitefish,5,4
+Broccoli,4,6
+Brussel sprouts,4,6
+Buffalo,1,5
+Buffalo currant,4,0
+Bulgur,2,8
+Burbot,7,3
+Burdock,4,0
+Burrito,5,9
+Butter,5,1
+Butter substitute,5,4
+Butterfat,5,9
+Buttermilk,5,1
+Butternut,4,0
+Butternut squash,4,0
+Cabbage,4,0
+Cake,5,9
+Calabash,4,0
+Canada blueberry,4,0
+Candy bar,5,4
+Cannellini bean,2,2
+Canola,4,0
+Canola oil,5,4
+Cantaloupe melon,2,2
+Cape gooseberry,2,2
+Capers,4,0
+Caraway,4,6
+Cardamom,4,0
+Cardoon,4,0
+Carob,4,0
+Carp bream,5,9
+Carrot,4,6
+Cascade huckleberry,4,0
+Casein,5,9
+Cashew nut,4,6
+Cassava,4,6
+Castanospermum australe,2,2
+Catfish,5,9
+Catjang pea,4,0
+"Cattle (Beef, Veal)",1,5
+Cauliflower,4,6
+Celeriac,4,6
+Celery leaves,4,6
+Celery stalks,4,0
+Cereals and cereal products,7,3
+"Cetacea (Dolphin, Porpoise, Whale)",5,9
+Ceylon cinnamon,4,0
+Channel catfish,5,9
+Chanterelle,4,6
+Charr,5,9
+Chayote,4,6
+Cheese,5,1
+Cherimoya,4,6
+Cherry tomato,4,0
+Chervil,4,6
+Chestnut,4,6
+Chewing gum,5,9
+Chia,4,0
+Chicken,1,5
+Chickpea,4,6
+Chicory,4,6
+Chicory leaves,4,0
+Chicory roots,4,0
+Chili,5,9
+Chimichanga,5,4
+Chineese plum,2,2
+Chinese bayberry,4,0
+Chinese broccoli,4,0
+Chinese cabbage,4,6
+Chinese chestnut,4,0
+Chinese chives,4,0
+Chinese cinnamon,4,6
+Chinese mustard,4,0
+Chinese water chestnut,4,0
+Chinook salmon,5,9
+Chives,4,6
+Chocolate,5,1
+Chocolate mousse,5,4
+Chocolate spread,5,9
+Chum salmon,5,9
+Cichlidae (Tilapia),5,9
+Cinnamon,4,6
+Cisco,5,9
+Citrus,7,3
+Clawed lobster,5,9
+Clementine,2,2
+Climbing bean,4,0
+Cloud ear fungus,4,0
+Cloudberry,4,0
+Cloves,4,6
+"Clupeinae (Herring, Sardine, Sprat)",5,9
+Cocktail,5,4
+Cocoa and cocoa products,5,4
+Cocoa bean,7,3
+Cocoa butter,5,1
+Cocoa liquor,5,4
+Cocoa powder,5,1
+Coconut,4,6
+Coffee,5,1
+Coffee and coffee products,5,9
+Coffee mocha,5,4
+Coffee substitute,5,9
+Coho salmon,5,9
+Cold cut,5,1
+Colorado pinyon,4,0
+"Columbidae (Dove, Pigeon)",1,5
+Common bean,4,6
+Common beet,4,0
+Common buckwheat,4,6
+Common cabbage,4,6
+Common carp,5,9
+Common chokecherry,4,0
+Common dab,5,9
+Common grape,4,6
+Common hazelnut,4,0
+Common ling,5,9
+Common mushroom,4,6
+Common octopus,5,1
+Common oregano,4,6
+Common pea,4,6
+Common persimmon,4,0
+Common sage,4,6
+Common salsify,4,0
+Common thyme,4,6
+Common verbena,4,0
+Common walnut,4,6
+Common wheat,4,6
+Conch,7,3
+Condensed milk,5,9
+Cooking oil,5,9
+Coriander,4,6
+Corn,4,6
+Corn chip,5,9
+Corn grits,5,9
+Corn salad,4,0
+Cornbread,2,8
+Cornmint,4,0
+Cottonseed,4,6
+Couscous,5,9
+"Cow milk, pasteurized, vitamin A + D added, 0% fat",5,1
+"Cow milk, pasteurized, vitamin A + D added, 1% fat",5,1
+"Cow milk, pasteurized, vitamin A + D added, 2% fat",5,1
+"Cow milk, pasteurized, vitamin D added, 3.25% fat",5,1
+Cowpea,4,0
+Crab,5,9
+Cracker,5,1
+Crayfish,5,1
+Cream,5,1
+Cream substitute,5,9
+Crisp bread,5,1
+Crosne,2,2
+Crustaceans,5,4
+Cubanelle pepper,2,2
+Cucumber,4,6
+Cucurbita,4,6
+Cumin,4,0
+Cupuaçu,7,3
+Curry powder,2,8
+Cusk,5,4
+Custard apple,4,0
+Cuttlefish,5,4
+Daikon radish,4,6
+Dandelion,4,6
+Date,4,6
+Deer,1,5
+Deerberry,4,0
+Dessert wine,5,4
+Devilfish,7,3
+Dill,4,6
+Dock,4,0
+Dolphin fish,5,4
+Domestic goat,1,5
+Domestic pig,1,5
+Dragée,5,9
+Dried milk,5,1
+Dripping,5,4
+Dulce de leche,5,9
+Dumpling,5,9
+Dungeness crab,5,4
+Durian,4,0
+Eastern oyster,5,9
+Eddoe,2,2
+Edible shell,5,9
+Egg roll,5,9
+Egg substitute,5,9
+Egg yolk,5,4
+Eggplant,4,6
+Eggs,5,1
+Elderberry,4,6
+Elk,1,5
+Elliott's blueberry,4,0
+Empanada,5,9
+Emu,1,5
+Enchilada,5,4
+Endive,4,6
+Energy drink,5,4
+Enokitake,4,0
+Epazote,4,0
+European anchovy,5,9
+European chestnut,4,0
+European cranberry,4,0
+European plum,4,6
+European rabbit,1,5
+Evaporated milk,5,9
+Evening primrose,4,0
+Evergreen blackberry,5,9
+Evergreen huckleberry,4,0
+Falafel,5,4
+Fats and oils,5,1
+Feijoa,4,0
+Fennel,4,6
+Fenugreek,4,0
+Fig,4,6
+Fireweed,4,0
+Fish burger,5,4
+Fish oil,5,9
+Fishes,5,4
+Flatfish,5,1
+Flaxseed,4,6
+Florida pompano,5,9
+Flour,2,8
+Focaccia,5,4
+Fox grape,4,0
+French plantain,4,6
+French toast,5,9
+Freshwater drum,5,4
+Freshwater eel,5,9
+Frozen yogurt,5,9
+Fruit gum,5,9
+Fruit juice,5,1
+Fruit preserve,5,1
+Fruit salad,5,4
+Fruit-flavor drink,5,9
+Fruits,10,3
+Frybread,5,4
+Fudge,5,4
+Gadiformes,5,9
+Gadus (Common cod),5,9
+Garden cress,4,6
+Garden onion,4,6
+Garden onion (var.),4,0
+Garden rhubarb,4,6
+Garden tomato,4,6
+Garden tomato (var.),4,6
+Garfish,5,9
+Garland chrysanthemum,4,0
+Garlic,4,6
+Gefilte fish,5,4
+Gelatin,5,9
+Gelatin dessert,5,1
+Gentiana lutea,2,2
+German camomile,4,0
+Giant butterbur,4,0
+Gin,5,9
+Ginger,4,6
+Ginkgo nuts,4,0
+Ginseng,4,0
+Globe artichoke,4,6
+Goji,2,2
+Gooseberry,4,6
+Gram bean,4,0
+Grape,4,6
+Grape wine,5,1
+Grapefruit,4,6
+Grapefruit/Pummelo hybrid,4,0
+Grass pea,4,0
+Greater sturgeon,5,9
+Green apple,2,2
+Green bean,4,6
+Green bell pepper,4,6
+Green cabbage,2,2
+Green grape,2,2
+Green lentil,2,2
+Green onion,4,0
+Green plum,2,2
+Green tea,3,6
+Green turtle,5,4
+Green vegetables,7,3
+Green zucchini,4,6
+Greenland halibut/turbot,5,1
+Greenthread tea,4,0
+Greylag goose,1,5
+Groundcherry,4,6
+Grouper,5,4
+Guarana,2,2
+Guava,4,6
+Guinea hen,1,5
+Haddock,5,1
+Half-highbush blueberry,4,0
+Hamburger,5,9
+Hard wheat,4,6
+Hawthorn,2,2
+Hazelnut,4,6
+Heart of palm,2,8
+Hedge mustard,4,0
+Herbal tea,3,6
+Herbs and Spices,9,3
+Hibiscus tea,2,2
+Hickory nut,4,0
+Highbush blueberry,4,0
+Hippoglossus (Common halibut),5,9
+Honey,5,9
+Horchata,5,9
+Horned melon,4,0
+Horse,1,5
+Horseradish,4,6
+Horseradish tree,4,0
+Hot chocolate,5,1
+Hot dog,5,4
+Hummus,5,9
+Hushpuppy,5,9
+Hyacinth bean,4,0
+Hyssop,4,0
+Ice cream,5,1
+Ice cream cone,5,9
+Iceberg lettuce,2,2
+Icing,5,9
+Irish moss,7,3
+Italian oregano,4,0
+Italian sweet red pepper,4,6
+Jackfruit,4,0
+Jalapeno pepper,2,2
+Japanese chestnut,4,0
+Japanese persimmon,4,0
+Japanese pumpkin,4,6
+Japanese walnut,4,0
+Java plum,4,0
+Jellyfish,5,4
+Jerusalem artichoke,4,6
+Jew's ear,4,0
+Jicama,4,0
+Jostaberry,4,0
+Jujube,4,0
+Juniperus communis,2,2
+Junket,5,9
+Jute,4,0
+Kai-lan,4,0
+Kale,4,6
+Kefir,5,9
+Kelp,7,3
+Ketchup,5,1
+King mackerel,5,4
+Kiwi,4,6
+Kohlrabi,4,6
+Komatsuna,4,0
+Kombu,7,3
+Kumquat,4,6
+Lake trout,5,9
+Lambsquarters,4,0
+Lantern fruit,2,2
+Lard,5,1
+Lasagna,5,9
+Leather chiton,5,4
+Leavening agent,5,1
+Leek,4,6
+Lemon,4,6
+Lemon balm,4,0
+Lemon grass,4,0
+Lemon sole,5,9
+Lemon thyme,4,0
+Lemon verbena,4,0
+Lentils,4,6
+Lettuce,4,6
+Lichee,4,6
+Lima bean,4,0
+Lime,4,6
+Linden,4,0
+Lingcod,5,4
+Lingonberry,4,6
+Liquor,5,1
+Liquorice,5,9
+Loganberry,4,6
+Longan,4,0
+Loquat,4,6
+Lotus,4,0
+Lovage,4,0
+Lowbush blueberry,4,0
+Lumpsucker,5,9
+Lupine,4,0
+Macadamia nut,4,0
+Macadamia nut (M. tetraphylla),4,0
+Macaroni and cheese,5,9
+Macroalgae,5,4
+Madeira wine,5,4
+Maitake,4,0
+Malabar plum,4,0
+Malabar spinach,4,0
+Mallard duck,1,5
+Malus (Crab apple),4,6
+Mamey sapote,4,0
+Mammee apple,4,0
+"Mandarin orange (Clementine, Tangerine)",4,6
+Mango,4,6
+Margarine,5,1
+Margarine-like spread,5,1
+Marine mussel,5,9
+Marshmallow,5,1
+Marzipan,5,9
+Mate,2,2
+Meat bouillon,5,9
+Meatball,5,9
+Meatloaf,5,9
+Medlar,4,0
+Mentha,4,0
+Meringue,5,9
+Mexican groundcherry,4,0
+Mexican oregano,4,0
+Mikan,2,2
+Milk (Cow),6,7
+Milk (Human),5,1
+Milk (Other mammals),5,1
+Milk and milk products,5,4
+Milk substitute,5,9
+Milkfish,5,4
+Milkshake,5,9
+Millet,4,6
+Miso,2,8
+Mixed nuts,7,3
+Molasses,5,4
+Mollusks,5,4
+Monk fruit,2,2
+Monkfish,5,4
+Morchella (Morel),2,2
+Moth bean,4,0
+Mountain hare,1,5
+Mountain yam,4,0
+Mugwort,4,0
+Mulberry,4,0
+Mule deer,1,5
+Multigrain bread,5,9
+Mundu,2,2
+Mung bean,4,6
+Muscadine grape,4,0
+Mushrooms,5,9
+Muskmelon,4,6
+Mustard,5,1
+Mustard spinach,4,0
+Nachos,5,9
+Nance,4,0
+Nanking cherry,4,0
+Napa cabbage,4,0
+Naranjilla,4,0
+Narrowleaf cattail,4,0
+Natal plum,4,0
+Natto,5,9
+Nectarine,4,6
+New Zealand spinach,4,0
+Nopal,4,0
+North Pacific giant octopus,5,4
+Northern bluefin tuna,5,9
+Northern pike,5,1
+Norway haddock,5,9
+Norway lobster,5,9
+Norway pout,5,9
+Nougat,5,9
+Nutmeg,4,6
+Nutritional drink,5,9
+Nuts,7,3
+Nuttall cockle,5,4
+Oat,4,6
+Oat bread,2,8
+Ocean pout,5,4
+Ohelo berry,4,0
+Oil palm,4,6
+Oil-seed Camellia,7,3
+Okra,4,6
+Olive,4,6
+Olive oil,5,4
+Onion-family vegetables,7,3
+Opium poppy,7,3
+Orange bell pepper,4,6
+Orange mint,4,0
+Orange roughy,5,9
+Oregon yampah,4,0
+Oriental wheat,4,6
+Ostrich,1,5
+Ostrich fern,4,0
+Other alcoholic beverage,5,9
+Other animal fat,5,1
+Other beverage,5,9
+Other bread,7,3
+Other bread product,5,1
+Other candy,5,1
+Other cereal product,7,3
+Other cocoa product,5,4
+Other dish,5,1
+Other fermented milk,5,9
+Other fish product,5,1
+Other frozen dessert,5,1
+Other fruit product,5,1
+Other pasta dish,5,9
+Other sandwich,5,9
+Other snack food,5,1
+Other soy product,7,3
+Other vegetable product,5,9
+Oval-leaf huckleberry,4,0
+Oxheart cabbage,4,0
+Oyster mushroom,4,6
+Pacific cod,5,9
+Pacific herring,5,4
+Pacific jack mackerel,5,9
+Pacific ocean perch,5,9
+Pacific oyster,5,9
+Pacific rockfish,5,9
+Pacific salmon,5,4
+Pacific sardine,5,9
+Painted comber,5,9
+Pak choy,4,6
+Pan dulce,5,9
+Pancake,5,9
+Papaya,4,6
+Parsley,4,6
+Parsnip,4,6
+Partridge berry,2,2
+Passion fruit,4,6
+Pasta,4,6
+Pastry,5,1
+Pate,5,1
+Pea shoots,2,2
+Peach,4,6
+Peach (var.),4,0
+Peanut,4,6
+Pear,4,6
+Pecan nut,4,6
+Pectin,5,4
+Pepper,4,6
+Pepper (C. baccatum),4,0
+Pepper (C. chinense),4,0
+Pepper (C. frutescens),4,0
+Pepper (C. pubescens),4,0
+Pepper (Capsicum),4,0
+Pepper (Spice),4,6
+Peppermint,4,0
+Perciformes,5,1
+Percoidei (Bass and others),5,9
+Persian lime,4,0
+Persimmon,4,6
+Pheasant,1,5
+Phyllo dough,5,9
+Pie,5,9
+Pie crust,5,9
+Pie filling,5,9
+Pigeon pea,4,0
+Pikeperch,5,9
+Piki bread,2,2
+Pili nut,4,0
+Pine nut,4,6
+Pineapple,4,6
+Pineappple sage,4,0
+Pink salmon,5,9
+Pistachio,4,6
+Pita bread,2,8
+Pitanga,4,0
+Pitaya,2,2
+Pizza,5,1
+Plains prickly pear,4,0
+Plantain,2,2
+"Pleuronectidae (Dab, Halibut, Plaice)",5,9
+Pollock,5,9
+Pomegranate,4,6
+Pomes,7,3
+Popcorn,5,9
+Poppy,7,3
+Port wine,5,9
+Pot marjoram,4,0
+Pot pie,5,9
+Potato,4,6
+Potato bread,2,8
+Potato chip,5,9
+Potato gratin,5,4
+Potato puffs,5,9
+Prairie turnip,4,0
+Prickly pear,4,6
+Processed cheese,5,9
+"Prunus (Cherry, Plum)",4,6
+Pudding,5,9
+Pulses,7,3
+Pummelo,4,0
+Pumpkinseed sunfish,5,4
+Pupusa,5,9
+Purple laver,7,3
+Purple mangosteen,4,0
+Purslane,4,0
+Quail,1,5
+Quesadilla,5,4
+Quince,4,6
+Quinoa,4,6
+Rabbit,1,5
+Rabbiteye blueberry,2,2
+Radish,4,6
+Radish (var.),4,0
+Rainbow smelt,5,9
+Rainbow trout,5,1
+Raisin bread,2,8
+Rambutan,4,0
+Rape,4,6
+Rapeseed oil,5,4
+Rapini,4,0
+Ravioli,5,9
+Red algae,7,3
+Red beetroot,4,6
+Red bell pepper,4,6
+Red champagne,5,4
+Red clover,2,2
+Red grape,2,2
+Red grape juice,5,4
+Red huckleberry,4,0
+Red king crab,5,4
+Red onion,4,0
+Red raspberry,4,6
+Red rice,4,0
+Red tea,3,6
+Red wine,5,9
+Redcurrant,4,6
+Relish,5,9
+Remoulade,5,9
+Rice,4,6
+Rice bread,2,8
+Rice cake,5,4
+Ringed seal,5,4
+Robusta coffee,2,8
+Rock ptarmigan,1,5
+Rocket salad,7,3
+Rocket salad (ssp.),4,0
+Roe,5,9
+Romaine lettuce,4,6
+Roman camomile,4,0
+Root vegetables,7,3
+Rose hip,4,6
+Roselle,4,0
+Rosemary,4,6
+Rosé wine,5,4
+Rowal,4,0
+Rowanberry,4,0
+"Rubus (Blackberry, Raspberry)",7,3
+Rum,5,9
+Rye,4,6
+Rye bread,2,8
+Sablefish,5,4
+Sacred lotus,4,0
+Safflower,4,6
+Saffron,4,0
+Sago palm,4,0
+Sake,5,4
+Salad,5,9
+Salad dressing,5,1
+Salmonberry,4,0
+"Salmonidae (Salmon, Trout)",5,1
+Salt,5,1
+Salted butter,5,4
+Sapodilla,4,0
+Saskatoon berry,4,0
+Sauce,5,1
+Sausage,5,1
+Savoy cabbage,4,6
+Scallop,5,9
+Scarlet bean,4,0
+"Scombridae (Bonito, Mackerel, Tuna)",5,9
+Scrapple,5,4
+Scup,5,9
+Sea cucumber,5,4
+Sea trout,5,4
+Sea-buckthornberry,4,0
+Semolina,2,8
+Sesame,4,6
+Sesbania flower,4,0
+Shallot,4,0
+Shark,5,9
+Shea tree,7,3
+Sheefish,5,9
+"Sheep (Mutton, Lamb)",1,5
+Sheepshead,5,4
+Sherry,5,1
+Shiitake,4,0
+Shortening,5,9
+Shrimp,5,1
+Silver linden,4,0
+Skipjack tuna,5,4
+Skunk currant,4,0
+Small-leaf linden,4,0
+Smelt,5,9
+Snack bar,5,9
+Snail,5,9
+Snapper,5,9
+Snow crab,5,4
+Sockeye salmon,5,9
+Soft drink,5,1
+Soft-necked garlic,4,0
+Sorghum,4,6
+Sorrel,4,6
+Soup,5,1
+Sour cherry,4,0
+Sour cream,5,9
+Sour orange,2,2
+Sourdock,4,0
+Sourdough,4,0
+Soursop,4,0
+Soy bean,4,6
+Soy cream,2,2
+Soy milk,2,8
+Soy sauce,2,8
+Soy yogurt,5,4
+Soybean oil,5,4
+Spanish mackerel,5,9
+Sparkleberry,4,0
+Spearmint,4,0
+Spelt,4,6
+Spinach,4,6
+Spiny dogfish,5,9
+Spiny lobster,5,4
+Spirit,5,9
+Spirulina,7,3
+Spot croaker,5,4
+Spotted seal,5,4
+Spread,5,9
+Squab,1,5
+Squashberry,4,0
+Squid,5,9
+Star anise,4,0
+Star fruit,4,6
+Steller sea lion,5,4
+Stew,5,9
+Strawberry,4,6
+Strawberry guava,4,0
+Striped bass,5,4
+Striped mullet,5,9
+Stuffing,5,9
+Sturgeon,5,9
+Succotash,5,9
+Sugar,5,1
+Sugar apple,4,0
+Sugar substitute,5,1
+Summer grape,4,0
+Summer savory,4,0
+Sunburst squash (pattypan squash),4,6
+Sunflower,4,6
+Swamp cabbage,4,0
+Swede,4,6
+Sweet basil,4,6
+Sweet bay,4,6
+Sweet cherry,4,6
+Sweet custard,5,9
+Sweet marjoram,4,0
+Sweet orange,4,6
+Sweet potato,4,6
+Sweet rowanberry,4,0
+Swiss chard,4,6
+Swordfish,5,9
+Syrup,5,1
+Taco,5,9
+Taco shell,2,8
+Tallow,5,1
+Tamale,5,9
+Tamarind,4,6
+Tapioca pearl,5,9
+Taro,4,0
+Tarragon,4,0
+Tartary buckwheat,4,0
+Tea,8,3
+Tea leaf willow,4,0
+Teff,4,6
+Thistle,4,6
+Thornless blackberry,5,4
+Thunnus,5,1
+Tilefish,5,4
+Tinda,4,0
+Toffee,5,9
+Tofu,2,8
+Topping,5,9
+Tortilla,2,8
+Tortilla chip,5,1
+Tostada,5,4
+Tostada shell,2,2
+Towel gourd,4,0
+Trail mix,5,4
+Tree fern,4,0
+Triticale,4,6
+Tronchuda cabbage,4,0
+Tropical highland blackberry,5,4
+True frog,5,9
+True oyster,5,9
+True seal,5,9
+True sole,5,9
+Tunicate,5,4
+Turbot,5,9
+Turkey,1,5
+Turmeric,4,0
+Turnip,4,6
+Ucuhuba,7,3
+Unclassified food or beverage,5,1
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",4,6
+Vanilla,4,0
+Vegetable juice,5,1
+Vegetarian food,5,9
+Velvet duck,1,5
+Vermouth,5,9
+Vinegar,5,1
+Vodka,5,9
+Waffle,5,9
+Wakame,7,3
+Walleye,5,4
+Walnut,4,6
+Walrus,5,4
+Wampee,2,2
+Wasabi,4,0
+Water,5,1
+Water spinach,2,2
+Watercress,4,6
+Watermelon,4,6
+Wax apple,4,0
+Wax gourd,4,0
+Welsh onion,4,0
+Wheat,4,6
+Wheat bread,2,8
+Whelk,5,9
+Whey,5,1
+Whisky,5,1
+White bread,2,8
+White cabbage,4,6
+White champagne,5,4
+White grape juice,5,4
+White lupine,4,0
+White mulberry,2,2
+White mustard,4,6
+White sucker,5,4
+White wine,5,9
+Whitefish,5,1
+Whiting,5,1
+Whole wheat bread,5,4
+Wild boar,1,5
+Wild carrot,4,6
+Wild celery,4,6
+Wild leek,4,0
+Wild rice,4,6
+Winged bean,4,0
+Winter savory,4,0
+Winter squash,4,0
+Wonton wrapper,2,8
+Yali pear,2,2
+Yam,4,6
+Yardlong bean,4,0
+Yau choy,2,2
+Yautia,4,0
+Yellow bell pepper,4,6
+Yellow pond-lily,4,0
+Yellow wax bean,4,6
+Yellow zucchini,4,6
+Yellowfin tuna,5,9
+Yellowtail amberjack,5,4
+Ymer,5,9
+Yogurt,5,1
+Zwieback,2,2
+linseed oil,5,4

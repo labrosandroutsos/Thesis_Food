@@ -1,0 +1,57 @@
+# Large files (>15-20 MB)
+*.pkl
+*.model
+*.npy
+
+
+# Specific large files identified in the repository
+final_unified_embeddings_50.pkl
+final_unified_embeddings_aggregated.pkl
+final_unified_embeddings_aggregated_50_correct.pkl
+word2vec_*.model
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+bad_lines.log
+
+# Temporary files
+*.tmp
+~$*
+
+# Other large file types that might be generated
+*.hdf5
+*.h5
+*.parquet
+*.gz
+*.zip
+*.tar
+*.rar 
