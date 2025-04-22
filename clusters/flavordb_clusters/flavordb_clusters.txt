@@ -5,16 +5,16 @@ Cluster Animal Product:
 Egg
 
 Cluster Bakery:
-Bagel, Bakery products, Biscuit, Bread, Candy bar, Chocolate mousse, Corn chip, Focaccia, French toast, Fried Potato, Fudge, Marshmallow, Meringue, Multigrain bread, Oat bread, Other bread product, Pan dulce, Pasta, Phyllo dough, Pie crust, Piki bread, Pita bread, Potato bread, Potato chip, Raisin bread, Rice bread, Rye bread, Tortilla chip, Wheaten bread, White bread, Wholewheat bread, Wonton wrapper
+Bagel, Bakery Products, Biscuit, Bread, Candy bar, Chocolate mousse, Corn chip, Focaccia, French toast, Fried Potato, Fudge, Marshmallow, Meringue, Multigrain bread, Oat bread, Other bread product, Pan dulce, Pasta, Phyllo dough, Pie crust, Piki bread, Pita bread, Potato bread, Potato chip, Raisin bread, Rice bread, Rye Bread, Tortilla chip, Wheaten Bread, White Bread, Wholewheat Bread, Wonton wrapper
 
 Cluster Berry:
-Acerola, Bayberry, Berry, Bilberry, Bitter cherry, Black crowberry, Black huckleberry, Black mulberry, Black raspberry, Blackberry, Blueberry, Boysenberry, Canada blueberry, Cherry, Cherry tomato, Chinese bayberry, Cloudberry, Cranberry, Deerberry, Elliott's blueberry, Gooseberry, Groundcherry, Jostaberry, Lingonberry, Loganberry, Mexican groundcherry, Mulberry, Nanking cherry, Ohelo berry, Pitanga, Raspberry, Red raspberry, Rowanberry, Salmonberry, Saskatoon berry, Sea Buckthorns, Sour Cherry, Sparkleberry, Squashberry, Strawberry, Strawberry jam, Wild cherry
+Acerola, Bayberry, Berry, Bilberry, Bitter Cherry, Black crowberry, Black huckleberry, Black mulberry, Black raspberry, Blackberry, Blueberry, Boysenberry, Canada blueberry, Cherry, Cherry tomato, Chinese bayberry, Cloudberry, Cranberry, Deerberry, Elliott's blueberry, Gooseberry, Groundcherry, Jostaberry, Lingonberry, Loganberry, Mexican groundcherry, Mulberry, Nanking cherry, Ohelo berry, Pitanga, Raspberry, Red raspberry, Rowanberry, Salmonberry, Saskatoon berry, Sea Buckthorns, Sour Cherry, Sparkleberry, Squashberry, Strawberry, Strawberry Jam, Wild Cherry
 
 Cluster Beverage:
 Cocktail, Energy drink, Fruit juice, Greenthread tea, Hibiscus tea, Horchata, Hot chocolate, Milkshake, Nutritional drink, Soft drink, Soy milk, Vegetable juice, Wort
 
 Cluster Beverage Alcoholic:
-Anise brandy, Apple brandy, Armagnac brandy, Arrack, Bantu Beer, Beer, Berry wine, Other alcoholic beverage, Bilberry Wine, Blackberry brandy, Botrytized wine, Bourbon whisky, Brandy, Canadian whisky, Champagne, Cherry brandy, Cider, Cognac Brandy, Finnish Whisky, Gin, Japanese Whisky, Madeira wine, Malt Whisky, Papaya Brandy, Pear Brandy, Plum Brandy, Plum Wine, Port Wine, Raspberry Brandy, Red Wine, Rose Wine, Rum, Sake, Scotch Whisky, Sherry, Sparkling Wine, Spirit, Strawberry Wine, Vermouth, Vodka, Weinbrand Brandy, Whisky, White Wine, Wine
+Anise Brandy, Apple Brandy, Armagnac Brandy, Arrack, Bantu Beer, Beer, Berry wine, Beverage alcolohic other, Bilberry Wine, Blackberry Brandy, Botrytized Wine, Bourbon Whisky, Brandy, Canadian Whisky, Champagne, Cherry Brandy, Cider, Cognac Brandy, Finnish Whisky, Gin, Japanese Whisky, Madeira wine, Malt Whisky, Papaya Brandy, Pear Brandy, Plum Brandy, Plum Wine, Port Wine, Raspberry Brandy, Red Wine, Rose Wine, Rum, Sake, Scotch Whisky, Sherry, Sparkling Wine, Spirit, Strawberry Wine, Vermouth, Vodka, Weinbrand Brandy, Whisky, White Wine, Wine
 
 Cluster Beverage Caffeinated:
 Arabica coffee, Black Tea, Coffee, Coffee mocha, Green Tea, Mate, Roibos Tea

@@ -1,0 +1,719 @@
+Cluster: Sweet Fruits
+Blackberry
+Apple
+Bayberry
+Bilberry
+Black crowberry
+Black huckleberry
+Black mulberry
+Black raspberry
+Boysenberry
+Breadfruit
+Canada blueberry
+Chinese bayberry
+Cloudberry
+Deerberry
+Elderberry
+Elliott's blueberry
+Gooseberry
+Grapefruit
+Horned melon
+Jackfruit
+Jostaberry
+Lingonberry
+Loganberry
+Mammee apple
+Mulberry
+Muskmelon
+Ohelo berry
+Passion fruit
+Pineapple
+Red raspberry
+Rowanberry
+Salmonberry
+Saskatoon berry
+Sparkleberry
+Squashberry
+Star fruit
+Strawberry
+Berry wine
+Fruit gum
+Fruit juice
+Fruit preserve
+Fruit salad
+Scrapple
+
+Cluster: Bitter Vegetables and Greens
+Bitter gourd
+Broccoli
+Kale
+Lettuce
+
+Cluster: Umami-Rich Meats
+Beefalo
+Bison
+Wild boar
+Meat bouillon
+Meatball
+Meatloaf
+Lambsquarters
+
+Cluster: Poultry and Game Birds
+Chicken
+Mallard duck
+Pheasant
+Turkey
+
+Cluster: Seafood - Fish
+Alaska blackfish
+Albacore tuna
+Atlantic salmon
+Atlantic wolffish
+Bluefish
+Broad whitefish
+Catfish
+Channel catfish
+Chinook salmon
+Chum salmon
+Coho salmon
+Crayfish
+Cuttlefish
+Dolphin fish
+Fish burger
+Fish oil
+Fishes
+Flatfish
+Gadus (Common cod)
+Garfish
+Gefilte fish
+Jellyfish
+Lake trout
+Lingcod
+Milkfish
+Monkfish
+Northern bluefin tuna
+Other fish product
+Pacific rockfish
+Pink salmon
+Pumpkinseed sunfish
+Rainbow trout
+Sablefish
+Sea trout
+Sheefish
+Sockeye salmon
+Spiny dogfish
+Swordfish
+Tilefish
+Whitefish
+Yellowfin tuna
+American butterfish
+Devilfish
+
+Cluster: Seafood - Shellfish and Mollusks
+Crab
+Red king crab
+Scallop
+Shrimp
+Spiny lobster
+
+Cluster: Grains and Grain Products
+Cornbread
+Flour
+Oat bread
+Piki bread
+Pita bread
+Potato bread
+Raisin bread
+Rice bread
+Rye bread
+White bread
+Annual wild rice
+Breadnut tree seed
+Pasta
+Red rice
+Rice
+Wild rice
+Crisp bread
+Frybread
+Liquorice
+Multigrain bread
+Other bread product
+Other pasta dish
+Rice cake
+Whole wheat bread
+Breakfast cereal
+
+Cluster: Legumes
+European rabbit
+Adzuki bean
+Bean
+Black-eyed pea
+Catjang pea
+Chickpea
+Climbing bean
+European chestnut
+Gram bean
+Grass pea
+Green bean
+Hyacinth bean
+Lentils
+Lima bean
+Moth bean
+Mung bean
+Peach
+Peanut
+Pear
+Pigeon pea
+Prickly pear
+Scarlet bean
+Soy bean
+Spearmint
+Winged bean
+Yardlong bean
+European anchovy
+Soybean oil
+Tapioca pearl
+Cocoa bean
+
+Cluster: Nuts and Seeds
+Almond
+Beech nut
+Brazil nut
+Butternut
+Butternut squash
+Cashew nut
+Chestnut
+Chinese chestnut
+Chinese water chestnut
+Coconut
+Cottonseed
+Flaxseed
+Ginkgo nuts
+Hazelnut
+Japanese chestnut
+Macadamia nut
+Nutmeg
+Pili nut
+Pistachio
+Walnut
+Nutritional drink
+Nuttall cockle
+Mixed nuts
+Nuts
+Oil-seed Camellia
+
+Cluster: Dairy and Alternatives
+Soy cream
+Soy milk
+Buttermilk
+Cheese
+Condensed milk
+Cream
+Evaporated milk
+Ice cream
+Ice cream cone
+Macaroni and cheese
+Milk (Human)
+Milkshake
+Other fermented milk
+Soy yogurt
+Yogurt
+Milk (Cow)
+
+Cluster: Mushrooms and Fungi
+Common mushroom
+Oyster mushroom
+
+Cluster: Herbs and Spices
+Allspice
+Cinnamon
+Common oregano
+Cornmint
+Mexican oregano
+Peppermint
+Rosemary
+Pepper
+Pepper (C. baccatum)
+Pepper (C. chinense)
+
+Cluster: Oils and Fats
+Giant butterbur
+Oil palm
+Butter
+Canola oil
+Cocoa butter
+Cooking oil
+Shortening
+
+Cluster: Beverages
+Arabica coffee
+Hibiscus tea
+Black tea
+Green tea
+Greenthread tea
+Tea leaf willow
+Coffee
+Coffee mocha
+Madeira wine
+Other alcoholic beverage
+Port wine
+Red wine
+Rose wine
+White wine
+Tea
+Energy drink
+Soft drink
+
+Cluster: Fermented Foods
+Miso
+
+Cluster: Miscellaneous
+Anatidae
+Buffalo
+Deer
+Elk
+Emu
+Greylag goose
+Guinea hen
+Horse
+Mountain hare
+Mule deer
+Ostrich
+Quail
+Rabbit
+Rock ptarmigan
+Squab
+Bagel
+Bulgur
+Heart of palm
+Mate
+Semolina
+Tofu
+Tortilla
+Wonton wrapper
+Zwieback
+Abiyuch
+Acerola
+Acorn
+Agave
+Alaska wild rhubarb
+Alfalfa
+Allium
+Alpine sweetvetch
+Amaranth
+American pokeweed
+Angelica
+Anise
+Apricot
+Arrowhead
+Arrowroot
+Asparagus
+Avocado
+Babassu palm
+Bamboo shoots
+Banana
+Barley
+Black salsify
+Blackcurrant
+Borage
+Brussel sprouts
+Buffalo currant
+Burdock
+Cabbage
+Capers
+Caraway
+Cardamom
+Cardoon
+Carob
+Carrot
+Cassava
+Cauliflower
+Chanterelle
+Chayote
+Cherimoya
+Cherry tomato
+Chervil
+Chia
+Chicory
+Chives
+Cloud ear fungus
+Cloves
+Colorado pinyon
+Common persimmon
+Common salsify
+Common verbena
+Coriander
+Corn
+Corn salad
+Cucumber
+Cucurbita
+Cumin
+Dandelion
+Date
+Dill
+Dock
+Durian
+Eggplant
+Endive
+Enokitake
+Epazote
+Evening primrose
+Feijoa
+Fennel
+Fenugreek
+Fig
+Fireweed
+French plantain
+Garden cress
+Garland chrysanthemum
+Garlic
+Ginger
+Ginseng
+Globe artichoke
+Grape
+Green zucchini
+Groundcherry
+Guava
+Hard wheat
+Hedge mustard
+Horseradish
+Japanese persimmon
+Japanese pumpkin
+Jerusalem artichoke
+Jew's ear
+Jicama
+Jujube
+Jute
+Kai-lan
+Kiwi
+Kohlrabi
+Komatsuna
+Kumquat
+Leek
+Lemon
+Lemon balm
+Lemon grass
+Lemon verbena
+Lichee
+Lime
+Linden
+Longan
+Loquat
+Lotus
+Lovage
+Lupine
+Maitake
+Malabar plum
+Malabar spinach
+Mango
+Medlar
+Mexican groundcherry
+Millet
+Mountain yam
+Muscadine grape
+Nance
+Nanking cherry
+Naranjilla
+Narrowleaf cattail
+Natal plum
+New Zealand spinach
+Nopal
+Oat
+Okra
+Olive
+Oregon yampah
+Oriental wheat
+Ostrich fern
+Pak choy
+Papaya
+Parsley
+Parsnip
+Persimmon
+Pineappple sage
+Pitanga
+Pomegranate
+Potato
+Prairie turnip
+Pummelo
+Purple mangosteen
+Purslane
+Quince
+Quinoa
+Radish
+Rambutan
+Rapini
+Red onion
+Redcurrant
+Rose hip
+Roselle
+Rowal
+Rye
+Safflower
+Saffron
+Sago palm
+Sapodilla
+Sesame
+Sesbania flower
+Shallot
+Shiitake
+Silver linden
+Skunk currant
+Small-leaf linden
+Sorghum
+Sorrel
+Sour cherry
+Sourdock
+Sourdough
+Soursop
+Spelt
+Spinach
+Star anise
+Summer savory
+Sunflower
+Swamp cabbage
+Sweet potato
+Tamarind
+Taro
+Tarragon
+Tartary buckwheat
+Teff
+Thistle
+Tinda
+Towel gourd
+Tree fern
+Triticale
+Turmeric
+Turnip
+Vanilla
+Wasabi
+Watercress
+Welsh onion
+Wheat
+White lupine
+Winter savory
+Winter squash
+Yam
+Yautia
+Yellow pond-lily
+Yellow zucchini
+Adobo
+Akutaq
+Alaska pollock
+American shad
+Anchovy
+Anguilliformes
+Arepa
+Ascidians
+Atlantic croaker
+Atlantic halibut
+Atlantic mackerel
+Atlantic menhaden
+Atlantic pollock
+Baked potato
+Bearded seal
+Beer
+Beluga whale
+Blue whiting
+Bowhead whale
+Breakfast sandwich
+Burrito
+Cake
+Carp bream
+Casein
+Charr
+Chewing gum
+Chili
+Chimichanga
+Cisco
+Clupeinae (Herring, Sardine, Sprat)
+Cocktail
+Cocoa powder
+Cold cut
+Common carp
+Common dab
+Common ling
+Common octopus
+Corn chip
+Corn grits
+Couscous
+Cusk
+Dragee
+Dulce de leche
+Dumpling
+Egg roll
+Eggs
+Empanada
+Enchilada
+Falafel
+Florida pompano
+Focaccia
+French toast
+Freshwater drum
+Freshwater eel
+Fudge
+Gadiformes
+Gelatin
+Gelatin dessert
+Gin
+Greater sturgeon
+Green turtle
+Greenland halibut/turbot
+Grouper
+Haddock
+Hamburger
+Honey
+Horchata
+Hot dog
+Hummus
+Hushpuppy
+Icing
+Junket
+Kefir
+King mackerel
+Lasagna
+Leather chiton
+Leavening agent
+Lemon sole
+Lumpsucker
+Margarine
+Margarine-like spread
+Marshmallow
+Marzipan
+Meringue
+Molasses
+Mollusks
+Mustard
+Nachos
+Natto
+North Pacific giant octopus
+Northern pike
+Norway haddock
+Norway pout
+Nougat
+Ocean pout
+Orange roughy
+Other dish
+Other frozen dessert
+Other sandwich
+Pacific herring
+Pacific jack mackerel
+Pacific ocean perch
+Pacific sardine
+Painted comber
+Pan dulce
+Pancake
+Pastry
+Pate
+Pectin
+Perciformes
+Phyllo dough
+Pie
+Pie crust
+Pikeperch
+Pizza
+Pollock
+Popcorn
+Pot pie
+Potato chip
+Potato gratin
+Potato puffs
+Pudding
+Pupusa
+Quesadilla
+Rainbow smelt
+Ravioli
+Relish
+Remoulade
+Ringed seal
+Roe
+Rum
+Sake
+Salad
+Salt
+Sausage
+Scup
+Sea cucumber
+Shark
+Sheepshead
+Sherry
+Smelt
+Snail
+Snapper
+Soup
+Spanish mackerel
+Spirit
+Spot croaker
+Spotted seal
+Spread
+Squid
+Steller sea lion
+Stew
+Striped bass
+Striped mullet
+Stuffing
+Sturgeon
+Succotash
+Sugar
+Sugar substitute
+Sweet custard
+Syrup
+Taco
+Tamale
+Toffee
+Topping
+Tortilla chip
+Tostada
+Trail mix
+True frog
+True seal
+True sole
+Turbot
+Vegetable juice
+Vegetarian food
+Vermouth
+Vinegar
+Vodka
+Waffle
+Walleye
+Walrus
+Water
+Whelk
+Whey
+Whisky
+White sucker
+Whiting
+Yellowtail amberjack
+Ymer
+Abalone
+Agar
+Atlantic herring
+Biscuit
+Burbot
+Citrus
+Conch
+Cupuacu
+Irish moss
+Kelp
+Kombu
+Purple laver
+Red algae
+Rocket salad
+Shea tree
+Spirulina
+Ucuhuba
+Wakame
+
+Cluster: Processed Foods and Snacks
+Candy bar
+Chocolate
+Chocolate mousse
+Chocolate spread
+Hot chocolate
+Other snack food
+Snack bar
+
+Cluster: Condiments and Sauces
+Ketchup
+Salad dressing
+Sauce
+

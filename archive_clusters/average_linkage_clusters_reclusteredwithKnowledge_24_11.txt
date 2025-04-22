@@ -1,0 +1,586 @@
+Cluster 1: Sweet Fruits
+Abiyuch
+Acerola
+Apple
+Apricot
+Avocado
+Babassu palm
+Banana
+Bayberry
+Bilberry
+Black crowberry
+Black huckleberry
+Black mulberry
+Black raspberry
+Blackberry
+Blueberry
+Boysenberry
+Breadfruit
+Breadnut tree seed
+Canada blueberry
+Cherimoya
+Chinese bayberry
+Cloudberry
+Cranberry
+Cupuaçu
+Date
+Durian
+Elderberry
+Feijoa
+Fig
+Gooseberry
+Grape
+Guava
+Jackfruit
+Jostaberry
+Jujube
+Kiwi
+Kumquat
+Lemon
+Lime
+Lingonberry
+Loganberry
+Longan
+Loquat
+Lychee
+Mammee apple
+Mango
+Medlar
+Mulberry
+Muscadine grape
+Muskmelon
+Nance
+Nanking cherry
+Naranjilla
+Olive
+Orange
+Papaya
+Passion fruit
+Peach
+Pear
+Persimmon
+Pitanga
+Pineapple
+Plum
+Pomegranate
+Prickly pear
+Quince
+Rambutan
+Raspberry
+Red raspberry
+Rose hip
+Rowanberry
+Sapodilla
+Saskatoon berry
+Sea-buckthorn
+Star fruit
+Strawberry
+Tamarind
+Watermelon
+Yellow pond-lily
+Cluster 2: Sour and Tart Fruits
+Acerola
+Cranberry
+Gooseberry
+Grapefruit
+Lemon
+Lime
+Lingonberry
+Naranjilla
+Pomegranate
+Quince
+Sea-buckthorn
+Tamarind
+Cluster 3: Bitter Vegetables and Greens
+Arugula
+Bitter gourd
+Broccoli
+Brussels sprouts
+Cabbage
+Chicory
+Collard greens
+Dandelion greens
+Endive
+Kale
+Mustard greens
+Radicchio
+Rapini
+Turnip greens
+Watercress
+Cluster 4: Umami-Rich Meats
+Beefalo
+Bison
+Buffalo
+Deer
+Elk
+Emu
+Horse
+Mule deer
+Ostrich
+Rabbit
+European rabbit
+Mountain hare
+Wild boar
+Cluster 5: Poultry and Game Birds
+Chicken
+Duck
+Greylag goose
+Guinea hen
+Mallard duck
+Pheasant
+Quail
+Rock ptarmigan
+Squab
+Turkey
+Cluster 6: Umami-Rich Seafood - Fish
+Abalone
+Alaska blackfish
+Alaska pollock
+Albacore tuna
+American butterfish
+Anchovy
+Atlantic croaker
+Atlantic halibut
+Atlantic herring
+Atlantic mackerel
+Atlantic menhaden
+Atlantic pollock
+Atlantic salmon
+Atlantic wolffish
+Burbot
+Blue whiting
+Bluefish
+Broad whitefish
+Catfish
+Channel catfish
+Charr
+Chinook salmon
+Coho salmon
+Common carp
+Common dab
+Common ling
+Cusk
+Devilfish
+Haddock
+King mackerel
+Lake trout
+Lingcod
+Monkfish
+Northern bluefin tuna
+Northern pike
+Pacific herring
+Pacific jack mackerel
+Pacific ocean perch
+Pacific rockfish
+Pacific sardine
+Painted comber
+Pikeperch
+Pink salmon
+Pollock
+Rainbow smelt
+Rainbow trout
+Sablefish
+Sheefish
+Sheepshead
+Smelt
+Sockeye salmon
+Sturgeon
+Tilefish
+Trout
+Walleye
+Whiting
+White sucker
+Whitefish
+Yellowfin tuna
+Yellowtail amberjack
+Cluster 7: Seafood - Shellfish and Mollusks
+Ascidians
+Conch
+Crab
+Crayfish
+Cuttlefish
+Jellyfish
+Lobster
+Mollusks
+Octopus
+Scallop
+Sea cucumber
+Shrimp
+Snail
+Squid
+Whelk
+Clam
+Mussel
+Oyster
+Geoduck
+Cockle
+Razor clam
+Periwinkle
+Sea urchin
+Limpet
+Sea snail
+Chiton
+Ark shell
+Scungilli
+Cluster 8: Grains and Grain Products
+Barley
+Buckwheat
+Bulgur
+Cornmeal
+Couscous
+Durum wheat
+Einkorn wheat
+Emmer
+Flour
+Hard wheat
+Kamut
+Millet
+Oat
+Pasta
+Quinoa
+Rice
+Rye
+Semolina
+Sorghum
+Spelt
+Teff
+Triticale
+Wheat
+Wild rice
+Bagel
+Biscuit
+Bread
+Cornbread
+Crackers
+Multigrain bread
+Oat bread
+Piki bread
+Pita bread
+Potato bread
+Raisin bread
+Rice bread
+Rye bread
+Tortilla
+White bread
+Whole wheat bread
+Zwieback
+Arepa
+Frybread
+Naan
+Pumpernickel
+Sourdough
+Muffins
+Doughnuts
+Croissant
+Danish pastry
+Baguette
+Brioche
+Focaccia
+Cluster 9: Legumes
+Adzuki bean
+Alfalfa
+Bean
+Black-eyed pea
+Broad bean
+Catjang pea
+Chickpea
+Cowpea
+Fava bean
+Gram bean
+Green bean
+Kidney bean
+Lentils
+Lupine
+Moth bean
+Mung bean
+Peas
+Peanut
+Pigeon pea
+Soy bean
+Winged bean
+Yardlong bean
+Cluster 10: Nuts and Seeds
+Acorn
+Almond
+Beech nut
+Brazil nut
+Cashew nut
+Chestnut
+Chia
+Coconut
+Flaxseed
+Ginkgo nuts
+Hazelnut
+Hemp seed
+Macadamia nut
+Oil-seed Camellia
+Pili nut
+Pine nut
+Pistachio
+Pumpkinseed
+Safflower
+Sesame
+Shea tree
+Sunflower
+Walnut
+Cluster 11: Dairy and Alternatives
+Milk (Cow)
+Milk (Human)
+Butter
+Buttermilk
+Cheese
+Cream
+Evaporated milk
+Ice cream
+Kefir
+Whey
+Ymer
+Yogurt
+Soy cream
+Soy milk
+Soy yogurt
+Tofu
+Casein
+Cluster 12: Mushrooms and Fungi
+Chanterelle
+Common mushroom
+Enokitake
+Jew's ear
+Maitake
+Oyster mushroom
+Shiitake
+Cloud ear fungus
+Morel
+Truffle
+Cluster 13: Herbs and Spices
+Allium
+Allspice
+Anise
+Caraway
+Cardamom
+Chervil
+Chives
+Cinnamon
+Cloves
+Coriander
+Cumin
+Dill
+Epazote
+Fennel
+Fenugreek
+Garlic
+Ginger
+Horseradish
+Lemon balm
+Lemon grass
+Lovage
+Mint
+Mexican oregano
+Oregano
+Parsley
+Peppermint
+Rosemary
+Saffron
+Sage
+Spearmint
+Tarragon
+Thyme
+Turmeric
+Vanilla
+Wasabi
+Bay leaf
+Cluster 14: Oils and Fats
+Canola oil
+Cocoa butter
+Coconut oil
+Corn oil
+Cottonseed oil
+Lard
+Margarine
+Margarine-like spread
+Olive oil
+Palm oil
+Peanut oil
+Safflower oil
+Sesame oil
+Shea butter
+Shortening
+Soybean oil
+Sunflower oil
+Ucuhuba
+Cluster 15: Beverages
+Arabica coffee
+Black tea
+Green tea
+Hibiscus tea
+Mate
+Tea
+Beer
+Berry wine
+Cocktail
+Gin
+Madeira wine
+Port wine
+Red wine
+Rum
+Sake
+Sherry
+Vermouth
+Vodka
+Whisky
+White wine
+Soft drink
+Water
+Coffee mocha
+Horchata
+Hot chocolate
+Milkshake
+Energy drink
+Fruit juice
+Cluster 16: Seaweeds and Algae
+Agar
+Irish moss
+Kelp
+Kombu
+Purple laver
+Red algae
+Spirulina
+Wakame
+Nori
+Sea lettuce
+Dulse
+Cluster 17: Sweeteners and Sweets
+Agave
+Honey
+Molasses
+Sugar
+Syrup
+Candy bar
+Chocolate
+Chocolate spread
+Cocoa powder
+Fudge
+Jam/Jelly
+Marshmallow
+Nougat
+Toffee
+Dulce de leche
+Dragée
+Meringue
+Cluster 18: Baked Goods and Snacks
+Bagel
+Biscuit
+Cake
+Chewing gum
+Cookie
+Crackers
+Doughnuts
+Granola bars
+Muffins
+Pastry
+Pie
+Popcorn
+Pretzels
+Snack bar
+Tortilla chip
+Waffle
+Brownies
+Breadsticks
+Croissant
+Danish pastry
+Baguette
+Energy bar
+Rice cake
+Crisp bread
+Cluster 19: Prepared Dishes
+Adobo
+Akutaq
+Arepa
+Baked potato
+Burrito
+Chimichanga
+Chili
+Couscous
+Dumpling
+Egg roll
+Enchilada
+Falafel
+Fish burger
+French toast
+Frybread
+Hamburger
+Hot dog
+Hushpuppy
+Lasagna
+Macaroni and cheese
+Meatball
+Meatloaf
+Nachos
+Pancake
+Pasta
+Pizza
+Quesadilla
+Ravioli
+Sandwich
+Sausage
+Soup
+Spaghetti
+Stew
+Taco
+Tamale
+Tortilla
+Tostada
+Omelette
+Scrambled eggs
+Pot pie
+Stuffing
+Salad
+Pupusa
+Cluster 20: Condiments and Sauces
+Barbecue sauce
+Horseradish sauce
+Hot sauce
+Hummus
+Ketchup
+Mayonnaise
+Miso
+Mustard
+Pesto
+Relish
+Salsa
+Soy sauce
+Tahini
+Vinegar
+Salad dressing
+Tartar sauce
+Remoulade
+Cluster 21: Fermented Foods
+Miso
+Natto
+Sauerkraut
+Kimchi
+Tempeh
+Yogurt
+Kefir
+Fermented tofu
+Kombucha
+Cluster 22: Miscellaneous
+Cottonseed
+Heart of palm
+Leavening agent
+Nutritional drink
+Pectin
+Seaweed products
+Yeast
+Aloe vera
+Capers
+Fiddlehead fern
+Garden cress
+Hazelnut
+Oil palm
+Pumpernickel
+Skunk currant
+Sorrel
+Salsify
+Sea beet
+Sparkleberry

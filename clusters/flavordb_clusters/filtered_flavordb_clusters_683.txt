@@ -1,0 +1,90 @@
+Cluster Additive:
+Agar, Casein, Cooking oil, Fruit preserve, Gelatin, Gelatin dessert, Icing, Ketchup, Leavening agent, Margarine, Margarine-like spread, Miso, Molasses, Pectin, Salt, Sauce, Shortening, Spirulina, Spread, Stuffing, Sugar, Sugar substitute, Syrup, Topping, Water
+
+Cluster Bakery:
+Bagel, Biscuit, Candy bar, Chocolate mousse, Corn chip, Focaccia, French toast, Fudge, Marshmallow, Meringue, Multigrain bread, Oat bread, Other bread product, Pan dulce, Pasta, Phyllo dough, Pie crust, Piki bread, Pita bread, Potato bread, Potato chip, Raisin bread, Rice bread, Rye bread, Tortilla chip, White bread, Whole wheat bread, Wonton wrapper
+
+Cluster Berry:
+Acerola, Bayberry, Bilberry, Black crowberry, Black huckleberry, Black mulberry, Black raspberry, Blackberry, Boysenberry, Canada blueberry, Cherry tomato, Chinese bayberry, Cloudberry, Deerberry, Elliott's blueberry, Gooseberry, Groundcherry, Jostaberry, Lingonberry, Loganberry, Mexican groundcherry, Mulberry, Nanking cherry, Ohelo berry, Pitanga, Red raspberry, Rowanberry, Salmonberry, Saskatoon berry, Sour cherry, Sparkleberry, Squashberry, Strawberry, Elderberry
+
+Cluster Beverage:
+Cocktail, Energy drink, Fruit juice, Greenthread tea, Hibiscus tea, Horchata, Hot chocolate, Milkshake, Nutritional drink, Soft drink, Soy milk, Vegetable juice
+
+Cluster Beverage Alcoholic:
+Beer, Berry wine, Gin, Madeira wine, Other alcoholic beverage, Port wine, Red wine, Rose wine, Rum, Sake, Sherry, Spirit, Vermouth, Vodka, Whisky, White wine
+
+Cluster Beverage Caffeinated:
+Arabica coffee, Black tea, Coffee, Coffee mocha, Green tea, Mate
+
+Cluster Cabbage:
+Broccoli, Brussel sprouts, Cabbage, Cauliflower, Hedge mustard, Horseradish, Kai-lan, Kale, Kohlrabi, Komatsuna, Mustard, Pak choy, Prairie turnip, Rapini, Swamp cabbage, Wasabi
+
+Cluster Cereal:
+Annual wild rice, Barley, Breakfast cereal, Bulgur, Crisp bread, Flour, Hard wheat, Oat, Oriental wheat, Quinoa, Red rice, Rice, Rye, Semolina, Sorghum, Sourdough, Spelt, Tartary buckwheat, Triticale, Wheat, Wild rice
+
+Cluster Dairy:
+Butter, Buttermilk, Cheese, Condensed milk, Cream, Dulce de leche, Evaporated milk, Junket, Kefir, Milk (Cow), Milk (Human), Other fermented milk, Sweet custard, Whey, Ymer, Yogurt
+
+Cluster Dish:
+Adobo, Akutaq, Arepa, Baked potato, Breakfast sandwich, Burrito, Cake, Chewing gum, Chili, Chimichanga, Cold cut, Couscous, Dragee, Dumpling, Egg roll, Empanada, Enchilada, Falafel, Fish burger, Fruit gum, Fruit salad, Frybread, Gefilte fish, Hamburger, Hot dog, Hummus, Hushpuppy, Ice cream, Ice cream cone, Lasagna, Macaroni and cheese, Marzipan, Meat bouillon, Meatball, Meatloaf, Nachos, Natto, Nougat, Other dish, Other frozen dessert, Other pasta dish, Other sandwich, Other snack food, Pancake, Pastry, Pate, Pie, Pizza, Pot pie, Potato gratin, Potato puffs, Pudding, Pupusa, Quesadilla, Ravioli, Relish, Remoulade, Rice cake, Salad, Salad dressing, Sausage, Scrapple, Snack bar, Soup, Soy cream, Stew, Succotash, Taco, Tamale, Toffee, Tortilla, Tostada, Trail mix, Vegetarian food, Waffle, Zwieback
+
+Cluster Essential Oil:
+Canola oil, Lemon grass, Lotus, Lovage
+
+Cluster Fish:
+Alaska blackfish, Alaska pollock, Albacore tuna, American butterfish, American shad, Anchovy, Anguilliformes, Atlantic croaker, Atlantic halibut, Atlantic herring, Atlantic mackerel, Atlantic menhaden, Atlantic pollock, Atlantic salmon, Atlantic wolffish, Beluga whale, Blue whiting, Bluefish, Bowhead whale, Broad whitefish, Burbot, Carp bream, Catfish, Channel catfish, Charr, Chinook salmon, Chum salmon, Cisco, Clupeinae (Herring, Sardine, Sprat), Coho salmon, Common carp, Common dab, Common ling, Conch, Cusk, Cuttlefish, Devilfish, Dolphin fish, European anchovy, Fish oil, Fishes, Flatfish, Florida pompano, Freshwater drum, Freshwater eel, Gadiformes, Gadus (Common cod), Garfish, Greater sturgeon, Greenland halibut/turbot, Grouper, Haddock, King mackerel, Lake trout, Lemon sole, Lingcod, Lumpsucker, Milkfish, Monkfish, Northern bluefin tuna, Northern pike, Norway haddock, Norway pout, Nuttall cockle, Ocean pout, Orange roughy, Other fish product, Pacific herring, Pacific jack mackerel, Pacific ocean perch, Pacific rockfish, Pacific sardine, Painted comber, Perciformes, Pikeperch, Pink salmon, Pollock, Pumpkinseed sunfish, Rainbow smelt, Rainbow trout, Roe, Sablefish, Scup, Sea trout, Shark, Sheefish, Sheepshead, Smelt, Snapper, Sockeye salmon, Spanish mackerel, Spiny dogfish, Spot croaker, Striped bass, Striped mullet, Sturgeon, Swordfish, Tilefish, True sole, Turbot, Walleye, White sucker, Whitefish, Whiting, Yellowfin tuna, Yellowtail amberjack
+
+Cluster Flower:
+Dandelion, Garland chrysanthemum, Globe artichoke, Sesbania flower, Sunflower
+
+Cluster Fruit:
+Apple, Apricot, Avocado, Banana, Blackcurrant, Breadfruit, Buffalo currant, Butternut squash, Cherimoya, Chinese water chestnut, Coconut, Common persimmon, Cupuacu, Date, Durian, Feijoa, Fig, Grape, Guava, Horned melon, Jackfruit, Japanese persimmon, Japanese pumpkin, Jujube, Kiwi, Lichee, Loquat, Malabar plum, Mammee apple, Mango, Medlar, Muscadine grape, Muskmelon, Nance, Naranjilla, Natal plum, Papaya, Passion fruit, Peach, Pear, Persimmon, Pineapple, Pomegranate, Prickly pear, Purple mangosteen, Quince, Rambutan, Redcurrant, Rose hip, Sapodilla, Skunk currant, Soursop, Star fruit, Tamarind, Winter squash, Vanilla
+
+Cluster Fruit Citrus:
+Citrus, Grapefruit, Kumquat, Lemon, Lime, Pummelo
+
+Cluster Fungus:
+Abalone, Chanterelle, Cloud ear fungus, Common mushroom, Enokitake, Jew's ear, Maitake, Oyster mushroom, Shiitake
+
+Cluster Gourd:
+Bitter gourd, Chayote, Cucumber, Cucurbita, Tinda, Towel gourd
+
+Cluster Herb:
+Alfalfa, Amaranth, American pokeweed, Angelica, Borage, Capers, Chervil, Chia, Common verbena, Coriander, Cornmint, Dill, Dock, Epazote, Evening primrose, Fennel, Fenugreek, Fireweed, Garden cress, Garlic, Lemon balm, Lemon verbena, Linden, Liquorice, Mexican oregano, Narrowleaf cattail, Peppermint, Pineappple sage, Rocket salad, Roselle, Rosemary, Safflower, Silver linden, Sorrel, Sourdock, Spearmint, Summer savory, Tarragon, Tea leaf willow, Teff, Winter savory
+
+Cluster Legume:
+Adzuki bean, Bean, Black-eyed pea, Catjang pea, Chickpea, Climbing bean, Gram bean, Grass pea, Hyacinth bean, Lentils, Lima bean, Millet, Moth bean, Mung bean, Pigeon pea, Scarlet bean, Soy bean, Soybean oil, Winged bean, Yardlong bean
+
+Cluster Maize:
+Corn, Corn grits, Cornbread, Popcorn
+
+Cluster Meat:
+Anatidae, Beefalo, Bison, Buffalo, Chicken, Deer, Elk, Emu, European rabbit, Green turtle, Greylag goose, Guinea hen, Horse, Mallard duck, Mountain hare, Mule deer, Ostrich, Pheasant, Quail, Rabbit, Rock ptarmigan, Snail, Squab, True frog, Turkey, Wild boar, Eggs
+
+Cluster Nut:
+Acorn, Almond, Beech nut, Brazil nut, Butternut, Cashew nut, Chestnut, Chinese chestnut, European chestnut, Ginkgo nuts, Hazelnut, Japanese chestnut, Macadamia nut, Mixed nuts, Nuts, Peanut, Pili nut, Pistachio, Walnut
+
+Cluster Plant:
+Abiyuch, Agave, Alaska wild rhubarb, Allium, Alpine sweetvetch, Babassu palm, Bamboo shoots, Black salsify, Cardoon, Carob, Chicory, Colorado pinyon, Common salsify, French plantain, Giant butterbur, Lambsquarters, Longan, Lupine, Nopal, Oil palm, Oil-seed Camellia, Olive, Oregon yampah, Ostrich fern, Purslane, Rowal, Sago palm, Shea tree, Small-leaf linden, Tea, Thistle, Tree fern, Ucuhuba, Watercress, White lupine, Yautia, Yellow pond-lily
+
+Cluster Plant Derivative:
+Breadnut tree seed, Chocolate, Chocolate spread, Cocoa butter, Cocoa powder, Cottonseed, Honey, Jute, Soy yogurt, Tofu, Vinegar
+
+Cluster Seafood:
+Ascidians, Bearded seal, Common octopus, Crab, Crayfish, Irish moss, Jellyfish, Kelp, Kombu, Leather chiton, Mollusks, North Pacific giant octopus, Purple laver, Red algae, Red king crab, Ringed seal, Scallop, Sea cucumber, Shrimp, Spiny lobster, Spotted seal, Squid, Steller sea lion, True seal, Wakame, Walrus, Whelk
+
+Cluster Seed:
+Cocoa bean, Flaxseed, Sesame
+
+Cluster Spice:
+Allspice, Anise, Caraway, Cardamom, Cinnamon, Cloves, Common oregano, Cumin, Ginger, Nutmeg, Parsley, Pepper, Saffron, Star anise, Turmeric
+
+Cluster Vegetable:
+Burdock, Chives, Corn salad, Eggplant, Endive, Green bean, Green zucchini, Heart of palm, Leek, Lettuce, Malabar spinach, New Zealand spinach, Okra, Pepper (C. baccatum), Pepper (C. chinense), Red onion, Shallot, Spinach, Welsh onion, Yellow zucchini, Asparagus
+
+Cluster Vegetable Root:
+Carrot, Ginseng, Parsnip, Radish, Sweet potato, Turnip
+
+Cluster Vegetable Tuber:
+Arrowhead, Arrowroot, Cassava, Jerusalem artichoke, Jicama, Mountain yam, Potato, Tapioca pearl, Taro, Yam
+
