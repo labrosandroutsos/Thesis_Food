@@ -6,7 +6,7 @@ import seaborn as sns
 from scipy.cluster.hierarchy import linkage, fcluster
 
 # Load your data
-df_foodb = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/compounds_presence/foodname_compound_presence_0_1.csv', sep=';', index_col=0)
+df_foodb = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/foodname_compound_presence_0_1.csv', sep=';', index_col=0)
 
 # Compute linkage and clusters for chosen parameters
 linkage_average = linkage(df_foodb, method='average')

@@ -31,7 +31,7 @@ for category in clusters:
     clusters[category] = list(set(clusters[category]))
 
 # Save clusters to a file
-output_txt = 'flavordb_clusters.txt'
+output_txt = '../clusters/flavordb_clusters/flavordb_clusters.txt'
 with open(output_txt, 'w', encoding='utf-8') as f:
     for cluster_name, foods in sorted(clusters.items()):
         f.write(f"Cluster {cluster_name}:\n")
@@ -52,7 +52,7 @@ for cluster_name, foods in clusters.items():
 df_clusters = pd.DataFrame(food_clusters)
 
 # Save the DataFrame
-output_clusters = 'flavordb_food_clusters.csv'
+output_clusters = '../clusters/flavordb_clusters/flavordb_food_clusters.csv'
 df_clusters.to_csv(output_clusters, index=False)
 print(f"\nSaved {output_clusters}")
 print(f"File size: {os.path.getsize(output_clusters)} bytes")

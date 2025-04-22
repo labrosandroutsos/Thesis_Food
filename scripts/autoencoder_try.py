@@ -6,7 +6,7 @@ from tensorflow.keras import layers, models, backend as K
 from tensorflow.python.client import device_lib
 print(device_lib.list_local_devices())
 
-final_df = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/embeddings/df_filtered_food_50.pkl')
+final_df = pd.read_pickle('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/df_filtered_food_50.pkl')
 # print(final_df)
 
 

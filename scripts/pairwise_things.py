@@ -28,7 +28,7 @@ import ast
 # print(global_order)
 
 # Load the CSV file
-df = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/food_compound_foodb_grouped_other_dict.csv', sep=';')
+df = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/food_compound_foodb_grouped_other_dict.csv', sep=';')
 
 print(df)
 # count keys in the first row at compounds column

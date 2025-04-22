@@ -1,10 +1,12 @@
 import pandas as pd
 
-# reorganized_clusters_path = 'C:/Users/labro/Downloads/final_fully_coherent_clusters.txt'
-reorganized_clusters_path = 'C:/Users/labro/Downloads/reclusteres_foods_683same.txt'
-# flavordb_clusters_path = 'processed_flavordb_clusters.txt'
-# flavordb_clusters_path = 'filtered_flavordb_clusters.txt'
-flavordb_clusters_path = '../compounds_presence/average_linkage_clusters.txt'
+reorganized_clusters_path = 'archive_clusters/revised_reorganized_clusters.txt'
+# reorganized_clusters_path = 'compounds_presence/average_linkage_clusters.txt'
+# flavordb_clusters_path = '../clusters/flavordb_clusters/processed_flavordb_clusters.txt'
+flavordb_clusters_path = 'clusters/flavordb_clusters/flavordb_clusters.txt'
+# flavordb_clusters_path = 'clusters/flavordb_clusters/filtered_flavordb_clusters_683.txt'
+# flavordb_clusters_path = 'compounds_presence/average_linkage_clusters.txt'
+# flavordb_clusters_path = 'misc_clusters/expanded_refined_food_clusters_683_CHATGPT_CLUSTERS.txt'
 import re
 import pandas as pd
 
@@ -34,13 +36,12 @@ def read_cluster_file(file_path, is_reorganized=False):
                     foods = [food.strip() for food in split_foods(line)]
                     clusters[current_cluster].extend(foods)
 
-    
     return clusters
 
 # # Read both cluster files
 reorganized_clusters = read_cluster_file(reorganized_clusters_path, is_reorganized=True)
 # flavordb_clusters = read_cluster_file(flavordb_clusters_path, is_reorganized=False)
-flavordb_clusters = read_cluster_file(flavordb_clusters_path, is_reorganized=True)
+flavordb_clusters = read_cluster_file(flavordb_clusters_path, is_reorganized=False)
 
 # Get all unique foods from both sources
 reorganized_foods = set()
@@ -55,6 +56,10 @@ for foods in flavordb_clusters.values():
 reorganized_foods_list = list(reorganized_foods)
 flavordb_foods_list = list(flavordb_foods)
 
+print(len(reorganized_foods_list))
+print(len(flavordb_foods_list))
+# print(flavordb_clusters)
+
 max_length = max(len(reorganized_foods_list), len(flavordb_foods_list))
 reorganized_foods_list.extend([None] * (max_length - len(reorganized_foods_list)))
 flavordb_foods_list.extend([None] * (max_length - len(flavordb_foods_list)))
@@ -66,9 +71,9 @@ unique_foods_df = pd.DataFrame({
 })
 
 # Save the DataFrame to a CSV file
-output_csv = 'unique_foods_comparison_flavrodb_clusteres580foods.csv'
-unique_foods_df.to_csv(output_csv, index=False)
-print(f"Unique foods saved to {output_csv}")
+# output_csv = 'unique_foods_comparison_flavrodb_clusteres580foods.csv'
+# unique_foods_df.to_csv(output_csv, index=False)
+# print(f"Unique foods saved to {output_csv}")
 
 # # Find mismatches
 only_in_reorganized = reorganized_foods - flavordb_foods
@@ -78,6 +83,7 @@ common_foods = reorganized_foods.intersection(flavordb_foods)
 print(len(common_foods))
 print(len(only_in_reorganized))
 print(len(only_in_flavordb))
+# print((only_in_flavordb))
 
 
 # First, create a DataFrame with matching foods
@@ -105,9 +111,9 @@ unique_df = pd.DataFrame({
 unique_foods_df = pd.concat([matching_df, unique_df], ignore_index=True)
 
 # Save the DataFrame to a CSV file
-output_csv = 'common_and_unique_foods_comparison_flavrodb_clusteres580foods.csv'
-unique_foods_df.to_csv(output_csv, index=False)
-print(f"Unique foods saved to {output_csv}")
+# output_csv = '../food_data/common_and_unique_foods_comparison_flavrodb_clusteres580foods.csv'
+# unique_foods_df.to_csv(output_csv, index=False)
+# print(f"Unique foods saved to {output_csv}")
 
 # Filter clusters to keep only common foods
 filtered_reorganized_clusters = {

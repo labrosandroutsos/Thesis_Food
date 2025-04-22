@@ -339,18 +339,20 @@ def compare_cluster_files(cluster1_path, cluster2_path):
     
     # Save results
     metrics_df = pd.DataFrame([metrics])
-    metrics_df.to_csv("cluster_comparison_metrics_expanded_refined_food_clusters.csv", index=False)
-    correspondence.to_csv("cluster_correspondence_expanded_refined_food_clusters.csv")
+    metrics_df.to_csv("cluster_comparison_metrics_683flavordb_vs_foodb_initial_average_linkage_clusters_gemini.csv", index=False)
+    correspondence.to_csv("cluster_correspondence_683flavordb_vs_foodb_initial_average_linkage_clusters_gemini.csv")
     
     return metrics, correspondence
 
 if __name__ == "__main__":
     # Example usage:
     metrics, correspondence = compare_cluster_files(
-        cluster1_path='filtered_flavordb_clusters.txt',  # First clustering file
+        # cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters.txt',  # First clustering file
+        cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters_683.txt',  # 683 foods clusters
         # cluster1_path='C:/Users/labro/Downloads/final_fully_coherent_clusters.txt',  # First clustering file
-        # cluster2_path='../compounds_presence/average_linkage_clusters.txt'  # Second clustering file
-        cluster2_path='C:/Users/labro/Downloads/reclusteres_foods_683same.txt'  # Second clustering file
+        # cluster2_path='compounds_presence/average_linkage_clusters.txt'  # Second clustering file
+        cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/average_linkage_clusters_reclustered_gemini_683.txt'  # Second clustering file
+        # cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/refined_food_clusters_683_gemini_noMisc.txt'  # Second clustering file
         # cluster2_path="processed_flavordb_clusters.txt"
     )
     # clusters_path = 'C:/Users/labro/Downloads/average_linkage_clusters_reclusteredwithKnowledge_24_11'

@@ -3,7 +3,7 @@ from scipy.cluster.hierarchy import linkage, fcluster
 import pandas as pd
 import numpy as np
 
-df_foodb = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/compounds_presence/foodname_compound_presence_0_1_filtered.csv', sep=';', index_col=0)
+df_foodb = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/foodname_compound_presence_0_1_filtered.csv', sep=';', index_col=0)
 
 # Compute linkage matrices for each type
 linkage_single = linkage(df_foodb, method='single')
@@ -87,7 +87,7 @@ cluster_assignments = pd.DataFrame({
 cluster_assignments = cluster_assignments.sort_values(['Cluster', 'Food'])
 
 # Save to text file in the requested format
-output_path = 'C:/Users/labro/Downloads/Thesis_Food/compounds_presence/average_linkage_clusters.txt'
+output_path = '/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/average_linkage_clusters.txt'
 with open(output_path, 'w') as f:
     for cluster_id in range(1, max(best_clusters) + 1):
         # Get foods in current cluster

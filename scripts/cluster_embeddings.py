@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.cluster import DBSCAN
 
-final_df = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_aggregated_100.pkl')
+final_df = pd.read_pickle('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/final_unified_embeddings_aggregated_100.pkl')   
 print(final_df)
 
 # # Assuming `unified_embedding` is a list of embeddings (one per compound) for each food
@@ -79,8 +79,8 @@ plt.ylabel('Number of Foods')
 plt.show()
 
 ## save df
-final_df[['food_name', 'kmeans_cluster', 'dbscan_cluster']].to_csv('C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_aggregated_100_clusters.csv')
-final_df.to_pickle('C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_aggregated_100_clusters.pkl')
+final_df[['food_name', 'kmeans_cluster', 'dbscan_cluster']].to_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/final_unified_embeddings_aggregated_100_clusters.csv')
+final_df.to_pickle('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/final_unified_embeddings_aggregated_100_clusters.pkl')
 ## HDBSCAN
 # import hdbscan
 

@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df_foodb = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/foodb/FoodDB.csv', sep=';')
+df_foodb = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/foodb/FoodDB.csv', sep=';')
 
 print(df_foodb.shape)
 # print(df_foodb.columns)
@@ -33,7 +33,7 @@ import csv
 # food_compounds = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/foodb/foods_compounds.csv', sep=',', on_bad_lines=bad_line_handler, engine='python')
 # food_compounds = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/foodb/foods_compounds.csv', sep=',')
 # print(food_compounds.shape)
-food_compounds = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/foodb/foods_compounds_simplified.csv', sep=',')
+food_compounds = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/foodb/foods_compounds_simplified.csv', sep=',')
 # Handle bad lines with custom function
 print(food_compounds.shape)
 print('these many nan compound ids:', food_compounds['compound_id'].isnull().sum())

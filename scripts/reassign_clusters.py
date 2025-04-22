@@ -79,7 +79,7 @@ import pandas as pd
 # Start by refining the cluster assignments from the uploaded file
 # Adjust clusters based on logical groupings, semantic meaning, and coherence
 
-output_path = 'C:/Users/labro/Downloads/Thesis_Food/compounds_presence/average_linkage_clusters.txt'
+output_path = '/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/average_linkage_clusters.txt'
 
 # Read the file
 with open(output_path, 'r') as f:

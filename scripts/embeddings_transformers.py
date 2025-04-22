@@ -5,10 +5,10 @@ from transformers import AutoTokenizer, AutoModel
 import torch
 from tqdm import tqdm
 
-df_food_dict_bitter = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
-df_food_dict_sweet = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
-df_food_dict_umami = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
-df_food_dict_other = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
+df_food_dict_bitter = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
+df_food_dict_sweet = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
+df_food_dict_umami = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
+df_food_dict_other = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
 
 df_food_dict_bitter['sorted_compounds'] = df_food_dict_bitter['sorted_compounds'].apply(
     lambda x: ast.literal_eval(x) if isinstance(x, str) else x

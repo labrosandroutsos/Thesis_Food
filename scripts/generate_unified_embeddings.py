@@ -4,10 +4,10 @@ import numpy as np
 import ast 
 
 # Load data
-df_food_dict_bitter = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
-df_food_dict_sweet = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
-df_food_dict_umami = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
-df_food_dict_other = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
+df_food_dict_bitter = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
+df_food_dict_sweet = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
+df_food_dict_umami = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
+df_food_dict_other = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
 
 # Prepare the data: List of lists (sentences) for each taste
 def prepare_sentences(df):
@@ -107,7 +107,7 @@ def create_unified_embeddings(embedding_size, window_size):
     final_df = merged_df[['food_name', 'unified_embedding']]
     
     # Save the unified embeddings
-    output_path = f'C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_{embedding_size}_{window_size}.pkl'
+    output_path = f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/final_unified_embeddings_{embedding_size}_{window_size}.pkl'
     final_df.to_pickle(output_path)
     print(f"Saved unified embeddings to: {output_path}")
     

@@ -8,7 +8,7 @@ from sklearn.cluster import AgglomerativeClustering
 import seaborn as sns
 
 
-df_foodb = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/compounds_presence/foodname_compound_presence_0_1.csv', sep=';', index_col=0)
+df_foodb = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/foodname_compound_presence_0_1.csv', sep=';', index_col=0)
 
 print(df_foodb)
 print(df_foodb.shape)
@@ -27,7 +27,7 @@ dendrogram(Z, labels=df_foodb.index, leaf_rotation=90, leaf_font_size=8,truncate
 plt.title('Hierarchical Clustering Dendrogram [Average Linkage]')
 plt.xlabel('Food')
 plt.ylabel('Distance')
-plt.savefig('C:/Users/labro/Downloads/Thesis_Food/hierarchical_clustering_dendrogram_average_lastp_p40.png')
+plt.savefig('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/old_plots/hierarchical_clustering_dendrogram_average_lastp_p40.png')
 plt.show()
 
 clusters = fcluster(Z, criterion='maxclust', t=40)

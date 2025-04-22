@@ -3,7 +3,7 @@ import pandas as pd
 def check_foods():
     # Load the original 'unified_clusters_comparison.csv' to get the full list of 962 foods
     # unified_comparison_df = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/unified_clusters_comparison.csv')
-    unified_comparison_df = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/unified_clusters_comparison.csv')
+    unified_comparison_df = pd.read_csv('/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/unified_clusters_comparison.csv')
     original_food_names = set(unified_comparison_df['food_name'].unique())
 
     print(len(original_food_names))

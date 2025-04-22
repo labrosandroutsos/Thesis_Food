@@ -24,13 +24,29 @@ def concatenate_embeddings(row, vector_size):
     # print("bitter_embedding.shape =", bitter_embedding.shape)
 
     # Sum over each compound for each taste embedding
-    for i in range(bitter_embedding.shape[0]):
+    num_compounds = bitter_embedding.shape[0]  # Assuming all taste embeddings have the same number of compounds
+    for i in range(num_compounds):
         # print("Inside loop:", bitter_embedding[i].shape)
 
+        # Commented out summation
+        # food_bitter += bitter_embedding[i]
+        # food_sweet += sweet_embedding[i]
+        # food_umami += umami_embedding[i]
+        # food_other += other_embedding[i]
+
+        # Accumulate sums for averaging
         food_bitter += bitter_embedding[i]
         food_sweet += sweet_embedding[i]
         food_umami += umami_embedding[i]
         food_other += other_embedding[i]
+
+    # Calculate average if num_compounds > 0
+    if num_compounds > 0:
+        food_bitter /= num_compounds
+        food_sweet /= num_compounds
+        food_umami /= num_compounds
+        food_other /= num_compounds
+    # else: the embeddings remain zeros, which is the correct average for zero compounds
     
     food_all = np.concatenate((food_bitter, food_sweet, food_umami, food_other), axis=None)
 
@@ -44,10 +60,10 @@ def concatenate_embeddings(row, vector_size):
     return food_all
 
 
-df_food_dict_bitter = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
-df_food_dict_sweet = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
-df_food_dict_umami = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
-df_food_dict_other = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
+df_food_dict_bitter = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_bitter.csv', sep=';')
+df_food_dict_sweet = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_sweet.csv', sep=';')
+df_food_dict_umami = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_umami.csv', sep=';')
+df_food_dict_other = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/ordered_compounds/ordered_compounds_per_food_other.csv', sep=';')
 # print(df_food_dict_other[['food_name', 'sorted_compounds']].head())
 
 # Prepare the data: List of lists (sentences) for each taste
@@ -85,17 +101,17 @@ def get_compound_embeddings(model, compounds):
     return np.array(embeddings)
     
 # Configuration for different models
-# embedding_sizes = [50, 100, 150, 200, 250]
-embedding_sizes = [100, 150, 200, 250]
+embedding_sizes = [50, 100, 150, 200, 250]
+# embedding_sizes = [100, 150, 200, 250]
 window_sizes = [2, 3, 5, 7, 10]
 
 # Train models with different configurations
 for embedding_size in embedding_sizes:
     for window_size in window_sizes:
-        if embedding_size == 100 and window_size == 2:
-            continue
-        elif embedding_size == 100 and window_size == 3:
-            continue
+        # if embedding_size == 100 and window_size == 2:
+        #     continue
+        # elif embedding_size == 100 and window_size == 3:
+        #     continue
 
         df_bitter_tmp = df_food_dict_bitter.copy()
         df_sweet_tmp  = df_food_dict_sweet.copy()
@@ -110,10 +126,10 @@ for embedding_size in embedding_sizes:
         model_other = Word2Vec(sentences_other, vector_size=embedding_size, window=window_size, min_count=1, workers=6)
 
         # Save models with configuration in filename
-        model_bitter.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_bitter_{embedding_size}_{window_size}.model")
-        model_sweet.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_sweet_{embedding_size}_{window_size}.model")
-        model_umami.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_umami_{embedding_size}_{window_size}.model")
-        model_other.save(f"C:/Users/labro/Downloads/Thesis_Food/models/word2vec_other_{embedding_size}_{window_size}.model")
+        model_bitter.save(f"/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/models/word2vec_bitter_{embedding_size}_{window_size}_averaged.model")
+        model_sweet.save(f"/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/models/word2vec_sweet_{embedding_size}_{window_size}_averaged.model")
+        model_umami.save(f"/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/models/word2vec_umami_{embedding_size}_{window_size}_averaged.model")
+        model_other.save(f"/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/models/word2vec_other_{embedding_size}_{window_size}_averaged.model")
 
 
         if 'compound_embeddings_bitter' in df_bitter_tmp.columns:
@@ -173,7 +189,7 @@ for embedding_size in embedding_sizes:
         print(final_df.head)
         print(final_df.shape)
 
-        final_df.to_pickle(f'C:/Users/labro/Downloads/Thesis_Food/embeddings_data/final_unified_embeddings_aggregated_{embedding_size}_{window_size}.pkl')
+        final_df.to_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings_data/final_unified_embeddings_aggregated_{embedding_size}_{window_size}_averaged_taste.pkl')
 
 
 

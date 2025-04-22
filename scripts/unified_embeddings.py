@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 
-df_food_dict_bitter = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/embeddings/embedding_data_bitter_250.pkl')
-df_food_dict_sweet = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/embeddings/embedding_data_sweet_250.pkl')
-df_food_dict_umami = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/embeddings/embedding_data_umami_250.pkl')
-df_food_dict_other = pd.read_pickle('C:/Users/labro/Downloads/Thesis_Food/embeddings/embedding_data_other_250.pkl')
+df_food_dict_bitter = pd.read_pickle('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/embedding_data_bitter_250.pkl')
+df_food_dict_sweet = pd.read_pickle('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/embedding_data_sweet_250.pkl')
+df_food_dict_umami = pd.read_pickle('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/embedding_data_umami_250.pkl')
+df_food_dict_other = pd.read_pickle('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/embedding_data_other_250.pkl')
 
 df_food_dict_bitter = df_food_dict_bitter.rename(columns={'taste_embedding': 'compound_embeddings_bitter'})
 df_food_dict_sweet = df_food_dict_sweet.rename(columns={'taste_embedding': 'compound_embeddings_sweet'})
@@ -73,4 +73,4 @@ final_df = food_embeddings[['food_name', 'unified_embedding']]
 print(final_df.head)
 print(final_df.shape)
 
-final_df.to_pickle('C:/Users/labro/Downloads/Thesis_Food/final_unified_embeddings_aggregated_250.pkl')
+final_df.to_pickle('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/final_unified_embeddings_aggregated_250.pkl')

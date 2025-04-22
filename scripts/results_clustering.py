@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load and examine the results
-results_df = pd.read_csv("clustering_algorithm_comparison_all_embeddings.csv")
+results_df = pd.read_csv("/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clustering_comparison_results/clustering_algorithm_comparison_all_embeddings.csv")
 
 # Show top performing configurations
 print("\nTop performing configurations:")
