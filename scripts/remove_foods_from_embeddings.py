@@ -62,7 +62,8 @@ window_sizes = [2, 3, 5, 7, 10]
 # Load the final unified embeddings and filter foods
 for size in embedding_sizes:
     for window in window_sizes:
-        final_df = pd.read_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/final_unified_embeddings_{size}_{window}.pkl')
+        # final_df = pd.read_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/final_unified_embeddings_{size}_{window}.pkl')
+        final_df = pd.read_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings_data/final_unified_embeddings_aggregated_{size}_{window}_sg0_neg15_ep10.pkl')
         
         print(final_df[final_df['food_name'] == 'Dragée'])
         print(final_df[final_df['food_name'] == 'Cupuaçu'])   
@@ -86,7 +87,8 @@ for size in embedding_sizes:
         
         print(filtered_df.shape)
         # Save the filtered dataframe
-        filtered_df.to_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/filtered_embeddings/filtered_unified_embeddings_{size}_{window}.pkl')
+        filtered_df.to_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings_data/filtered_embeddings/filtered_unified_embeddings_aggregated_{size}_{window}_sg0_neg15_ep10.pkl')
+        # filtered_df.to_pickle(f'/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/embeddings/filtered_embeddings/filtered_unified_embeddings_{size}_{window}_sg0_neg15_ep10.pkl')
         print(f"\nSaved filtered embeddings for size {size}. Shape: {filtered_df.shape}")
 
 X_flat = np.array(final_df['unified_embedding'].tolist())

@@ -92,6 +92,140 @@ def clustering_precision_recall(true_labels, pred_labels):
     
     return macro_precision, macro_recall, f1_score
 
+def clustering_precision_recall_hungarian_same_with_embeddings_script(true_labels, pred_labels):
+    """
+    Calculate precision, recall, and F1 score for clustering results using the Hungarian algorithm,
+    handling different cluster orderings and labels.
+    """
+    # New approach with explicit index mapping
+    unique_true = np.unique(true_labels)
+    unique_pred = np.unique(pred_labels)
+    
+    # Create mapping dictionaries
+    true_to_idx = {label: idx for idx, label in enumerate(unique_true)}
+    pred_to_idx = {label: idx for idx, label in enumerate(unique_pred)}
+    
+    # Convert labels to indices
+    true_indices = np.array([true_to_idx[label] for label in true_labels])
+    pred_indices = np.array([pred_to_idx[label] for label in pred_labels])
+    
+    # Compute confusion matrix using indices
+    n_true_clusters = len(unique_true)
+    n_pred_clusters = len(unique_pred)
+    # Ensure labels cover all possible indices for both true and pred
+    all_indices = list(range(max(n_true_clusters, n_pred_clusters)))
+    cm = confusion_matrix(true_indices, pred_indices, labels=all_indices)
+
+    # Pad the confusion matrix if necessary (already handled by labels=all_indices)
+    # if cm.shape[0] != cm.shape[1]:
+    #     max_dim = max(cm.shape[0], cm.shape[1])
+    #     padded_cm = np.zeros((max_dim, max_dim))
+    #     padded_cm[:cm.shape[0], :cm.shape[1]] = cm
+    #     cm = padded_cm
+    
+    # Create correspondence matrix for visualization
+    df = pd.DataFrame({
+        'true': true_labels,
+        'pred': pred_labels
+    })
+    
+    # Create and print raw counts correspondence
+    correspondence_raw = pd.crosstab(df['true'], df['pred'], dropna=False) # Keep all clusters
+    print("\nCluster Correspondence (Raw Counts):")
+    print(correspondence_raw)
+    
+    # Calculate and print percentage overlap from true cluster perspective
+    correspondence_pct_true = correspondence_raw.div(correspondence_raw.sum(axis=1), axis=0).fillna(0) * 100
+    print("\nCluster Correspondence (% of True Cluster):")
+    print(correspondence_pct_true)
+    
+    # Calculate and print percentage overlap from predicted cluster perspective
+    correspondence_pct_pred = correspondence_raw.div(correspondence_raw.sum(axis=0), axis=1).fillna(0) * 100
+    print("\nCluster Correspondence (% of Predicted Cluster):")
+    print(correspondence_pct_pred)
+
+    # Hungarian algorithm to maximize cluster alignment
+    # Use the cost matrix (negative counts) for maximization with linear_sum_assignment
+    cost_matrix = -cm 
+    row_ind, col_ind = linear_sum_assignment(cost_matrix)
+    
+    # ──────────────────────────────────────────────────────────────────────────
+    # 🔗  MICRO-averaged precision / recall / F1  (pair counts, not macro)
+    # -------------------------------------------------------------------------
+    #  TP = items that fall into a matched (true,pred) pair
+    TP = cm[row_ind, col_ind].sum()
+
+    #  FP = all items assigned to those predicted clusters minus TP
+    FP = cm[:, col_ind].sum() - TP
+
+    #  FN = all items in those true clusters minus TP
+    FN = cm[row_ind, :].sum() - TP
+
+    micro_precision = TP / (TP + FP) if TP + FP else 0.0
+    micro_recall    = TP / (TP + FN) if TP + FN else 0.0
+    if micro_precision + micro_recall:
+        micro_f1 = 2 * micro_precision * micro_recall / (micro_precision + micro_recall)
+    else:
+        micro_f1 = 0.0
+
+    print(f"\nMicro Precision: {micro_precision:.3f}")
+    print(f"Micro Recall:    {micro_recall:.3f}")
+    print(f"Micro F1:        {micro_f1:.3f}")
+
+    # Print the optimal matching
+    print("\nOptimal Cluster Matching:")
+    matched_pairs = []
+    for i, j in zip(row_ind, col_ind):
+        # Check if the indices are within the bounds of actual unique labels
+        if i < n_true_clusters and j < n_pred_clusters:
+            true_cluster = unique_true[i]
+            pred_cluster = unique_pred[j]
+            overlap = cm[i, j]
+            total_true = cm[i, :].sum()
+            total_pred = cm[:, j].sum()
+            if total_true > 0 and total_pred > 0: 
+                 matched_pairs.append((i, j)) # Store valid matched indices
+                 print(f"True Cluster '{true_cluster}' matched with Predicted Cluster '{pred_cluster}'")
+                 print(f"  Overlap: {overlap} items")
+                 print(f"  Coverage: {overlap/total_true*100:.1f}% of true cluster, {overlap/total_pred*100:.1f}% of predicted cluster")
+            # else:
+                 # Optional: print info about empty clusters being ignored in matching
+                 # print(f"  (Ignoring match involving empty true/pred cluster: True='{true_cluster}', Pred='{pred_cluster}')")
+        # else:
+            # Optional: print info about matches involving padding indices
+            # print(f"  (Ignoring match involving padded index: True={i}, Pred={j})")
+
+
+    # Calculate precision and recall based ONLY on the optimally matched, non-empty clusters
+    precision_per_cluster = []
+    recall_per_cluster = []
+    
+    for i, j in matched_pairs: # Iterate through valid matched pairs
+        total_pred = cm[:, j].sum()
+        total_true = cm[i, :].sum()
+        # We already checked total_true > 0 and total_pred > 0 to add to matched_pairs
+        precision = cm[i, j] / total_pred
+        recall = cm[i, j] / total_true
+        precision_per_cluster.append(precision)
+        recall_per_cluster.append(recall)
+
+    # Macro-averaged precision and recall
+    macro_precision = np.mean(precision_per_cluster) if precision_per_cluster else 0
+    macro_recall = np.mean(recall_per_cluster) if recall_per_cluster else 0
+
+    # Calculate F1 score
+    if macro_precision + macro_recall > 0:
+        f1_score = 2 * (macro_precision * macro_recall) / (macro_precision + macro_recall)
+    else:
+        f1_score = 0.0
+    
+    print(f"\nOverall Metrics (based on {len(matched_pairs)} matched pairs):")
+    print(f"Macro Precision: {macro_precision:.3f}")
+    print(f"Macro Recall: {macro_recall:.3f}")
+    print(f"F1 Score: {f1_score:.3f}")
+
+    return macro_precision, macro_recall, f1_score, micro_precision, micro_recall, micro_f1
+
 def clustering_precision_recall_hungarian(true_labels, pred_labels):
     """
     Calculate precision, recall, and F1 score for clustering results using the Hungarian algorithm,
@@ -297,14 +431,17 @@ def compare_cluster_files(cluster1_path, cluster2_path):
     })
     
     # Calculate precision and recall using Hungarian algorithm
-    precision_hungarian, recall_hungarian, f1_hungarian = clustering_precision_recall_hungarian(
+    precision_hungarian, recall_hungarian, f1_hungarian, micro_precision, micro_recall, micro_f1 = clustering_precision_recall_hungarian_same_with_embeddings_script(
         comparison_df['cluster1'],
         comparison_df['cluster2']
     )
     metrics.update({
         'precision_hungarian': precision_hungarian,
         'recall_hungarian': recall_hungarian,
-        'f1_score_hungarian': f1_hungarian
+        'f1_score_hungarian': f1_hungarian,
+        'micro_precision': micro_precision,
+        'micro_recall': micro_recall,
+        'micro_f1': micro_f1
     })
     
     # # Calculate additional metrics if embeddings are provided
@@ -339,8 +476,8 @@ def compare_cluster_files(cluster1_path, cluster2_path):
     
     # Save results
     metrics_df = pd.DataFrame([metrics])
-    metrics_df.to_csv("cluster_comparison_metrics_683flavordb_vs_foodb_initial_average_linkage_clusters_gemini.csv", index=False)
-    correspondence.to_csv("cluster_correspondence_683flavordb_vs_foodb_initial_average_linkage_clusters_gemini.csv")
+    metrics_df.to_csv("cluster_comparison_metrics_683flavordb_vs_foodb_initial_average_linkage_clusters_micro.csv", index=False)
+    correspondence.to_csv("cluster_correspondence_683flavordb_vs_foodb_initial_average_linkage_clusters_micro.csv")
     
     return metrics, correspondence
 
@@ -350,8 +487,8 @@ if __name__ == "__main__":
         # cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters.txt',  # First clustering file
         cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters_683.txt',  # 683 foods clusters
         # cluster1_path='C:/Users/labro/Downloads/final_fully_coherent_clusters.txt',  # First clustering file
-        # cluster2_path='compounds_presence/average_linkage_clusters.txt'  # Second clustering file
-        cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/average_linkage_clusters_reclustered_gemini_683.txt'  # Second clustering file
+        cluster2_path='compounds_presence/average_linkage_clusters.txt'  # Second clustering file
+        # cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/average_linkage_clusters_reclustered_gemini_683.txt'  # Second clustering file
         # cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/refined_food_clusters_683_gemini_noMisc.txt'  # Second clustering file
         # cluster2_path="processed_flavordb_clusters.txt"
     )

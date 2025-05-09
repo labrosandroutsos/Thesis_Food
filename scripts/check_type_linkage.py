@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 df_foodb = pd.read_csv('/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/foodname_compound_presence_0_1_filtered.csv', sep=';', index_col=0)
-
+print(df_foodb.shape)
 # Compute linkage matrices for each type
 linkage_single = linkage(df_foodb, method='single')
 linkage_complete = linkage(df_foodb, method='complete')
@@ -75,7 +75,8 @@ print(f"Best Davies-Bouldin: {best_davies_bouldin['linkage']} linkage with {best
 print(f"Best Calinski-Harabasz: {best_calinski['linkage']} linkage with {best_calinski['n_clusters']} clusters (score: {best_calinski['calinski_harabasz']:.4f})")
 
 # Save the best clustering result (Average linkage with 10 clusters)
-best_clusters = fcluster(linkage_average, criterion='maxclust', t=10)
+# best_clusters = fcluster(linkage_single, criterion='maxclust', t=10)
+best_clusters = fcluster(linkage_average, criterion='distance', t=10)
 
 # Create a DataFrame with food names and their cluster assignments
 cluster_assignments = pd.DataFrame({
@@ -87,7 +88,7 @@ cluster_assignments = pd.DataFrame({
 cluster_assignments = cluster_assignments.sort_values(['Cluster', 'Food'])
 
 # Save to text file in the requested format
-output_path = '/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/average_linkage_clusters.txt'
+output_path = '/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/compounds_presence/average_linkage_clusters_distance.txt'
 with open(output_path, 'w') as f:
     for cluster_id in range(1, max(best_clusters) + 1):
         # Get foods in current cluster
@@ -103,7 +104,7 @@ with open(output_path, 'w') as f:
         # Add blank line between clusters
         f.write("\n")
 
-print("\nCluster assignments have been saved to:", output_path)
+# print("\nCluster assignments have been saved to:", output_path)
 
 # Print summary of cluster sizes
 cluster_sizes = cluster_assignments['Cluster'].value_counts().sort_index()

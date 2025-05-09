@@ -27,6 +27,7 @@ build/
 venv/
 env/
 ENV/
+.venv/*
 
 # IDE specific files
 .idea/
@@ -85,3 +86,9 @@ ordered_compounds/ordered_compounds_per_food_bitter.csv
 ordered_compounds/ordered_compounds_per_food_other.csv
 ordered_compounds/ordered_compounds_per_food_sweet.csv
 ordered_compounds/ordered_compounds_per_food_umami.csv
+.venv/lib/python3.11/site-packages/fontTools/misc/classifyTools.py
+cl ustering_comparison_results/correspondence_tables/*
+clustering_comparison_results/correspondence_tables/*
+clustering_comparison_results/correspondence_tables_pca/*
+clustering_comparison_results/correspondence_tables*
+
