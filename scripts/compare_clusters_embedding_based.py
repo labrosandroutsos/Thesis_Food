@@ -13,6 +13,8 @@ from sklearn.metrics import confusion_matrix
 from scipy.optimize import linear_sum_assignment
 import re
 from joblib import Parallel, delayed # Import joblib
+from sklearn.metrics import fowlkes_mallows_score
+from bcubed_metrics.bcubed import Bcubed
 
 # # Step 1: Presence-based clustering
 # df_foodb = pd.read_csv('C:/Users/labro/Downloads/Thesis_Food/compounds_presence/foodname_compound_presence_0_1.csv', sep=';', index_col=0)
@@ -27,6 +29,7 @@ from joblib import Parallel, delayed # Import joblib
 # First, we need to recluster the embeddings using 13 clusters for comparison with the reorganized presence clusters
 from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
+from bcubed_metrics.bcubed import Bcubed
 
 # Load the presence-based clusters from the reorganized_clusters.txt file
 # reorganized_clusters_path = 'C:/Users/labro/Downloads/revised_reorganized_clusters.txt'
@@ -37,6 +40,33 @@ from sklearn.metrics import adjusted_rand_score
 reorganized_clusters_path = '/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters_683.txt'
 # reorganized_clusters_path = '/home/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/processed_flavordb_clusters.txt'
 presence_clusters_dict = {}
+
+def fmi_pair_counting(true_labels, pred_labels):
+    """
+    Calculate Fowlkes-Mallows Index (FMI) using pair counting
+    """
+    return fowlkes_mallows_score(true_labels, pred_labels)
+    
+# def bcubed_scores(true_labels, pred_labels, averaging="micro"):
+#     """
+#     B-cubed precision, recall, F1.
+#     averaging ∈ {"micro", "macro"}  (micro is the usual choice).
+#     """
+#     # Convert labels to dictionary format expected by Bcubed
+#     # {item_id: {str(cluster_label)}} - labels are converted to strings and wrapped in a set.
+#     true_clusters_dict = {i: {str(label)} for i, label in enumerate(true_labels)}
+#     pred_clusters_dict = {i: {str(label)} for i, label in enumerate(pred_labels)}
+
+#     print(true_clusters_dict)
+#     print(pred_clusters_dict)
+#     bcubed = Bcubed(predicted_clustering=pred_clusters_dict, ground_truth_clustering=true_clusters_dict)
+#     metrics = bcubed.get_metrics()
+#     print(metrics)
+#     prec = metrics['precision']
+#     print(f"B-cubed Precision: {prec}")
+#     rec  = metrics['recall']
+#     f1   = metrics['fscore']
+#     return prec, rec, f1
 
 def split_foods(line):
     # Use a regular expression to split on commas that are not within parentheses
@@ -144,18 +174,18 @@ def clustering_precision_recall_hungarian(true_labels, pred_labels):
     
     # Create and print raw counts correspondence
     correspondence_raw = pd.crosstab(df['true'], df['pred'], dropna=False) # Keep all clusters
-    print("\nCluster Correspondence (Raw Counts):")
-    print(correspondence_raw)
+    # print("\nCluster Correspondence (Raw Counts):")
+    # print(correspondence_raw)
     
     # Calculate and print percentage overlap from true cluster perspective
     correspondence_pct_true = correspondence_raw.div(correspondence_raw.sum(axis=1), axis=0).fillna(0) * 100
-    print("\nCluster Correspondence (% of True Cluster):")
-    print(correspondence_pct_true)
+    # print("\nCluster Correspondence (% of True Cluster):")
+    # print(correspondence_pct_true)
     
     # Calculate and print percentage overlap from predicted cluster perspective
     correspondence_pct_pred = correspondence_raw.div(correspondence_raw.sum(axis=0), axis=1).fillna(0) * 100
     print("\nCluster Correspondence (% of Predicted Cluster):")
-    print(correspondence_pct_pred)
+    # print(correspondence_pct_pred)
 
     # Hungarian algorithm to maximize cluster alignment
     # Use the cost matrix (negative counts) for maximization with linear_sum_assignment
@@ -198,9 +228,9 @@ def clustering_precision_recall_hungarian(true_labels, pred_labels):
             total_pred = cm[:, j].sum()
             if total_true > 0 and total_pred > 0: 
                  matched_pairs.append((i, j)) # Store valid matched indices
-                 print(f"True Cluster '{true_cluster}' matched with Predicted Cluster '{pred_cluster}'")
-                 print(f"  Overlap: {overlap} items")
-                 print(f"  Coverage: {overlap/total_true*100:.1f}% of true cluster, {overlap/total_pred*100:.1f}% of predicted cluster")
+                #  print(f"True Cluster '{true_cluster}' matched with Predicted Cluster '{pred_cluster}'")
+                #  print(f"  Overlap: {overlap} items")
+                #  print(f"  Coverage: {overlap/total_true*100:.1f}% of true cluster, {overlap/total_pred*100:.1f}% of predicted cluster")
             # else:
                  # Optional: print info about empty clusters being ignored in matching
                  # print(f"  (Ignoring match involving empty true/pred cluster: True='{true_cluster}', Pred='{pred_cluster}')")
@@ -361,14 +391,18 @@ def evaluate_clustering_algorithms(X_flat, presence_clusters_df_global, final_df
                     true_labels_common, 
                     pred_labels_common
                 )
+                # NEW ① Pair–counting FMI
+                fmi = fmi_pair_counting(true_labels_common, pred_labels_common)
+                # bcubed_prec, bcubed_rec, bcubed_f1 = bcubed_scores(pred_labels_common, true_labels_common, "micro")
+
             except ValueError as e:
                 print(f"Could not calculate supervised metrics for {algorithm_name}: {e}")
                 ari, nmi, homogeneity, completeness, v_measure = None, None, None, None, None
-                precision, recall, f1, micro_precision, micro_recall, micro_f1 = None, None, None, None, None, None
+                precision, recall, f1, micro_precision, micro_recall, micro_f1, fmi = None, None, None, None, None, None, None
             except Exception as e:
                  print(f"An unexpected error occurred during supervised metric calculation for {algorithm_name}: {e}")
                  ari, nmi, homogeneity, completeness, v_measure = None, None, None, None, None
-                 precision, recall, f1, micro_precision, micro_recall, micro_f1 = None, None, None, None, None, None
+                 precision, recall, f1, micro_precision, micro_recall, micro_f1, fmi = None, None, None, None, None, None, None
     
         # Store results for correspondence analysis if supervised metrics were calculated
         if ari is not None: # Use ARI as an indicator that supervised metrics were computed
@@ -399,6 +433,7 @@ def evaluate_clustering_algorithms(X_flat, presence_clusters_df_global, final_df
             'precision': precision,
             'recall': recall,
             'f1': f1,
+            'fmi': fmi,
             'micro_precision': micro_precision,
             'micro_recall': micro_recall,
             'micro_f1': micro_f1,
@@ -598,23 +633,23 @@ if not final_results.empty:
     final_results.to_csv(output_file, index=False)
     print(f"\nDetailed results saved to {output_file}")
 
-    # Re-enabled Correspondence saving
-    print(f'\nSaving {len(all_correspondences)} correspondence tables...')
-    correspondence_output_dir = "/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clustering_comparison_results/correspondence_tables_addition_embeddings/"
-    import os
-    os.makedirs(correspondence_output_dir, exist_ok=True) # Ensure directory exists
+    # # Re-enabled Correspondence saving
+    # print(f'\nSaving {len(all_correspondences)} correspondence tables...')
+    # correspondence_output_dir = "/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clustering_comparison_results/correspondence_tables_addition_embeddings/"
+    # import os
+    # os.makedirs(correspondence_output_dir, exist_ok=True) # Ensure directory exists
     
-    for name, corr in all_correspondences.items():
-        if corr is not None and isinstance(corr, pd.DataFrame):
-            try:
-                corr_filename = f"correspondence_{name}_flavordb_VS_additionEmbeddings_683_fixCupuaDragee.csv"
-                corr_filepath = os.path.join(correspondence_output_dir, corr_filename)
-                corr.to_csv(corr_filepath)
-                print(f"  Saved: {corr_filename}")
-            except Exception as e:
-                print(f"  Error saving correspondence table {name}: {e}")
-        else:
-             print(f"  Skipping invalid correspondence data for {name}.")
+    # for name, corr in all_correspondences.items():
+    #     if corr is not None and isinstance(corr, pd.DataFrame):
+    #         try:
+    #             corr_filename = f"correspondence_{name}_flavordb_VS_additionEmbeddings_683_fixCupuaDragee.csv"
+    #             corr_filepath = os.path.join(correspondence_output_dir, corr_filename)
+    #             corr.to_csv(corr_filepath)
+    #             print(f"  Saved: {corr_filename}")
+    #         except Exception as e:
+    #             print(f"  Error saving correspondence table {name}: {e}")
+    #     else:
+    #          print(f"  Skipping invalid correspondence data for {name}.")
 
 else:
     print("\nNo results were generated. Please check input files and logs.")
