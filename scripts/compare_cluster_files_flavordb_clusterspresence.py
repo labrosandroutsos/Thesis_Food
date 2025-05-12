@@ -476,8 +476,8 @@ def compare_cluster_files(cluster1_path, cluster2_path):
     
     # Save results
     metrics_df = pd.DataFrame([metrics])
-    metrics_df.to_csv("cluster_comparison_metrics_683flavordb_vs_foodb_initial_average_linkage_clusters_micro.csv", index=False)
-    correspondence.to_csv("cluster_correspondence_683flavordb_vs_foodb_initial_average_linkage_clusters_micro.csv")
+    metrics_df.to_csv("cluster_comparison_metrics_683flavordb_vs_foodb_initial_single_correct_linkage_clusters_jaccard_micro.csv", index=False)
+    correspondence.to_csv("cluster_correspondence_683flavordb_vs_foodb_initial_single_correct_linkage_clusters_jaccard_micro.csv")
     
     return metrics, correspondence
 
@@ -487,7 +487,8 @@ if __name__ == "__main__":
         # cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters.txt',  # First clustering file
         cluster1_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/clusters/flavordb_clusters/filtered_flavordb_clusters_683.txt',  # 683 foods clusters
         # cluster1_path='C:/Users/labro/Downloads/final_fully_coherent_clusters.txt',  # First clustering file
-        cluster2_path='compounds_presence/average_linkage_clusters.txt'  # Second clustering file
+        # cluster2_path='compounds_presence/average_linkage_clusters.txt'  # Second clustering file
+        cluster2_path='compounds_presence/single_correct_linkage_clusters_distance_30_clusters_jaccard.txt'  # Second clustering file
         # cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/average_linkage_clusters_reclustered_gemini_683.txt'  # Second clustering file
         # cluster2_path='/Users/lamprosandroutsos/Documents/Thesis/Thesis_Food/misc_clusters/refined_food_clusters_683_gemini_noMisc.txt'  # Second clustering file
         # cluster2_path="processed_flavordb_clusters.txt"
